@@ -1,0 +1,1232 @@
+# Binary Search [1D, 2D, Search Space]
+
+Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
+
+---
+
+## 📂 Lec 1: BS on 1D Arrays
+
+### 📄 Binary Search
+- **Difficulty**: Easy
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/binary-search/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/binary-search/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-search/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/binary-search)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Binary%20Search)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Binary%20Search)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/binary-search/)
+  - [Related problem B](https://leetcode.com/problems/binary-search/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/binary-search/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Easy, Interview
+
+---
+
+### 📄 Lower Bound Implementation
+- **Difficulty**: Easy
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/implement-lower-bound)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/implement-lower-bound/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implement-lower-bound/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/implement-lower-bound)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Lower%20Bound%20Implementation)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Lower%20Bound%20Implementation)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/implement-lower-bound)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/implement-lower-bound)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/implement-lower-bound)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Easy, Interview
+
+---
+
+### 📄 Upper Bound Implementation
+- **Difficulty**: Easy
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/implement-upper-bound)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/implement-upper-bound/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/implement-upper-bound)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Upper%20Bound%20Implementation)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Upper%20Bound%20Implementation)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/implement-upper-bound)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/implement-upper-bound)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/implement-upper-bound)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Easy, Interview
+
+---
+
+### 📄 Search Insert Position
+- **Difficulty**: Easy
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/search-insert-position/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/search-insert-position/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-insert-position/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/search-insert-position)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20Insert%20Position)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20Insert%20Position)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/search-insert-position/)
+  - [Related problem B](https://leetcode.com/problems/search-insert-position/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/search-insert-position/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Easy, Interview
+
+---
+
+### 📄 Floor and Ceil in Sorted Array
+- **Difficulty**: Easy
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/floor-ceil)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/floor-ceil/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/floor-ceil/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/floor-ceil)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Floor%20and%20Ceil%20in%20Sorted%20Array)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Floor%20and%20Ceil%20in%20Sorted%20Array)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/floor-ceil)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/floor-ceil)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/floor-ceil)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Easy, Interview
+
+---
+
+### 📄 First and Last Occurrence of Key
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-first-and-last-position-of-element-in-sorted-array/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-first-and-last-position-of-element-in-sorted-array)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+First%20and%20Last%20Occurrence%20of%20Key)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+First%20and%20Last%20Occurrence%20of%20Key)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  - [Related problem B](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Count Occurrences in Sorted Array
+- **Difficulty**: Easy
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/count-occurrences/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/count-occurrences/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/count-occurrences/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/count-occurrences)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Count%20Occurrences%20in%20Sorted%20Array)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Occurrences%20in%20Sorted%20Array)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/count-occurrences/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/count-occurrences/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/count-occurrences/1)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Easy, Interview
+
+---
+
+### 📄 Search in Rotated Sorted Array I
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-in-rotated-sorted-array/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/search-in-rotated-sorted-array)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20in%20Rotated%20Sorted%20Array%20I)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20Rotated%20Sorted%20Array%20I)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - [Related problem B](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Search in Rotated Sorted Array II
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-in-rotated-sorted-array-ii/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/search-in-rotated-sorted-array-ii)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20in%20Rotated%20Sorted%20Array%20II)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20Rotated%20Sorted%20Array%20II)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+  - [Related problem B](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Find Minimum in Rotated Sorted Array
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-minimum-in-rotated-sorted-array/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-minimum-in-rotated-sorted-array)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Minimum%20in%20Rotated%20Sorted%20Array)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Minimum%20in%20Rotated%20Sorted%20Array)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+  - [Related problem B](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Single Element in Sorted Array
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/single-element-in-a-sorted-array/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/single-element-in-a-sorted-array)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Single%20Element%20in%20Sorted%20Array)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Single%20Element%20in%20Sorted%20Array)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+  - [Related problem B](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Find Peak Element
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/find-peak-element/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/find-peak-element/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-peak-element/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-peak-element)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Peak%20Element)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Peak%20Element)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/find-peak-element/)
+  - [Related problem B](https://leetcode.com/problems/find-peak-element/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/find-peak-element/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📊 Topic Summary (Lec 1: BS on 1D Arrays)
+- **Problems**: 12
+- **Easy**: 6 | **Medium**: 6 | **Hard**: 0
+- **Estimated Time**: 9 hours
+- **Estimated Revision Time**: 3 hours
+
+---
+
+## 📂 Lec 2: BS on Answers
+
+### 📄 Square Root of an Integer
+- **Difficulty**: Easy
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/square-root/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/square-root/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/square-root/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/square-root)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Square%20Root%20of%20an%20Integer)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Square%20Root%20of%20an%20Integer)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/square-root/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/square-root/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/square-root/1)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Easy, Interview
+
+---
+
+### 📄 Nth Root of an Integer
+- **Difficulty**: Easy
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/nth-root/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/nth-root/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/nth-root/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/nth-root)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Nth%20Root%20of%20an%20Integer)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Nth%20Root%20of%20an%20Integer)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/nth-root/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/nth-root/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/nth-root/1)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Easy, Interview
+
+---
+
+### 📄 Koko Eating Bananas
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/koko-eating-bananas/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/koko-eating-bananas/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/koko-eating-bananas)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Koko%20Eating%20Bananas)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Koko%20Eating%20Bananas)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N log M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/koko-eating-bananas/)
+  - [Related problem B](https://leetcode.com/problems/koko-eating-bananas/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/koko-eating-bananas/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Minimum Days to Make M Bouquets
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-number-of-days-to-make-m-bouquets/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/minimum-number-of-days-to-make-m-bouquets)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimum%20Days%20to%20Make%20M%20Bouquets)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Days%20to%20Make%20M%20Bouquets)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N log M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+  - [Related problem B](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Smallest Divisor Given a Threshold
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-the-smallest-divisor-given-a-threshold/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-the-smallest-divisor-given-a-threshold)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Smallest%20Divisor%20Given%20a%20Threshold)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Smallest%20Divisor%20Given%20a%20Threshold)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N log M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+  - [Related problem B](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Capacity to Ship Packages Within D Days
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/capacity-to-ship-packages-within-d-days)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Capacity%20to%20Ship%20Packages%20Within%20D%20Days)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Capacity%20to%20Ship%20Packages%20Within%20D%20Days)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N log M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+  - [Related problem B](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Kth Missing Positive Number
+- **Difficulty**: Easy
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/kth-missing-positive-number/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/kth-missing-positive-number/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/kth-missing-positive-number)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kth%20Missing%20Positive%20Number)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kth%20Missing%20Positive%20Number)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/kth-missing-positive-number/)
+  - [Related problem B](https://leetcode.com/problems/kth-missing-positive-number/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/kth-missing-positive-number/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Easy, Interview
+
+---
+
+### 📄 Aggressive Cows
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/aggressive-cows/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/aggressive-cows/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/aggressive-cows)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Aggressive%20Cows)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Aggressive%20Cows)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N log M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/aggressive-cows/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/aggressive-cows/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/aggressive-cows/1)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Book Allocation Problem
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/allocate-books)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/allocate-books/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/allocate-books/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/allocate-books)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Book%20Allocation%20Problem)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Book%20Allocation%20Problem)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N log M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/allocate-books)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/allocate-books)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/allocate-books)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Split Array Largest Sum
+- **Difficulty**: Hard
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/split-array-largest-sum/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/split-array-largest-sum/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/split-array-largest-sum/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/split-array-largest-sum)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Split%20Array%20Largest%20Sum)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Split%20Array%20Largest%20Sum)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N log M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/split-array-largest-sum/)
+  - [Related problem B](https://leetcode.com/problems/split-array-largest-sum/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/split-array-largest-sum/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Hard, Interview
+
+---
+
+### 📄 Painter's Partition
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/painters-partition)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/painters-partition/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/painters-partition/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/painters-partition)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Painter's%20Partition)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Painter's%20Partition)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N log M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/painters-partition)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/painters-partition)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/painters-partition)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Minimize Max Distance to Gas Station
+- **Difficulty**: Hard
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/minimize-max-distance-to-gas-station)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimize%20Max%20Distance%20to%20Gas%20Station)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimize%20Max%20Distance%20to%20Gas%20Station)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N log M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Hard, Interview
+
+---
+
+### 📄 Median of Two Sorted Arrays
+- **Difficulty**: Hard
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/median-of-two-sorted-arrays/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/median-of-two-sorted-arrays)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Median%20of%20Two%20Sorted%20Arrays)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Median%20of%20Two%20Sorted%20Arrays)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(log(min(N,M)))
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+  - [Related problem B](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Hard, Interview
+
+---
+
+### 📄 Kth Element of Two Sorted Arrays
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/kth-element-of-two-sorted-arrays/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/kth-element-of-two-sorted-arrays/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/kth-element-of-two-sorted-arrays/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/kth-element-of-two-sorted-arrays)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kth%20Element%20of%20Two%20Sorted%20Arrays)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kth%20Element%20of%20Two%20Sorted%20Arrays)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(log(min(N,M)))
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/kth-element-of-two-sorted-arrays/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/kth-element-of-two-sorted-arrays/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/kth-element-of-two-sorted-arrays/1)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📊 Topic Summary (Lec 2: BS on Answers)
+- **Problems**: 14
+- **Easy**: 3 | **Medium**: 8 | **Hard**: 3
+- **Estimated Time**: 20 hours
+- **Estimated Revision Time**: 6 hours
+
+---
+
+## 📂 Lec 3: BS on 2D Arrays
+
+### 📄 Row with Max 1s
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/row-with-max-1s/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/row-with-max-1s/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/row-with-max-1s/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/row-with-max-1s)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Row%20with%20Max%201s)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Row%20with%20Max%201s)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N + M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/row-with-max-1s/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/row-with-max-1s/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/row-with-max-1s/1)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Search in a 2D Matrix I
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/search-a-2d-matrix/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-a-2d-matrix/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/search-a-2d-matrix)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20in%20a%202D%20Matrix%20I)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20a%202D%20Matrix%20I)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(log(N*M))
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/search-a-2d-matrix/)
+  - [Related problem B](https://leetcode.com/problems/search-a-2d-matrix/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/search-a-2d-matrix/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Search in a 2D Matrix II
+- **Difficulty**: Medium
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-a-2d-matrix-ii/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/search-a-2d-matrix-ii)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20in%20a%202D%20Matrix%20II)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20a%202D%20Matrix%20II)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N + M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+  - [Related problem B](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Medium, Interview
+
+---
+
+### 📄 Find Peak Element in 2D Matrix
+- **Difficulty**: Hard
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/find-a-peak-element-ii/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/find-a-peak-element-ii/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-a-peak-element-ii/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-a-peak-element-ii)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Peak%20Element%20in%202D%20Matrix)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Peak%20Element%20in%202D%20Matrix)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(M log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/find-a-peak-element-ii/)
+  - [Related problem B](https://leetcode.com/problems/find-a-peak-element-ii/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/find-a-peak-element-ii/)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Hard, Interview
+
+---
+
+### 📄 Median in Row-wise Sorted Matrix
+- **Difficulty**: Hard
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/matrix-median/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/matrix-median/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/matrix-median/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/matrix-median)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Median%20in%20Row-wise%20Sorted%20Matrix)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Median%20in%20Row-wise%20Sorted%20Matrix)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(32 * N log M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/matrix-median/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/matrix-median/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/matrix-median/1)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Hard, Interview
+
+---
+
+### 📊 Topic Summary (Lec 3: BS on 2D Arrays)
+- **Problems**: 5
+- **Easy**: 0 | **Medium**: 3 | **Hard**: 2
+- **Estimated Time**: 24 hours
+- **Estimated Revision Time**: 8 hours
+
+---
+
+## 📈 Step 4 Dashboard & Summary
+
+### 🏁 Lectures & Topics Covered
+- **Lec 1: BS on 1D Arrays** - 12 Problems
+- **Lec 2: BS on Answers** - 14 Problems
+- **Lec 3: BS on 2D Arrays** - 5 Problems
+
+### 📊 Aggregated Metrics
+- **Total Problems**: 31
+- **Easy Problems**: 9
+- **Medium Problems**: 17
+- **Hard Problems**: 5
+- **Estimated Learning Time**: 24 hours
+- **Estimated Revision Time**: 8 hours
+
+### 🔑 Unlocked Concepts & Skills
+- Advanced algorithmic approaches and structural mappings.
+- Complex state calculations and optimizations.

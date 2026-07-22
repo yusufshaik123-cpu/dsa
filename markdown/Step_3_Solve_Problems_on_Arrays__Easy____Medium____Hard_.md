@@ -1,0 +1,1574 @@
+# Solve Problems on Arrays [Easy -> Medium -> Hard]
+
+Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
+
+---
+
+## 📂 Lec 1: Easy
+
+### 📄 Largest Element in Array
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/largest-element/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/largest-element/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-element/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/largest-element)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Largest%20Element%20in%20Array)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Largest%20Element%20in%20Array)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/largest-element/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/largest-element/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/largest-element/1)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Second Largest Element in Array
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/second-largest/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/second-largest/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/second-largest/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/second-largest)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Second%20Largest%20Element%20in%20Array)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Second%20Largest%20Element%20in%20Array)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/second-largest/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/second-largest/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/second-largest/1)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Check if Array is Sorted
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/check-if-array-is-sorted/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/check-if-array-is-sorted/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/check-if-array-is-sorted)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Check%20if%20Array%20is%20Sorted)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Check%20if%20Array%20is%20Sorted)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/check-if-array-is-sorted/)
+  - [Related problem B](https://leetcode.com/problems/check-if-array-is-sorted/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/check-if-array-is-sorted/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Remove Duplicates from Sorted Array
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/remove-duplicates-from-sorted-array/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/remove-duplicates-from-sorted-array)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Remove%20Duplicates%20from%20Sorted%20Array)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Remove%20Duplicates%20from%20Sorted%20Array)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+  - [Related problem B](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Left Rotate Array by One
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/left-rotate-array-by-one)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/left-rotate-array-by-one/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/left-rotate-array-by-one/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/left-rotate-array-by-one)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Left%20Rotate%20Array%20by%20One)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Left%20Rotate%20Array%20by%20One)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/left-rotate-array-by-one)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/left-rotate-array-by-one)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/left-rotate-array-by-one)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Left Rotate Array by D Places
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/rotate-array/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/rotate-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/rotate-array/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/rotate-array)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Left%20Rotate%20Array%20by%20D%20Places)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Left%20Rotate%20Array%20by%20D%20Places)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/rotate-array/)
+  - [Related problem B](https://leetcode.com/problems/rotate-array/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/rotate-array/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Move Zeroes to End
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/move-zeroes/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/move-zeroes/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/move-zeroes/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/move-zeroes)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Move%20Zeroes%20to%20End)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Move%20Zeroes%20to%20End)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/move-zeroes/)
+  - [Related problem B](https://leetcode.com/problems/move-zeroes/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/move-zeroes/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Linear Search
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/linear-search)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/linear-search/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/linear-search/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/linear-search)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Linear%20Search)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Linear%20Search)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/linear-search)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/linear-search)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/linear-search)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Find Union of Two Sorted Arrays
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/union-of-two-sorted-arrays/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/union-of-two-sorted-arrays)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Union%20of%20Two%20Sorted%20Arrays)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Union%20of%20Two%20Sorted%20Arrays)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N+M)
+- **Space Complexity**: O(N+M)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Find Missing Number
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/missing-number/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/missing-number/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/missing-number/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/missing-number)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Missing%20Number)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Missing%20Number)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/missing-number/)
+  - [Related problem B](https://leetcode.com/problems/missing-number/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/missing-number/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Max Consecutive Ones
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/max-consecutive-ones/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/max-consecutive-ones/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/max-consecutive-ones/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/max-consecutive-ones)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Max%20Consecutive%20Ones)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Max%20Consecutive%20Ones)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/max-consecutive-ones/)
+  - [Related problem B](https://leetcode.com/problems/max-consecutive-ones/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/max-consecutive-ones/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Single Number
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/single-number/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/single-number/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/single-number/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/single-number)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Single%20Number)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Single%20Number)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/single-number/)
+  - [Related problem B](https://leetcode.com/problems/single-number/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/single-number/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Longest Subarray with Sum K (Positives)
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/longest-subarray-with-sum-k/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-k/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Subarray%20with%20Sum%20K%20(Positives))
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Subarray%20with%20Sum%20K%20(Positives))
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Longest Subarray with Sum K (Positives + Negatives)
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k-pos-neg)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/longest-subarray-with-sum-k-pos-neg/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-k-pos-neg/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k-pos-neg)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Subarray%20with%20Sum%20K%20(Positives%20%2B%20Negatives))
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Subarray%20with%20Sum%20K%20(Positives%20%2B%20Negatives))
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(N)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k-pos-neg)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k-pos-neg)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k-pos-neg)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📊 Topic Summary (Lec 1: Easy)
+- **Problems**: 14
+- **Easy**: 14 | **Medium**: 0 | **Hard**: 0
+- **Estimated Time**: 11 hours
+- **Estimated Revision Time**: 4 hours
+
+---
+
+## 📂 Lec 2: Medium
+
+### 📄 Two Sum
+- **Difficulty**: Medium
+- **Problem Pattern**: Array/HashMap
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/two-sum/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/two-sum/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/two-sum/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/two-sum)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Two%20Sum)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Two%20Sum)
+- **Prerequisites**:
+  - Requires: Basics of Array/HashMap
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(N)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/two-sum/)
+  - [Related problem B](https://leetcode.com/problems/two-sum/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/two-sum/)
+- **Learning Lists**: Not Included
+- **Tags**: Array/HashMap, Medium, Interview
+
+---
+
+### 📄 Sort Colors (0s, 1s, and 2s)
+- **Difficulty**: Medium
+- **Problem Pattern**: Two Pointer
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/sort-colors/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/sort-colors/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/sort-colors/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/sort-colors)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Sort%20Colors%20(0s%2C%201s%2C%20and%202s))
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Sort%20Colors%20(0s%2C%201s%2C%20and%202s))
+- **Prerequisites**:
+  - Requires: Basics of Two Pointer
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/sort-colors/)
+  - [Related problem B](https://leetcode.com/problems/sort-colors/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/sort-colors/)
+- **Learning Lists**: Not Included
+- **Tags**: Two Pointer, Medium, Interview
+
+---
+
+### 📄 Majority Element (> N/2 times)
+- **Difficulty**: Medium
+- **Problem Pattern**: Math/Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/majority-element/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/majority-element/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/majority-element/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/majority-element)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Majority%20Element%20(%3E%20N%2F2%20times))
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Majority%20Element%20(%3E%20N%2F2%20times))
+- **Prerequisites**:
+  - Requires: Basics of Math/Array
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/majority-element/)
+  - [Related problem B](https://leetcode.com/problems/majority-element/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/majority-element/)
+- **Learning Lists**: Not Included
+- **Tags**: Math/Array, Medium, Interview
+
+---
+
+### 📄 Maximum Subarray Sum (Kadane's)
+- **Difficulty**: Medium
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/maximum-subarray/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/maximum-subarray/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-subarray/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/maximum-subarray)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20Subarray%20Sum%20(Kadane's))
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20Subarray%20Sum%20(Kadane's))
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/maximum-subarray/)
+  - [Related problem B](https://leetcode.com/problems/maximum-subarray/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/maximum-subarray/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Medium, Interview
+
+---
+
+### 📄 Print Maximum Subarray
+- **Difficulty**: Medium
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/print-maximum-subarray)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/print-maximum-subarray/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/print-maximum-subarray/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/print-maximum-subarray)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Print%20Maximum%20Subarray)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Print%20Maximum%20Subarray)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/print-maximum-subarray)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/print-maximum-subarray)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/print-maximum-subarray)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Medium, Interview
+
+---
+
+### 📄 Stock Buy and Sell
+- **Difficulty**: Medium
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Stock%20Buy%20and%20Sell)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Stock%20Buy%20and%20Sell)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - [Related problem B](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Medium, Interview
+
+---
+
+### 📄 Rearrange Array Elements by Sign
+- **Difficulty**: Medium
+- **Problem Pattern**: Two Pointer
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/rearrange-array-elements-by-sign/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/rearrange-array-elements-by-sign)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Rearrange%20Array%20Elements%20by%20Sign)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Rearrange%20Array%20Elements%20by%20Sign)
+- **Prerequisites**:
+  - Requires: Basics of Two Pointer
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(N)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+  - [Related problem B](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+- **Learning Lists**: Not Included
+- **Tags**: Two Pointer, Medium, Interview
+
+---
+
+### 📄 Next Permutation
+- **Difficulty**: Medium
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/next-permutation/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/next-permutation/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/next-permutation/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/next-permutation)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Next%20Permutation)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Next%20Permutation)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/next-permutation/)
+  - [Related problem B](https://leetcode.com/problems/next-permutation/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/next-permutation/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Medium, Interview
+
+---
+
+### 📄 Leaders in an Array
+- **Difficulty**: Medium
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/leaders-in-an-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/leaders-in-an-array/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/leaders-in-an-array)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Leaders%20in%20an%20Array)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Leaders%20in%20an%20Array)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/leaders-in-an-array/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/leaders-in-an-array/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/leaders-in-an-array/1)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Medium, Interview
+
+---
+
+### 📄 Longest Consecutive Sequence
+- **Difficulty**: Medium
+- **Problem Pattern**: HashSet
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/longest-consecutive-sequence/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-consecutive-sequence/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/longest-consecutive-sequence)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Consecutive%20Sequence)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Consecutive%20Sequence)
+- **Prerequisites**:
+  - Requires: Basics of HashSet
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(N)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/longest-consecutive-sequence/)
+  - [Related problem B](https://leetcode.com/problems/longest-consecutive-sequence/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/longest-consecutive-sequence/)
+- **Learning Lists**: Not Included
+- **Tags**: HashSet, Medium, Interview
+
+---
+
+### 📄 Set Matrix Zeroes
+- **Difficulty**: Medium
+- **Problem Pattern**: Matrix
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/set-matrix-zeroes/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/set-matrix-zeroes)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Set%20Matrix%20Zeroes)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Set%20Matrix%20Zeroes)
+- **Prerequisites**:
+  - Requires: Basics of Matrix
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N*M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/set-matrix-zeroes/)
+  - [Related problem B](https://leetcode.com/problems/set-matrix-zeroes/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/set-matrix-zeroes/)
+- **Learning Lists**: Not Included
+- **Tags**: Matrix, Medium, Interview
+
+---
+
+### 📄 Rotate Matrix by 90 Degrees
+- **Difficulty**: Medium
+- **Problem Pattern**: Matrix
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/rotate-image/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/rotate-image/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/rotate-image/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/rotate-image)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Rotate%20Matrix%20by%2090%20Degrees)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Rotate%20Matrix%20by%2090%20Degrees)
+- **Prerequisites**:
+  - Requires: Basics of Matrix
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N^2)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/rotate-image/)
+  - [Related problem B](https://leetcode.com/problems/rotate-image/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/rotate-image/)
+- **Learning Lists**: Not Included
+- **Tags**: Matrix, Medium, Interview
+
+---
+
+### 📄 Spiral Matrix
+- **Difficulty**: Medium
+- **Problem Pattern**: Matrix
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/spiral-matrix/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/spiral-matrix/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/spiral-matrix/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/spiral-matrix)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Spiral%20Matrix)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Spiral%20Matrix)
+- **Prerequisites**:
+  - Requires: Basics of Matrix
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N*M)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/spiral-matrix/)
+  - [Related problem B](https://leetcode.com/problems/spiral-matrix/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/spiral-matrix/)
+- **Learning Lists**: Not Included
+- **Tags**: Matrix, Medium, Interview
+
+---
+
+### 📄 Subarray Sum Equals K
+- **Difficulty**: Medium
+- **Problem Pattern**: HashMap
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/subarray-sum-equals-k/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/subarray-sum-equals-k/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/subarray-sum-equals-k)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Subarray%20Sum%20Equals%20K)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Subarray%20Sum%20Equals%20K)
+- **Prerequisites**:
+  - Requires: Basics of HashMap
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 30-60 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(N)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/subarray-sum-equals-k/)
+  - [Related problem B](https://leetcode.com/problems/subarray-sum-equals-k/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/subarray-sum-equals-k/)
+- **Learning Lists**: Not Included
+- **Tags**: HashMap, Medium, Interview
+
+---
+
+### 📊 Topic Summary (Lec 2: Medium)
+- **Problems**: 14
+- **Easy**: 0 | **Medium**: 14 | **Hard**: 0
+- **Estimated Time**: 21 hours
+- **Estimated Revision Time**: 7 hours
+
+---
+
+## 📂 Lec 3: Hard
+
+### 📄 Pascal's Triangle
+- **Difficulty**: Hard
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/pascals-triangle/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/pascals-triangle/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/pascals-triangle/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/pascals-triangle)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Pascal's%20Triangle)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Pascal's%20Triangle)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N^2)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/pascals-triangle/)
+  - [Related problem B](https://leetcode.com/problems/pascals-triangle/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/pascals-triangle/)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Hard, Interview
+
+---
+
+### 📄 Majority Element (> N/3 times)
+- **Difficulty**: Hard
+- **Problem Pattern**: Math/Array
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/majority-element-ii/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/majority-element-ii/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/majority-element-ii/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/majority-element-ii)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Majority%20Element%20(%3E%20N%2F3%20times))
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Majority%20Element%20(%3E%20N%2F3%20times))
+- **Prerequisites**:
+  - Requires: Basics of Math/Array
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/majority-element-ii/)
+  - [Related problem B](https://leetcode.com/problems/majority-element-ii/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/majority-element-ii/)
+- **Learning Lists**: Not Included
+- **Tags**: Math/Array, Hard, Interview
+
+---
+
+### 📄 3-Sum
+- **Difficulty**: Hard
+- **Problem Pattern**: Two Pointer
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/3sum/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/3sum/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/3sum/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/3sum)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+3-Sum)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+3-Sum)
+- **Prerequisites**:
+  - Requires: Basics of Two Pointer
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N^2)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/3sum/)
+  - [Related problem B](https://leetcode.com/problems/3sum/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/3sum/)
+- **Learning Lists**: Not Included
+- **Tags**: Two Pointer, Hard, Interview
+
+---
+
+### 📄 4-Sum
+- **Difficulty**: Hard
+- **Problem Pattern**: Two Pointer
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/4sum/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/4sum/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/4sum/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/4sum)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+4-Sum)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+4-Sum)
+- **Prerequisites**:
+  - Requires: Basics of Two Pointer
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N^3)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/4sum/)
+  - [Related problem B](https://leetcode.com/problems/4sum/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/4sum/)
+- **Learning Lists**: Not Included
+- **Tags**: Two Pointer, Hard, Interview
+
+---
+
+### 📄 Longest Subarray with 0 Sum
+- **Difficulty**: Hard
+- **Problem Pattern**: HashMap
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/largest-subarray-with-0-sum/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/largest-subarray-with-0-sum)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Subarray%20with%200%20Sum)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Subarray%20with%200%20Sum)
+- **Prerequisites**:
+  - Requires: Basics of HashMap
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(N)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+- **Learning Lists**: Not Included
+- **Tags**: HashMap, Hard, Interview
+
+---
+
+### 📄 Subarrays with XOR K
+- **Difficulty**: Hard
+- **Problem Pattern**: HashMap
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/subarrays-with-xor-k/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/subarrays-with-xor-k/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Subarrays%20with%20XOR%20K)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Subarrays%20with%20XOR%20K)
+- **Prerequisites**:
+  - Requires: Basics of HashMap
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(N)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k)
+- **Learning Lists**: Not Included
+- **Tags**: HashMap, Hard, Interview
+
+---
+
+### 📄 Merge Overlapping Intervals
+- **Difficulty**: Hard
+- **Problem Pattern**: Sorting
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/merge-intervals/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/merge-intervals/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/merge-intervals/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/merge-intervals)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Merge%20Overlapping%20Intervals)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Merge%20Overlapping%20Intervals)
+- **Prerequisites**:
+  - Requires: Basics of Sorting
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/merge-intervals/)
+  - [Related problem B](https://leetcode.com/problems/merge-intervals/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/merge-intervals/)
+- **Learning Lists**: Not Included
+- **Tags**: Sorting, Hard, Interview
+
+---
+
+### 📄 Merge Sorted Arrays without Extra Space
+- **Difficulty**: Hard
+- **Problem Pattern**: Two Pointer
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/merge-sorted-array/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/merge-sorted-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/merge-sorted-array/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/merge-sorted-array)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Merge%20Sorted%20Arrays%20without%20Extra%20Space)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Merge%20Sorted%20Arrays%20without%20Extra%20Space)
+- **Prerequisites**:
+  - Requires: Basics of Two Pointer
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O((N+M) log(N+M))
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/merge-sorted-array/)
+  - [Related problem B](https://leetcode.com/problems/merge-sorted-array/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/merge-sorted-array/)
+- **Learning Lists**: Not Included
+- **Tags**: Two Pointer, Hard, Interview
+
+---
+
+### 📄 Find Duplicate and Missing Number
+- **Difficulty**: Hard
+- **Problem Pattern**: Math/Hashing
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/missing-and-repeating)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/missing-and-repeating/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/missing-and-repeating/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/missing-and-repeating)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Duplicate%20and%20Missing%20Number)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Duplicate%20and%20Missing%20Number)
+- **Prerequisites**:
+  - Requires: Basics of Math/Hashing
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/missing-and-repeating)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/missing-and-repeating)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/missing-and-repeating)
+- **Learning Lists**: Not Included
+- **Tags**: Math/Hashing, Hard, Interview
+
+---
+
+### 📄 Number of Inversions
+- **Difficulty**: Hard
+- **Problem Pattern**: Merge Sort
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/inversion-of-array/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/inversion-of-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/inversion-of-array)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Number%20of%20Inversions)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20Inversions)
+- **Prerequisites**:
+  - Requires: Basics of Merge Sort
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N log N)
+- **Space Complexity**: O(N)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/inversion-of-array/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/inversion-of-array/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/inversion-of-array/1)
+- **Learning Lists**: Not Included
+- **Tags**: Merge Sort, Hard, Interview
+
+---
+
+### 📄 Reverse Pairs
+- **Difficulty**: Hard
+- **Problem Pattern**: Merge Sort
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/reverse-pairs/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/reverse-pairs/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/reverse-pairs/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/reverse-pairs)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Reverse%20Pairs)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Reverse%20Pairs)
+- **Prerequisites**:
+  - Requires: Basics of Merge Sort
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N log N)
+- **Space Complexity**: O(N)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/reverse-pairs/)
+  - [Related problem B](https://leetcode.com/problems/reverse-pairs/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/reverse-pairs/)
+- **Learning Lists**: Not Included
+- **Tags**: Merge Sort, Hard, Interview
+
+---
+
+### 📄 Maximum Product Subarray
+- **Difficulty**: Hard
+- **Problem Pattern**: Dynamic Programming
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/maximum-product-subarray/)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/maximum-product-subarray/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-product-subarray/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/maximum-product-subarray)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20Product%20Subarray)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20Product%20Subarray)
+- **Prerequisites**:
+  - Requires: Basics of Dynamic Programming
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
+- **Estimated Solve Time**: 60-120 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://leetcode.com/problems/maximum-product-subarray/)
+  - [Related problem B](https://leetcode.com/problems/maximum-product-subarray/)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://leetcode.com/problems/maximum-product-subarray/)
+- **Learning Lists**: Not Included
+- **Tags**: Dynamic Programming, Hard, Interview
+
+---
+
+### 📊 Topic Summary (Lec 3: Hard)
+- **Problems**: 12
+- **Easy**: 0 | **Medium**: 0 | **Hard**: 12
+- **Estimated Time**: 30 hours
+- **Estimated Revision Time**: 9 hours
+
+---
+
+## 📈 Step 3 Dashboard & Summary
+
+### 🏁 Lectures & Topics Covered
+- **Lec 1: Easy** - 14 Problems
+- **Lec 2: Medium** - 14 Problems
+- **Lec 3: Hard** - 12 Problems
+
+### 📊 Aggregated Metrics
+- **Total Problems**: 40
+- **Easy Problems**: 14
+- **Medium Problems**: 14
+- **Hard Problems**: 12
+- **Estimated Learning Time**: 30 hours
+- **Estimated Revision Time**: 9 hours
+
+### 🔑 Unlocked Concepts & Skills
+- Advanced algorithmic approaches and structural mappings.
+- Complex state calculations and optimizations.
