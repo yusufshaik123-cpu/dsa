@@ -9,11 +9,10 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 ### 📄 Introduction to Trees
 - **Difficulty**: Easy
 - **Problem Pattern**: Binary Tree
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/introduction-to-trees)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/binary-tree-representation/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/introduction-to-trees/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/introduction-to-trees/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/introduction-to-trees)
+  - [LeetCode](https://leetcode.com/problems/binary-tree-representation/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-tree-representation/1)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Introduction%20to%20Trees)
@@ -21,8 +20,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Introduction%20to%20Trees)
 - **Prerequisites**:
   - Requires: Basics of Binary Tree
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -35,10 +34,10 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/introduction-to-trees)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/introduction-to-trees)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/binary-tree-representation/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/binary-tree-representation/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/introduction-to-trees)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/binary-tree-representation/1)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Tree, Easy, Interview
 
@@ -47,11 +46,10 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 ### 📄 Binary Tree Representation
 - **Difficulty**: Easy
 - **Problem Pattern**: Binary Tree
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/binary-tree-representation)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/binary-tree-representation/1)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/binary-tree-representation/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-tree-representation/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/binary-tree-representation)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Binary%20Tree%20Representation)
@@ -59,8 +57,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Binary%20Tree%20Representation)
 - **Prerequisites**:
   - Requires: Basics of Binary Tree
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -73,10 +71,10 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/binary-tree-representation)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/binary-tree-representation)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/binary-tree-representation/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/binary-tree-representation/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/binary-tree-representation)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/binary-tree-representation/1)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Tree, Easy, Interview
 
@@ -89,7 +87,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-tree-preorder-traversal/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/binary-tree-preorder-traversal)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Preorder%20Traversal%20of%20Binary%20Tree)
@@ -98,7 +95,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DFS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -127,7 +124,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-tree-inorder-traversal/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/binary-tree-inorder-traversal)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Inorder%20Traversal%20of%20Binary%20Tree)
@@ -165,7 +161,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-tree-postorder-traversal/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/binary-tree-postorder-traversal)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Postorder%20Traversal%20of%20Binary%20Tree)
@@ -174,7 +169,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DFS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -203,7 +198,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-tree-level-order-traversal/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/binary-tree-level-order-traversal)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Level%20Order%20Traversal)
@@ -212,7 +206,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BFS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -237,11 +231,10 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 ### 📄 Iterative Traversals (Pre, In, Post)
 - **Difficulty**: Medium
 - **Problem Pattern**: DFS
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/iterative-traversals)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/iterative-traversals/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/iterative-traversals/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/iterative-traversals)
+  - [LeetCode](https://leetcode.com/problems/preorder-traversal-iterative/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Iterative%20Traversals%20(Pre%2C%20In%2C%20Post))
@@ -249,8 +242,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Iterative%20Traversals%20(Pre%2C%20In%2C%20Post))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -263,10 +256,10 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/iterative-traversals)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/iterative-traversals)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/iterative-traversals)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1)
 - **Learning Lists**: Not Included
 - **Tags**: DFS, Medium, Interview
 
@@ -289,7 +282,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/maximum-depth-of-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Height%20of%20Binary%20Tree)
@@ -297,8 +289,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Height%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -327,7 +319,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/balanced-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/balanced-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/balanced-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Balanced%20Binary%20Tree%20Check)
@@ -335,7 +326,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Balanced%20Binary%20Tree%20Check)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -365,7 +356,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/diameter-of-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Diameter%20of%20Binary%20Tree)
@@ -373,8 +363,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Diameter%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -403,7 +393,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-tree-maximum-path-sum/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/binary-tree-maximum-path-sum)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Binary%20Tree%20Maximum%20Path%20Sum)
@@ -411,8 +400,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Binary%20Tree%20Maximum%20Path%20Sum)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -441,7 +430,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/same-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/same-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/same-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Check%20if%20Two%20Trees%20are%20Identical)
@@ -449,7 +437,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Check%20if%20Two%20Trees%20are%20Identical)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -479,7 +467,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-tree-zigzag-level-order-traversal/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/binary-tree-zigzag-level-order-traversal)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Zigzag%20Level%20Order%20Traversal)
@@ -487,8 +474,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Zigzag%20Level%20Order%20Traversal)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -517,7 +504,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/boundary-traversal-of-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/boundary-traversal-of-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Boundary%20Traversal%20of%20Binary%20Tree)
@@ -525,8 +511,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Boundary%20Traversal%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -555,7 +541,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/vertical-order-traversal/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/vertical-order-traversal/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/vertical-order-traversal)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Vertical%20Order%20Traversal)
@@ -563,8 +548,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Vertical%20Order%20Traversal)
 - **Prerequisites**:
   - Requires: Basics of BFS/DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -593,7 +578,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/top-view-of-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/top-view-of-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Top%20View%20of%20Binary%20Tree)
@@ -602,7 +586,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BFS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -631,7 +615,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/bottom-view-of-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/bottom-view-of-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Bottom%20View%20of%20Binary%20Tree)
@@ -639,8 +622,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Bottom%20View%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -669,7 +652,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-tree-right-side-view/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/binary-tree-right-side-view)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Left%2FRight%20View%20of%20Binary%20Tree)
@@ -677,7 +659,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Left%2FRight%20View%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -707,7 +689,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/symmetric-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/symmetric-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/symmetric-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Symmetric%20Tree%20Check)
@@ -715,8 +696,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Symmetric%20Tree%20Check)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -755,7 +736,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/root-to-leaf-paths/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/root-to-leaf-paths)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Root%20to%20Leaf%20Paths)
@@ -763,7 +743,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Root%20to%20Leaf%20Paths)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -793,7 +773,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-of-a-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/lowest-common-ancestor-of-a-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Lowest%20Common%20Ancestor)
@@ -801,8 +780,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Lowest%20Common%20Ancestor)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -831,7 +810,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/maximum-width-of-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-width-of-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/maximum-width-of-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20Width%20of%20Binary%20Tree)
@@ -839,8 +817,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20Width%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -865,11 +843,10 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 ### 📄 Children Sum Property in Binary Tree
 - **Difficulty**: Medium
 - **Problem Pattern**: DFS
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/children-sum-property)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/children-sum-parent/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/children-sum-property/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/children-sum-property/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/children-sum-property)
+  - [LeetCode](https://leetcode.com/problems/children-sum-parent/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/children-sum-parent/1)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Children%20Sum%20Property%20in%20Binary%20Tree)
@@ -891,10 +868,10 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/children-sum-property)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/children-sum-property)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/children-sum-parent/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/children-sum-parent/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/children-sum-property)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/children-sum-parent/1)
 - **Learning Lists**: Not Included
 - **Tags**: DFS, Medium, Interview
 
@@ -907,7 +884,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/all-nodes-distance-k-in-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/all-nodes-distance-k-in-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Print%20All%20Nodes%20at%20Distance%20K)
@@ -945,7 +921,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/burning-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/burning-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/burning-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimum%20Time%20to%20Burn%20a%20Tree)
@@ -953,8 +928,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Time%20to%20Burn%20a%20Tree)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -983,7 +958,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/count-complete-tree-nodes/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/count-complete-tree-nodes)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Count%20Complete%20Tree%20Nodes)
@@ -992,7 +966,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DFS/Math
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log^2 N)
 - **Space Complexity**: O(log N)
@@ -1017,11 +991,10 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 ### 📄 Requirements to Construct Binary Tree
 - **Difficulty**: Easy
 - **Problem Pattern**: Concept
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/construct-binary-tree)
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/construct-binary-tree/)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/construct-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/construct-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/construct-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Requirements%20to%20Construct%20Binary%20Tree)
@@ -1030,7 +1003,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Concept
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -1043,10 +1016,10 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/construct-binary-tree)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/construct-binary-tree)
+  - [Related problem A](https://leetcode.com/problems/construct-binary-tree/)
+  - [Related problem B](https://leetcode.com/problems/construct-binary-tree/)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/construct-binary-tree)
+  - [Advanced follow-up A](https://leetcode.com/problems/construct-binary-tree/)
 - **Learning Lists**: Not Included
 - **Tags**: Concept, Easy, Interview
 
@@ -1059,7 +1032,6 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/serialize-and-deserialize-binary-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/serialize-and-deserialize-binary-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Serialize%20and%20Deserialize%20Binary%20Tree)
@@ -1068,7 +1040,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BFS/DFS
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)

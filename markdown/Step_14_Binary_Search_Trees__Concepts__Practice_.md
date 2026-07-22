@@ -9,11 +9,10 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 ### 📄 Introduction to BST
 - **Difficulty**: Easy
 - **Problem Pattern**: BST
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/introduction-to-bst)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/binary-search-trees/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/introduction-to-bst/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/introduction-to-bst/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/introduction-to-bst)
+  - [LeetCode](https://leetcode.com/problems/binary-search-trees/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-search-trees/1)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Introduction%20to%20BST)
@@ -22,7 +21,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BST
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -35,10 +34,10 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/introduction-to-bst)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/introduction-to-bst)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/binary-search-trees/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/binary-search-trees/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/introduction-to-bst)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/binary-search-trees/1)
 - **Learning Lists**: Not Included
 - **Tags**: BST, Easy, Interview
 
@@ -51,7 +50,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-in-a-binary-search-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/search-in-a-binary-search-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20in%20Binary%20Search%20Tree)
@@ -59,8 +57,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20Binary%20Search%20Tree)
 - **Prerequisites**:
   - Requires: Basics of BST
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(log N)
@@ -89,7 +87,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/minimum-element-in-bst/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/minimum-element-in-bst)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Minimum%2FMaximum%20Value%20in%20BST)
@@ -97,8 +94,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Minimum%2FMaximum%20Value%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of BST
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -137,7 +134,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/floor-from-bst/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/floor-from-bst/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/floor-from-bst)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Floor%20in%20BST)
@@ -145,8 +141,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Floor%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of BST
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -175,7 +171,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/ceil-from-bst/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/ceil-from-bst/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/ceil-from-bst)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Ceil%20in%20BST)
@@ -183,8 +178,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Ceil%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of BST
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -213,7 +208,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/insert-into-a-binary-search-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/insert-into-a-binary-search-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Insert%20a%20Node%20in%20BST)
@@ -221,8 +215,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Insert%20a%20Node%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of BST
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(log N)
@@ -251,7 +245,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/delete-node-in-a-bst/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/delete-node-in-a-bst)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Delete%20a%20Node%20in%20BST)
@@ -259,8 +252,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Delete%20a%20Node%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of BST
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(log N)
@@ -289,7 +282,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/kth-smallest-element-in-a-bst/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/kth-smallest-element-in-a-bst)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+K-th%20Smallest%2FLargest%20Element%20in%20BST)
@@ -297,7 +289,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+K-th%20Smallest%2FLargest%20Element%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of Inorder DFS
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -327,7 +319,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/validate-binary-search-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/validate-binary-search-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Validate%20Binary%20Search%20Tree)
@@ -336,7 +327,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DFS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -365,7 +356,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-of-a-binary-search-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/lowest-common-ancestor-of-a-binary-search-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Lowest%20Common%20Ancestor%20in%20BST)
@@ -374,7 +364,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BST
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(log N)
@@ -403,7 +393,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/construct-binary-search-tree-from-preorder-traversal/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/construct-binary-search-tree-from-preorder-traversal)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Construct%20BST%20from%20Preorder%20Traversal)
@@ -411,7 +400,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Construct%20BST%20from%20Preorder%20Traversal)
 - **Prerequisites**:
   - Requires: Basics of BST/DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -441,7 +430,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/binary-search-tree-iterator/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-search-tree-iterator/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/binary-search-tree-iterator)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Binary%20Search%20Tree%20Iterator)
@@ -479,7 +467,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/two-sum-iv-input-is-a-bst/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/two-sum-iv-input-is-a-bst)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Two%20Sum%20in%20BST)
@@ -487,8 +474,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Two%20Sum%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of Iterator/Two Pointer
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(H)
@@ -517,7 +504,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/recover-binary-search-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/recover-binary-search-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/recover-binary-search-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Recover%20Binary%20Search%20Tree)
@@ -525,8 +511,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Recover%20Binary%20Search%20Tree)
 - **Prerequisites**:
   - Requires: Basics of Inorder DFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(H)
@@ -555,7 +541,6 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/largest-bst/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-bst/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/largest-bst)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Largest%20BST%20in%20Binary%20Tree)
@@ -563,8 +548,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Largest%20BST%20in%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(H)

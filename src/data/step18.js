@@ -20,10 +20,6 @@ export const step18Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/range-sum-query-mutable/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/range-sum-query-mutable"
             }
           ],
           "striverSolution": {
@@ -41,9 +37,10 @@ export const step18Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(N)",
@@ -90,10 +87,6 @@ export const step18Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/range-sum-query-2d-mutable/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/range-sum-query-2d-mutable"
             }
           ],
           "striverSolution": {
@@ -111,10 +104,9 @@ export const step18Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(log N)",
           "sc": "O(N)",
@@ -161,10 +153,6 @@ export const step18Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/count-of-smaller-numbers-after-self/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/count-of-smaller-numbers-after-self"
             }
           ],
           "striverSolution": {
@@ -182,7 +170,9 @@ export const step18Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Very High",
           "solveTime": "60-120 mins",

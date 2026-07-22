@@ -11,7 +11,7 @@ export const step16Data = {
           "name": "Introduction to Dynamic Programming",
           "difficulty": "Easy",
           "pattern": "DP",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/introduction-to-dp",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/introduction-to-dp/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -20,10 +20,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/introduction-to-dp/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-dp"
             }
           ],
           "striverSolution": {
@@ -41,7 +37,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Medium",
           "solveTime": "20-30 mins",
@@ -56,17 +54,17 @@ export const step16Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-dp"
+              "link": "https://www.geeksforgeeks.org/problems/introduction-to-dp/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-dp"
+              "link": "https://www.geeksforgeeks.org/problems/introduction-to-dp/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-dp"
+              "link": "https://www.geeksforgeeks.org/problems/introduction-to-dp/1"
             }
           ],
           "learningLists": "Not Included",
@@ -90,10 +88,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/climbing-stairs/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/climbing-stairs"
             }
           ],
           "striverSolution": {
@@ -115,7 +109,7 @@ export const step16Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -159,19 +153,15 @@ export const step16Data = {
           "name": "Frog Jump",
           "difficulty": "Easy",
           "pattern": "DP",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/frog-jump",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/geek-jump/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/frog-jump/"
+              "link": "https://leetcode.com/problems/geek-jump/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/frog-jump/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/frog-jump"
+              "link": "https://www.geeksforgeeks.org/problems/geek-jump/1"
             }
           ],
           "striverSolution": {
@@ -189,8 +179,7 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "20-30 mins",
@@ -205,17 +194,17 @@ export const step16Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/frog-jump"
+              "link": "https://www.geeksforgeeks.org/problems/geek-jump/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/frog-jump"
+              "link": "https://www.geeksforgeeks.org/problems/geek-jump/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/frog-jump"
+              "link": "https://www.geeksforgeeks.org/problems/geek-jump/1"
             }
           ],
           "learningLists": "Not Included",
@@ -239,10 +228,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimal-cost/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimal-cost"
             }
           ],
           "striverSolution": {
@@ -260,9 +245,11 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * K)",
           "sc": "O(N)",
@@ -300,19 +287,15 @@ export const step16Data = {
           "name": "Maximum Sum of Non-Adjacent Elements",
           "difficulty": "Medium",
           "pattern": "DP",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/maximum-sum-of-non-adjacent-elements/"
+              "link": "https://leetcode.com/problems/max-sum-without-adjacents2430/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-elements/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements"
+              "link": "https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1"
             }
           ],
           "striverSolution": {
@@ -332,7 +315,7 @@ export const step16Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -345,17 +328,17 @@ export const step16Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements"
+              "link": "https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements"
+              "link": "https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements"
+              "link": "https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1"
             }
           ],
           "learningLists": "Not Included",
@@ -379,10 +362,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/house-robber/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/house-robber"
             }
           ],
           "striverSolution": {
@@ -400,7 +379,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -449,10 +430,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/house-robber-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/house-robber-ii"
             }
           ],
           "striverSolution": {
@@ -471,10 +448,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -512,19 +488,15 @@ export const step16Data = {
           "name": "Ninja's Training",
           "difficulty": "Medium",
           "pattern": "DP",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/ninja-training",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/geeks-training/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/ninja-training/"
+              "link": "https://leetcode.com/problems/geeks-training/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/ninja-training/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/ninja-training"
+              "link": "https://www.geeksforgeeks.org/problems/geeks-training/1"
             }
           ],
           "striverSolution": {
@@ -545,7 +517,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * 4)",
           "sc": "O(4)",
@@ -558,17 +530,17 @@ export const step16Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/ninja-training"
+              "link": "https://www.geeksforgeeks.org/problems/geeks-training/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/ninja-training"
+              "link": "https://www.geeksforgeeks.org/problems/geeks-training/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/ninja-training"
+              "link": "https://www.geeksforgeeks.org/problems/geeks-training/1"
             }
           ],
           "learningLists": "Not Included",
@@ -598,10 +570,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/unique-paths/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/unique-paths"
             }
           ],
           "striverSolution": {
@@ -619,8 +587,7 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -669,10 +636,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/unique-paths-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/unique-paths-ii"
             }
           ],
           "striverSolution": {
@@ -690,10 +653,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -740,10 +702,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-path-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-path-sum"
             }
           ],
           "striverSolution": {
@@ -765,7 +723,7 @@ export const step16Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -812,10 +770,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/triangle/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/triangle"
             }
           ],
           "striverSolution": {
@@ -833,10 +787,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -883,10 +836,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-falling-path-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-falling-path-sum"
             }
           ],
           "striverSolution": {
@@ -904,8 +853,7 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Very High",
           "solveTime": "30-60 mins",
@@ -954,10 +902,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/cherry-pickup-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/cherry-pickup-ii"
             }
           ],
           "striverSolution": {
@@ -978,7 +922,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N * M * M)",
           "sc": "O(M * M)",
@@ -1022,19 +966,15 @@ export const step16Data = {
           "name": "Subset Sum Equals K",
           "difficulty": "Medium",
           "pattern": "DP",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/subset-sum-equal-to-k",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/subset-sum-equal-to-k/"
+              "link": "https://leetcode.com/problems/subset-sum-problem-1611555635/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/subset-sum-equal-to-k/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/subset-sum-equal-to-k"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1"
             }
           ],
           "striverSolution": {
@@ -1052,8 +992,7 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -1068,17 +1007,17 @@ export const step16Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/subset-sum-equal-to-k"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/subset-sum-equal-to-k"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/subset-sum-equal-to-k"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1"
             }
           ],
           "learningLists": "Not Included",
@@ -1102,10 +1041,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/partition-equal-subset-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/partition-equal-subset-sum"
             }
           ],
           "striverSolution": {
@@ -1124,10 +1059,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * Sum)",
           "sc": "O(Sum)",
@@ -1165,19 +1099,15 @@ export const step16Data = {
           "name": "Partition Array into Two Subsets with Min Difference",
           "difficulty": "Hard",
           "pattern": "DP",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference/"
+              "link": "https://leetcode.com/problems/minimum-sum-partition3317/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference"
+              "link": "https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1"
             }
           ],
           "striverSolution": {
@@ -1196,7 +1126,8 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Medium",
           "solveTime": "60-120 mins",
@@ -1211,17 +1142,17 @@ export const step16Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference"
+              "link": "https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference"
+              "link": "https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference"
+              "link": "https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1"
             }
           ],
           "learningLists": "Not Included",
@@ -1245,10 +1176,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/perfect-sum-problem/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/perfect-sum-problem"
             }
           ],
           "striverSolution": {
@@ -1267,9 +1194,10 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * K)",
           "sc": "O(K)",
@@ -1316,10 +1244,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/partitions-with-given-difference"
             }
           ],
           "striverSolution": {
@@ -1337,9 +1261,11 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * Sum)",
           "sc": "O(Sum)",
@@ -1386,10 +1312,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/0-1-knapsack-problem"
             }
           ],
           "striverSolution": {
@@ -1458,10 +1380,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/target-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/target-sum"
             }
           ],
           "striverSolution": {
@@ -1480,9 +1398,10 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * Sum)",
           "sc": "O(Sum)",
@@ -1529,10 +1448,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/coin-change/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/coin-change"
             }
           ],
           "striverSolution": {
@@ -1550,9 +1465,11 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * Amount)",
           "sc": "O(Amount)",
@@ -1599,10 +1516,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/coin-change-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/coin-change-ii"
             }
           ],
           "striverSolution": {
@@ -1624,7 +1537,7 @@ export const step16Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N * Amount)",
           "sc": "O(Amount)",
@@ -1671,10 +1584,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/unbounded-knapsack-or-fractional-knapsack"
             }
           ],
           "striverSolution": {
@@ -1692,10 +1601,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * W)",
           "sc": "O(W)",
@@ -1742,10 +1650,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/rod-cutting/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/rod-cutting"
             }
           ],
           "striverSolution": {
@@ -1763,8 +1667,7 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -1819,10 +1722,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-common-subsequence/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-common-subsequence"
             }
           ],
           "striverSolution": {
@@ -1840,11 +1739,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -1882,19 +1779,15 @@ export const step16Data = {
           "name": "Print Longest Common Subsequence",
           "difficulty": "Medium",
           "pattern": "DP on Strings",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/print-lcs",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/print-lcs/"
+              "link": "https://leetcode.com/problems/longest-common-subsequence-1587115620/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/print-lcs/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/print-lcs"
+              "link": "https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1"
             }
           ],
           "striverSolution": {
@@ -1912,10 +1805,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(N * M)",
@@ -1928,17 +1820,17 @@ export const step16Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/print-lcs"
+              "link": "https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/print-lcs"
+              "link": "https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/print-lcs"
+              "link": "https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1"
             }
           ],
           "learningLists": "Not Included",
@@ -1962,10 +1854,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-common-substring/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-common-substring"
             }
           ],
           "striverSolution": {
@@ -2032,10 +1920,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-palindromic-subsequence"
             }
           ],
           "striverSolution": {
@@ -2056,7 +1940,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * N)",
           "sc": "O(N)",
@@ -2103,10 +1987,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-insertion-steps-to-make-a-string-palindrome/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-insertion-steps-to-make-a-string-palindrome"
             }
           ],
           "striverSolution": {
@@ -2125,7 +2005,8 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -2174,10 +2055,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/delete-operation-for-two-strings/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/delete-operation-for-two-strings"
             }
           ],
           "striverSolution": {
@@ -2199,7 +2076,7 @@ export const step16Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -2246,10 +2123,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/shortest-common-supersequence/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/shortest-common-supersequence"
             }
           ],
           "striverSolution": {
@@ -2269,7 +2142,7 @@ export const step16Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N * M)",
           "sc": "O(N * M)",
@@ -2316,10 +2189,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/distinct-subsequences/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/distinct-subsequences"
             }
           ],
           "striverSolution": {
@@ -2337,7 +2206,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "High",
           "solveTime": "60-120 mins",
@@ -2386,10 +2257,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/edit-distance/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/edit-distance"
             }
           ],
           "striverSolution": {
@@ -2407,10 +2274,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -2457,10 +2323,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/wildcard-matching/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/wildcard-matching"
             }
           ],
           "striverSolution": {
@@ -2478,7 +2340,8 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "Very High",
           "solveTime": "60-120 mins",
@@ -2533,10 +2396,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock"
             }
           ],
           "striverSolution": {
@@ -2555,9 +2414,10 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2604,10 +2464,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock-ii"
             }
           ],
           "striverSolution": {
@@ -2626,10 +2482,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2676,10 +2531,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock-iii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock-iii"
             }
           ],
           "striverSolution": {
@@ -2698,10 +2549,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2748,10 +2598,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock-iv/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock-iv"
             }
           ],
           "striverSolution": {
@@ -2773,7 +2619,7 @@ export const step16Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(N * K)",
           "sc": "O(K)",
@@ -2820,10 +2666,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock-with-cooldown/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock-with-cooldown"
             }
           ],
           "striverSolution": {
@@ -2841,10 +2683,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2891,10 +2732,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock-with-transaction-fee"
             }
           ],
           "striverSolution": {
@@ -2915,7 +2752,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2968,10 +2805,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-increasing-subsequence/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-increasing-subsequence"
             }
           ],
           "striverSolution": {
@@ -2990,9 +2823,10 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -3039,10 +2873,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/printing-longest-increasing-subsequence"
             }
           ],
           "striverSolution": {
@@ -3061,10 +2891,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -3102,19 +2931,15 @@ export const step16Data = {
           "name": "LIS Using Binary Search",
           "difficulty": "Medium",
           "pattern": "DP/Binary Search",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/lis-binary-search",
+          "primaryLink": "https://leetcode.com/problems/longest-increasing-subsequence/",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/lis-binary-search/"
+              "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/lis-binary-search/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/lis-binary-search"
+              "link": "https://www.geeksforgeeks.org/problems/longest-increasing-subsequence/1"
             }
           ],
           "striverSolution": {
@@ -3132,9 +2957,11 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N log N)",
           "sc": "O(N)",
@@ -3147,17 +2974,17 @@ export const step16Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/lis-binary-search"
+              "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/lis-binary-search"
+              "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/lis-binary-search"
+              "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
             }
           ],
           "learningLists": "Not Included",
@@ -3181,10 +3008,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/largest-divisible-subset/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/largest-divisible-subset"
             }
           ],
           "striverSolution": {
@@ -3202,10 +3025,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -3252,10 +3074,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-string-chain/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-string-chain"
             }
           ],
           "striverSolution": {
@@ -3273,9 +3091,11 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N log N + N * L)",
           "sc": "O(N)",
@@ -3322,10 +3142,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-bitonic-subsequence"
             }
           ],
           "striverSolution": {
@@ -3394,10 +3210,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/number-of-longest-increasing-subsequence/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-longest-increasing-subsequence"
             }
           ],
           "striverSolution": {
@@ -3416,10 +3228,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -3472,10 +3283,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/matrix-chain-multiplication"
             }
           ],
           "striverSolution": {
@@ -3494,7 +3301,8 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Very High",
           "solveTime": "60-120 mins",
@@ -3543,10 +3351,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-cost-to-cut-a-stick/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-cost-to-cut-a-stick"
             }
           ],
           "striverSolution": {
@@ -3566,7 +3370,7 @@ export const step16Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N^3)",
           "sc": "O(N^2)",
@@ -3613,10 +3417,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/burst-balloons/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/burst-balloons"
             }
           ],
           "striverSolution": {
@@ -3634,9 +3434,10 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N^3)",
           "sc": "O(N^2)",
@@ -3683,10 +3484,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/boolean-parenthesization/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/boolean-parenthesization"
             }
           ],
           "striverSolution": {
@@ -3755,10 +3552,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/palindrome-partitioning-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/palindrome-partitioning-ii"
             }
           ],
           "striverSolution": {
@@ -3825,10 +3618,6 @@ export const step16Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/partition-array-for-maximum-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/partition-array-for-maximum-sum"
             }
           ],
           "striverSolution": {
@@ -3846,9 +3635,11 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * K)",
           "sc": "O(N)",

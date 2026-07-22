@@ -11,7 +11,7 @@ export const step9Data = {
           "name": "Implement Stack Using Array",
           "difficulty": "Easy",
           "pattern": "Stack",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/implement-stack-using-array",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -20,10 +20,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/implement-stack-using-array"
             }
           ],
           "striverSolution": {
@@ -41,10 +37,9 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(N)",
@@ -57,17 +52,17 @@ export const step9Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-stack-using-array"
+              "link": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/implement-stack-using-array"
+              "link": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-stack-using-array"
+              "link": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1"
             }
           ],
           "learningLists": "Not Included",
@@ -82,7 +77,7 @@ export const step9Data = {
           "name": "Implement Queue Using Array",
           "difficulty": "Easy",
           "pattern": "Queue",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/implement-queue-using-array",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -91,10 +86,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/implement-queue-using-array"
             }
           ],
           "striverSolution": {
@@ -113,9 +104,10 @@ export const step9Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(N)",
@@ -128,17 +120,17 @@ export const step9Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-queue-using-array"
+              "link": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/implement-queue-using-array"
+              "link": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-queue-using-array"
+              "link": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1"
             }
           ],
           "learningLists": "Not Included",
@@ -162,10 +154,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/implement-stack-using-queues/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/implement-stack-using-queues"
             }
           ],
           "striverSolution": {
@@ -183,9 +171,10 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -232,10 +221,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/implement-queue-using-stacks/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/implement-queue-using-stacks"
             }
           ],
           "striverSolution": {
@@ -253,9 +238,11 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(1) amortized",
           "sc": "O(N)",
@@ -293,7 +280,7 @@ export const step9Data = {
           "name": "Implement Stack Using LinkedList",
           "difficulty": "Easy",
           "pattern": "LinkedList",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/implement-stack-using-linked-list",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -302,10 +289,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/implement-stack-using-linked-list"
             }
           ],
           "striverSolution": {
@@ -324,8 +307,7 @@ export const step9Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "Very High",
           "solveTime": "20-30 mins",
@@ -340,17 +322,17 @@ export const step9Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-stack-using-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/implement-stack-using-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-stack-using-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1"
             }
           ],
           "learningLists": "Not Included",
@@ -365,7 +347,7 @@ export const step9Data = {
           "name": "Implement Queue Using LinkedList",
           "difficulty": "Easy",
           "pattern": "LinkedList",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/implement-queue-using-linked-list",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -374,10 +356,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/implement-queue-using-linked-list"
             }
           ],
           "striverSolution": {
@@ -396,9 +374,10 @@ export const step9Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(N)",
@@ -411,17 +390,17 @@ export const step9Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-queue-using-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/implement-queue-using-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-queue-using-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1"
             }
           ],
           "learningLists": "Not Included",
@@ -445,10 +424,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/valid-parentheses/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/valid-parentheses"
             }
           ],
           "striverSolution": {
@@ -466,10 +441,9 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -516,10 +490,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/min-stack/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/min-stack"
             }
           ],
           "striverSolution": {
@@ -537,9 +507,10 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(1)",
           "sc": "O(N)",
@@ -592,10 +563,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/infix-to-postfix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/infix-to-postfix"
             }
           ],
           "striverSolution": {
@@ -613,8 +580,7 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Very High",
           "solveTime": "30-60 mins",
@@ -663,10 +629,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/infix-to-prefix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/infix-to-prefix"
             }
           ],
           "striverSolution": {
@@ -684,9 +646,10 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -733,10 +696,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/postfix-to-infix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/postfix-to-infix"
             }
           ],
           "striverSolution": {
@@ -756,7 +715,7 @@ export const step9Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -803,10 +762,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/postfix-to-prefix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/postfix-to-prefix"
             }
           ],
           "striverSolution": {
@@ -824,10 +779,9 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -874,10 +828,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/prefix-to-infix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/prefix-to-infix"
             }
           ],
           "striverSolution": {
@@ -895,10 +845,9 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -945,10 +894,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/prefix-to-postfix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/prefix-to-postfix"
             }
           ],
           "striverSolution": {
@@ -966,7 +911,8 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -1021,10 +967,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/next-greater-element-i/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/next-greater-element-i"
             }
           ],
           "striverSolution": {
@@ -1042,9 +984,11 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N + M)",
           "sc": "O(N)",
@@ -1091,10 +1035,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/next-greater-element-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/next-greater-element-ii"
             }
           ],
           "striverSolution": {
@@ -1115,7 +1055,7 @@ export const step9Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1162,10 +1102,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/next-smaller-element/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/next-smaller-element"
             }
           ],
           "striverSolution": {
@@ -1187,7 +1123,7 @@ export const step9Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1234,10 +1170,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/next-greater-elements-iii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/next-greater-elements-iii"
             }
           ],
           "striverSolution": {
@@ -1255,9 +1187,7 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -1306,10 +1236,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/trapping-rain-water/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/trapping-rain-water"
             }
           ],
           "striverSolution": {
@@ -1329,7 +1255,7 @@ export const step9Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1376,10 +1302,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/sum-of-subarray-minimums/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/sum-of-subarray-minimums"
             }
           ],
           "striverSolution": {
@@ -1397,10 +1319,9 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1447,10 +1368,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/sum-of-subarray-ranges"
             }
           ],
           "striverSolution": {
@@ -1469,8 +1386,7 @@ export const step9Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "Low",
           "solveTime": "30-60 mins",
@@ -1519,10 +1435,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/asteroid-collision/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/asteroid-collision"
             }
           ],
           "striverSolution": {
@@ -1540,11 +1452,9 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1591,10 +1501,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/largest-rectangle-in-histogram/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/largest-rectangle-in-histogram"
             }
           ],
           "striverSolution": {
@@ -1612,9 +1518,11 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1661,10 +1569,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/maximal-rectangle/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximal-rectangle"
             }
           ],
           "striverSolution": {
@@ -1683,9 +1587,10 @@ export const step9Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -1738,10 +1643,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/sliding-window-maximum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/sliding-window-maximum"
             }
           ],
           "striverSolution": {
@@ -1763,7 +1664,7 @@ export const step9Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(K)",
@@ -1810,10 +1711,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/lru-cache/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/lru-cache"
             }
           ],
           "striverSolution": {
@@ -1881,10 +1778,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/lfu-cache/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/lfu-cache"
             }
           ],
           "striverSolution": {
@@ -1902,11 +1795,9 @@ export const step9Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(1)",
           "sc": "O(Capacity)",
@@ -1953,10 +1844,6 @@ export const step9Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/the-celebrity-problem"
             }
           ],
           "striverSolution": {
@@ -1976,7 +1863,7 @@ export const step9Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",

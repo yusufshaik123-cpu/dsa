@@ -11,19 +11,15 @@ export const step11Data = {
           "name": "Min/Max Heap Implementation",
           "difficulty": "Easy",
           "pattern": "Heap",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/min-heap",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/min-heap/"
+              "link": "https://leetcode.com/problems/operations-on-binary-min-heap/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/min-heap/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/min-heap"
+              "link": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1"
             }
           ],
           "striverSolution": {
@@ -41,10 +37,9 @@ export const step11Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(N)",
@@ -57,17 +52,17 @@ export const step11Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/min-heap"
+              "link": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/min-heap"
+              "link": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/min-heap"
+              "link": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1"
             }
           ],
           "learningLists": "Not Included",
@@ -91,10 +86,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/heap-operations/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/heap-operations"
             }
           ],
           "striverSolution": {
@@ -112,9 +103,7 @@ export const step11Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "20-30 mins",
@@ -154,19 +143,15 @@ export const step11Data = {
           "name": "Priority Queue Implementation",
           "difficulty": "Easy",
           "pattern": "Heap",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/priority-queue",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/priority-queue/"
+              "link": "https://leetcode.com/problems/operations-on-binary-min-heap/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/priority-queue/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/priority-queue"
+              "link": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1"
             }
           ],
           "striverSolution": {
@@ -184,9 +169,11 @@ export const step11Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(N)",
@@ -199,17 +186,17 @@ export const step11Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/priority-queue"
+              "link": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/priority-queue"
+              "link": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/priority-queue"
+              "link": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1"
             }
           ],
           "learningLists": "Not Included",
@@ -239,10 +226,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/kth-largest-element-in-an-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/kth-largest-element-in-an-array"
             }
           ],
           "striverSolution": {
@@ -261,9 +244,10 @@ export const step11Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N log K)",
           "sc": "O(K)",
@@ -310,10 +294,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/kth-smallest-element/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/kth-smallest-element"
             }
           ],
           "striverSolution": {
@@ -334,7 +314,7 @@ export const step11Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N log K)",
           "sc": "O(K)",
@@ -381,10 +361,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/nearly-sorted/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/nearly-sorted"
             }
           ],
           "striverSolution": {
@@ -402,7 +378,9 @@ export const step11Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Low",
           "solveTime": "30-60 mins",
@@ -451,10 +429,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/replace-elements-by-its-rank-in-the-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/replace-elements-by-its-rank-in-the-array"
             }
           ],
           "striverSolution": {
@@ -472,10 +446,9 @@ export const step11Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(N log N)",
           "sc": "O(N)",
@@ -522,10 +495,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/task-scheduler/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/task-scheduler"
             }
           ],
           "striverSolution": {
@@ -544,8 +513,7 @@ export const step11Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -594,10 +562,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/hand-of-straights/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/hand-of-straights"
             }
           ],
           "striverSolution": {
@@ -617,7 +581,7 @@ export const step11Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N log N)",
           "sc": "O(N)",
@@ -664,10 +628,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/design-twitter/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/design-twitter"
             }
           ],
           "striverSolution": {
@@ -689,7 +649,7 @@ export const step11Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(V log K)",
           "sc": "O(V)",
@@ -727,7 +687,7 @@ export const step11Data = {
           "name": "Merge K Sorted Arrays",
           "difficulty": "Medium",
           "pattern": "Heap",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -736,10 +696,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays"
             }
           ],
           "striverSolution": {
@@ -761,7 +717,7 @@ export const step11Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N log K)",
           "sc": "O(K)",
@@ -774,17 +730,17 @@ export const step11Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays"
+              "link": "https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays"
+              "link": "https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays"
+              "link": "https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1"
             }
           ],
           "learningLists": "Not Included",
@@ -808,10 +764,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/merge-k-sorted-lists/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/merge-k-sorted-lists"
             }
           ],
           "striverSolution": {
@@ -829,7 +781,8 @@ export const step11Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "High",
           "solveTime": "60-120 mins",
@@ -884,10 +837,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/top-k-frequent-elements/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/top-k-frequent-elements"
             }
           ],
           "striverSolution": {
@@ -906,9 +855,10 @@ export const step11Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N log K)",
           "sc": "O(N)",
@@ -955,10 +905,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/find-median-from-data-stream/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/find-median-from-data-stream"
             }
           ],
           "striverSolution": {
@@ -976,7 +922,8 @@ export const step11Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "High",
           "solveTime": "60-120 mins",
@@ -1025,10 +972,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/kth-largest-element-in-a-stream"
             }
           ],
           "striverSolution": {
@@ -1050,7 +993,7 @@ export const step11Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(log K)",
           "sc": "O(K)",
@@ -1097,10 +1040,6 @@ export const step11Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/maximum-sum-combinations/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-sum-combinations"
             }
           ],
           "striverSolution": {
@@ -1119,10 +1058,9 @@ export const step11Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N log N)",
           "sc": "O(N)",

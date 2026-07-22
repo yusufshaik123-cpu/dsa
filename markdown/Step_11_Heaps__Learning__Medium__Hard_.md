@@ -9,11 +9,10 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 ### 📄 Min/Max Heap Implementation
 - **Difficulty**: Easy
 - **Problem Pattern**: Heap
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/min-heap)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/min-heap/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/min-heap/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/min-heap)
+  - [LeetCode](https://leetcode.com/problems/operations-on-binary-min-heap/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Min%2FMax%20Heap%20Implementation)
@@ -21,8 +20,8 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Min%2FMax%20Heap%20Implementation)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(N)
@@ -35,10 +34,10 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/min-heap)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/min-heap)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/min-heap)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 - **Learning Lists**: Not Included
 - **Tags**: Heap, Easy, Interview
 
@@ -51,7 +50,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/heap-operations/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/heap-operations/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/heap-operations)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Binary%20Heap%20Operations)
@@ -59,7 +57,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Binary%20Heap%20Operations)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
@@ -85,11 +83,10 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 ### 📄 Priority Queue Implementation
 - **Difficulty**: Easy
 - **Problem Pattern**: Heap
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/priority-queue)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/priority-queue/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/priority-queue/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/priority-queue)
+  - [LeetCode](https://leetcode.com/problems/operations-on-binary-min-heap/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Priority%20Queue%20Implementation)
@@ -97,8 +94,8 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Priority%20Queue%20Implementation)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(N)
@@ -111,10 +108,10 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/priority-queue)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/priority-queue)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/priority-queue)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 - **Learning Lists**: Not Included
 - **Tags**: Heap, Easy, Interview
 
@@ -137,7 +134,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/kth-largest-element-in-an-array/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/kth-largest-element-in-an-array)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kth%20Largest%20Element%20in%20an%20Array)
@@ -145,8 +141,8 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kth%20Largest%20Element%20in%20an%20Array)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log K)
 - **Space Complexity**: O(K)
@@ -175,7 +171,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/kth-smallest-element/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/kth-smallest-element/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/kth-smallest-element)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kth%20Smallest%20Element%20in%20an%20Array)
@@ -184,7 +179,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Heap
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log K)
 - **Space Complexity**: O(K)
@@ -213,7 +208,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/nearly-sorted/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/nearly-sorted/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/nearly-sorted)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Sort%20a%20K%20Sorted%20Array)
@@ -221,7 +215,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Sort%20a%20K%20Sorted%20Array)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log K)
@@ -251,7 +245,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/replace-elements-by-its-rank-in-the-array/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/replace-elements-by-its-rank-in-the-array/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/replace-elements-by-its-rank-in-the-array)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Replace%20Elements%20by%20Its%20Rank%20in%20Array)
@@ -259,8 +252,8 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Replace%20Elements%20by%20Its%20Rank%20in%20Array)
 - **Prerequisites**:
   - Requires: Basics of Sorting/Heap
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -289,7 +282,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/task-scheduler/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/task-scheduler/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/task-scheduler)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Task%20Scheduler)
@@ -297,7 +289,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Task%20Scheduler)
 - **Prerequisites**:
   - Requires: Basics of Greedy/Heap
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -327,7 +319,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/hand-of-straights/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/hand-of-straights/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/hand-of-straights)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Hand%20of%20Straights)
@@ -336,7 +327,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Greedy/HashMap
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -365,7 +356,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/design-twitter/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/design-twitter/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/design-twitter)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Design%20Twitter)
@@ -374,7 +364,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Design/Heap
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V log K)
 - **Space Complexity**: O(V)
@@ -399,11 +389,10 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 ### 📄 Merge K Sorted Arrays
 - **Difficulty**: Medium
 - **Problem Pattern**: Heap
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/merge-k-sorted-arrays/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Merge%20K%20Sorted%20Arrays)
@@ -412,7 +401,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Heap
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log K)
 - **Space Complexity**: O(K)
@@ -425,10 +414,10 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
 - **Learning Lists**: Not Included
 - **Tags**: Heap, Medium, Interview
 
@@ -441,7 +430,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/merge-k-sorted-lists/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/merge-k-sorted-lists)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Merge%20K%20Sorted%20Lists)
@@ -449,7 +437,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Merge%20K%20Sorted%20Lists)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log K)
@@ -489,7 +477,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/top-k-frequent-elements/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/top-k-frequent-elements)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+K%20Most%20Frequent%20Elements)
@@ -497,8 +484,8 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+K%20Most%20Frequent%20Elements)
 - **Prerequisites**:
   - Requires: Basics of Heap/HashMap
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log K)
 - **Space Complexity**: O(N)
@@ -527,7 +514,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/find-median-from-data-stream/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-median-from-data-stream/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-median-from-data-stream)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Median%20from%20Data%20Stream)
@@ -535,7 +521,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Median%20from%20Data%20Stream)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(log N)
@@ -565,7 +551,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/kth-largest-element-in-a-stream)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kth%20Largest%20Element%20in%20a%20Stream)
@@ -574,7 +559,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Heap
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log K)
 - **Space Complexity**: O(K)
@@ -603,7 +588,6 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/maximum-sum-combinations/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-sum-combinations/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/maximum-sum-combinations)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20Sum%20Combinations)
@@ -611,8 +595,8 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20Sum%20Combinations)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)

@@ -20,10 +20,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-linked-list"
             }
           ],
           "striverSolution": {
@@ -41,9 +37,10 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -81,19 +78,15 @@ export const step6Data = {
           "name": "Insert Node in LinkedList",
           "difficulty": "Easy",
           "pattern": "LinkedList",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/insert-node-at-the-beginning/"
+              "link": "https://leetcode.com/problems/linked-list-insertion-1587115620/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/insert-node-at-the-beginning/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning"
+              "link": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1"
             }
           ],
           "striverSolution": {
@@ -112,9 +105,10 @@ export const step6Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -127,17 +121,17 @@ export const step6Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning"
+              "link": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning"
+              "link": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning"
+              "link": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1"
             }
           ],
           "learningLists": "Not Included",
@@ -161,10 +155,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/delete-node-in-a-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/delete-node-in-a-linked-list"
             }
           ],
           "striverSolution": {
@@ -182,9 +172,10 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -231,10 +222,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/count-nodes-of-linked-list"
             }
           ],
           "striverSolution": {
@@ -252,9 +239,11 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -301,10 +290,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/search-in-linked-list-1664414816/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/search-in-linked-list-1664414816"
             }
           ],
           "striverSolution": {
@@ -322,11 +307,9 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -370,7 +353,7 @@ export const step6Data = {
           "name": "Array to Doubly LinkedList",
           "difficulty": "Easy",
           "pattern": "Doubly LinkedList",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -379,10 +362,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list"
             }
           ],
           "striverSolution": {
@@ -400,7 +379,9 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "High",
           "solveTime": "20-30 mins",
@@ -415,17 +396,17 @@ export const step6Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1"
             }
           ],
           "learningLists": "Not Included",
@@ -440,19 +421,15 @@ export const step6Data = {
           "name": "Insert Node in Doubly LinkedList",
           "difficulty": "Easy",
           "pattern": "Doubly LinkedList",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/insert-node-in-dll",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/insert-node-in-dll/"
+              "link": "https://leetcode.com/problems/insert-a-node-in-doubly-linked-list/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/insert-node-in-dll/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/insert-node-in-dll"
+              "link": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1"
             }
           ],
           "striverSolution": {
@@ -470,9 +447,11 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -485,17 +464,17 @@ export const step6Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/insert-node-in-dll"
+              "link": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/insert-node-in-dll"
+              "link": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/insert-node-in-dll"
+              "link": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1"
             }
           ],
           "learningLists": "Not Included",
@@ -510,19 +489,15 @@ export const step6Data = {
           "name": "Delete Node in Doubly LinkedList",
           "difficulty": "Easy",
           "pattern": "Doubly LinkedList",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/delete-node-in-dll",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/delete-node-in-dll/"
+              "link": "https://leetcode.com/problems/delete-node-in-doubly-linked-list/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/delete-node-in-dll/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/delete-node-in-dll"
+              "link": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1"
             }
           ],
           "striverSolution": {
@@ -540,9 +515,11 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -555,17 +532,17 @@ export const step6Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/delete-node-in-dll"
+              "link": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/delete-node-in-dll"
+              "link": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/delete-node-in-dll"
+              "link": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1"
             }
           ],
           "learningLists": "Not Included",
@@ -580,7 +557,7 @@ export const step6Data = {
           "name": "Reverse a Doubly LinkedList",
           "difficulty": "Easy",
           "pattern": "Doubly LinkedList",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -589,10 +566,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list"
             }
           ],
           "striverSolution": {
@@ -610,11 +583,9 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -627,17 +598,17 @@ export const step6Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list"
+              "link": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1"
             }
           ],
           "learningLists": "Not Included",
@@ -667,10 +638,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/middle-of-the-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/middle-of-the-linked-list"
             }
           ],
           "striverSolution": {
@@ -692,7 +659,7 @@ export const step6Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -739,10 +706,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/reverse-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/reverse-linked-list"
             }
           ],
           "striverSolution": {
@@ -762,7 +725,7 @@ export const step6Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -809,10 +772,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/reverse-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/reverse-linked-list"
             }
           ],
           "striverSolution": {
@@ -880,10 +839,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/linked-list-cycle/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/linked-list-cycle"
             }
           ],
           "striverSolution": {
@@ -901,7 +856,8 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "Very High",
           "solveTime": "20-30 mins",
@@ -950,10 +906,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/linked-list-cycle-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/linked-list-cycle-ii"
             }
           ],
           "striverSolution": {
@@ -972,9 +924,10 @@ export const step6Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1021,10 +974,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/find-length-of-loop"
             }
           ],
           "striverSolution": {
@@ -1043,10 +992,9 @@ export const step6Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1093,10 +1041,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/palindrome-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/palindrome-linked-list"
             }
           ],
           "striverSolution": {
@@ -1115,10 +1059,9 @@ export const step6Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1165,10 +1108,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/odd-even-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/odd-even-linked-list"
             }
           ],
           "striverSolution": {
@@ -1187,10 +1126,9 @@ export const step6Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1237,10 +1175,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/remove-nth-node-from-end-of-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/remove-nth-node-from-end-of-list"
             }
           ],
           "striverSolution": {
@@ -1260,7 +1194,7 @@ export const step6Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1307,10 +1241,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/delete-the-middle-node-of-a-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/delete-the-middle-node-of-a-linked-list"
             }
           ],
           "striverSolution": {
@@ -1328,8 +1258,7 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -1378,10 +1307,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/sort-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/sort-list"
             }
           ],
           "striverSolution": {
@@ -1399,7 +1324,8 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "Very High",
           "solveTime": "30-60 mins",
@@ -1448,10 +1374,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it"
             }
           ],
           "striverSolution": {
@@ -1469,9 +1391,11 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1518,10 +1442,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/intersection-of-two-linked-lists/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/intersection-of-two-linked-lists"
             }
           ],
           "striverSolution": {
@@ -1539,8 +1459,7 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Very High",
           "solveTime": "20-30 mins",
@@ -1589,10 +1508,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/add-1-to-a-number-represented-as-linked-list"
             }
           ],
           "striverSolution": {
@@ -1612,7 +1527,7 @@ export const step6Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1659,10 +1574,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/add-two-numbers/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/add-two-numbers"
             }
           ],
           "striverSolution": {
@@ -1680,9 +1591,10 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(max(N,M))",
           "sc": "O(max(N,M))",
@@ -1735,10 +1647,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/find-pairs-with-given-sum-in-doubly-linked-list"
             }
           ],
           "striverSolution": {
@@ -1759,7 +1667,7 @@ export const step6Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1806,10 +1714,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/remove-duplicates-from-a-sorted-doubly-linked-list"
             }
           ],
           "striverSolution": {
@@ -1831,7 +1735,7 @@ export const step6Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1878,10 +1782,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list"
             }
           ],
           "striverSolution": {
@@ -1903,7 +1803,7 @@ export const step6Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1956,10 +1856,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/reverse-nodes-in-k-group/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/reverse-nodes-in-k-group"
             }
           ],
           "striverSolution": {
@@ -1977,9 +1873,11 @@ export const step6Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2026,10 +1924,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/rotate-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/rotate-list"
             }
           ],
           "striverSolution": {
@@ -2048,8 +1942,7 @@ export const step6Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -2098,10 +1991,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/copy-list-with-random-pointer/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/copy-list-with-random-pointer"
             }
           ],
           "striverSolution": {
@@ -2121,7 +2010,7 @@ export const step6Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1) / O(N)",
@@ -2168,10 +2057,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/flattening-a-linked-list"
             }
           ],
           "striverSolution": {
@@ -2190,9 +2075,10 @@ export const step6Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(1)",
@@ -2239,10 +2125,6 @@ export const step6Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/merge-k-sorted-lists/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/merge-k-sorted-lists"
             }
           ],
           "striverSolution": {
@@ -2262,7 +2144,7 @@ export const step6Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N log K)",
           "sc": "O(K)",

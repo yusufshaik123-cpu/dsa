@@ -20,10 +20,6 @@ export const step17Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/implement-trie-prefix-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/implement-trie-prefix-tree"
             }
           ],
           "striverSolution": {
@@ -45,7 +41,7 @@ export const step17Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(L)",
           "sc": "O(WordCount * L)",
@@ -83,19 +79,15 @@ export const step17Data = {
           "name": "Implement Trie II (Insert, CountWords, Erase)",
           "difficulty": "Medium",
           "pattern": "Trie",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/implement-trie-ii",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/implement-trie-ii/"
+              "link": "https://leetcode.com/problems/trie-insert-and-search0651/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/implement-trie-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/implement-trie-ii"
+              "link": "https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1"
             }
           ],
           "striverSolution": {
@@ -115,7 +107,7 @@ export const step17Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(L)",
           "sc": "O(WordCount * L)",
@@ -128,17 +120,17 @@ export const step17Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-trie-ii"
+              "link": "https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/implement-trie-ii"
+              "link": "https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-trie-ii"
+              "link": "https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1"
             }
           ],
           "learningLists": "Not Included",
@@ -159,7 +151,7 @@ export const step17Data = {
           "name": "Longest Word With All Prefixes",
           "difficulty": "Medium",
           "pattern": "Trie",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/longest-word-with-all-prefixes",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -168,10 +160,6 @@ export const step17Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-word-with-all-prefixes"
             }
           ],
           "striverSolution": {
@@ -189,11 +177,9 @@ export const step17Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(Sum(L))",
           "sc": "O(Sum(L))",
@@ -206,17 +192,17 @@ export const step17Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/longest-word-with-all-prefixes"
+              "link": "https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/longest-word-with-all-prefixes"
+              "link": "https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/longest-word-with-all-prefixes"
+              "link": "https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1"
             }
           ],
           "learningLists": "Not Included",
@@ -231,7 +217,7 @@ export const step17Data = {
           "name": "Number of Distinct Substrings",
           "difficulty": "Medium",
           "pattern": "Trie",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/number-of-distinct-substrings-in-a-string",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -240,10 +226,6 @@ export const step17Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-distinct-substrings-in-a-string"
             }
           ],
           "striverSolution": {
@@ -264,7 +246,7 @@ export const step17Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N^2)",
@@ -277,17 +259,17 @@ export const step17Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-distinct-substrings-in-a-string"
+              "link": "https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-distinct-substrings-in-a-string"
+              "link": "https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-distinct-substrings-in-a-string"
+              "link": "https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1"
             }
           ],
           "learningLists": "Not Included",
@@ -311,10 +293,6 @@ export const step17Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-xor-of-two-numbers-in-an-array"
             }
           ],
           "striverSolution": {
@@ -333,10 +311,9 @@ export const step17Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N * 32)",
           "sc": "O(N * 32)",
@@ -383,10 +360,6 @@ export const step17Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/maximum-xor-with-an-element-from-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-xor-with-an-element-from-array"
             }
           ],
           "striverSolution": {
@@ -406,7 +379,7 @@ export const step17Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O((N+Q) * 32)",
           "sc": "O(N * 32)",

@@ -13,7 +13,6 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implement-trie-prefix-tree/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/implement-trie-prefix-tree)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Implement%20Trie%20I%20(Insert%2C%20Search%2C%20StartsWith))
@@ -22,7 +21,7 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Trie
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(L)
 - **Space Complexity**: O(WordCount * L)
@@ -47,11 +46,10 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 ### 📄 Implement Trie II (Insert, CountWords, Erase)
 - **Difficulty**: Medium
 - **Problem Pattern**: Trie
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/implement-trie-ii)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/implement-trie-ii/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implement-trie-ii/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/implement-trie-ii)
+  - [LeetCode](https://leetcode.com/problems/trie-insert-and-search0651/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Implement%20Trie%20II%20(Insert%2C%20CountWords%2C%20Erase))
@@ -60,7 +58,7 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Trie
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(L)
 - **Space Complexity**: O(WordCount * L)
@@ -73,10 +71,10 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/implement-trie-ii)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/implement-trie-ii)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/implement-trie-ii)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1)
 - **Learning Lists**: Not Included
 - **Tags**: Trie, Medium, Interview
 
@@ -95,11 +93,10 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 ### 📄 Longest Word With All Prefixes
 - **Difficulty**: Medium
 - **Problem Pattern**: Trie
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/longest-word-with-all-prefixes)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/longest-word-with-all-prefixes/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/longest-word-with-all-prefixes)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Word%20With%20All%20Prefixes)
@@ -107,8 +104,8 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Word%20With%20All%20Prefixes)
 - **Prerequisites**:
   - Requires: Basics of Trie
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(Sum(L))
 - **Space Complexity**: O(Sum(L))
@@ -121,10 +118,10 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/longest-word-with-all-prefixes)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/longest-word-with-all-prefixes)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/longest-word-with-all-prefixes)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1)
 - **Learning Lists**: Not Included
 - **Tags**: Trie, Medium, Interview
 
@@ -133,11 +130,10 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 ### 📄 Number of Distinct Substrings
 - **Difficulty**: Medium
 - **Problem Pattern**: Trie
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/number-of-distinct-substrings-in-a-string)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/number-of-distinct-substrings-in-a-string)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Number%20of%20Distinct%20Substrings)
@@ -146,7 +142,7 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Trie
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N^2)
@@ -159,10 +155,10 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/number-of-distinct-substrings-in-a-string)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/number-of-distinct-substrings-in-a-string)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/number-of-distinct-substrings-in-a-string)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1)
 - **Learning Lists**: Not Included
 - **Tags**: Trie, Medium, Interview
 
@@ -175,7 +171,6 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/maximum-xor-of-two-numbers-in-an-array)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20XOR%20of%20Two%20Numbers%20in%20Array)
@@ -183,8 +178,8 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20XOR%20of%20Two%20Numbers%20in%20Array)
 - **Prerequisites**:
   - Requires: Basics of Trie/Bitwise
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * 32)
 - **Space Complexity**: O(N * 32)
@@ -213,7 +208,6 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-xor-with-an-element-from-array/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/maximum-xor-with-an-element-from-array)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20XOR%20With%20Element%20From%20Array)
@@ -222,7 +216,7 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Trie/Bitwise
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O((N+Q) * 32)
 - **Space Complexity**: O(N * 32)

@@ -13,7 +13,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/bit-manipulation/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/bit-manipulation/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/bit-manipulation)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Intro%20to%20Bit%20Manipulation)
@@ -21,8 +20,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Intro%20to%20Bit%20Manipulation)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -51,7 +50,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/check-whether-k-th-bit-is-set-or-not/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/check-whether-k-th-bit-is-set-or-not)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Check%20if%20i-th%20Bit%20is%20Set)
@@ -59,8 +57,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Check%20if%20i-th%20Bit%20is%20Set)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -89,7 +87,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/power-of-two/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/power-of-two/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/power-of-two)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Check%20if%20Number%20is%20Power%20of%20Two)
@@ -97,8 +94,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Check%20if%20Number%20is%20Power%20of%20Two)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -127,7 +124,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/number-of-1-bits/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-1-bits/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/number-of-1-bits)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Count%20Number%20of%20Set%20Bits)
@@ -135,8 +131,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Number%20of%20Set%20Bits)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -165,7 +161,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/set-rightmost-unset-bit/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/set-rightmost-unset-bit/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/set-rightmost-unset-bit)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Set%2FClear%20Rightmost%20Set%20Bit)
@@ -173,7 +168,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Set%2FClear%20Rightmost%20Set%20Bit)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
@@ -199,11 +194,10 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 ### 📄 Swap Two Numbers Using Bitwise
 - **Difficulty**: Easy
 - **Problem Pattern**: Bit Manipulation
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/swap-two-numbers)
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/swap-two-numbers/)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/swap-two-numbers/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/swap-two-numbers/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/swap-two-numbers)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Swap%20Two%20Numbers%20Using%20Bitwise)
@@ -211,8 +205,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Swap%20Two%20Numbers%20Using%20Bitwise)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -225,10 +219,10 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/swap-two-numbers)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/swap-two-numbers)
+  - [Related problem A](https://leetcode.com/problems/swap-two-numbers/)
+  - [Related problem B](https://leetcode.com/problems/swap-two-numbers/)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/swap-two-numbers)
+  - [Advanced follow-up A](https://leetcode.com/problems/swap-two-numbers/)
 - **Learning Lists**: Not Included
 - **Tags**: Bit Manipulation, Easy, Interview
 
@@ -241,7 +235,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/divide-two-integers/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/divide-two-integers/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/divide-two-integers)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Divide%20Two%20Integers%20Without%20Operators)
@@ -250,7 +243,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -289,7 +282,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/single-number/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/single-number/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/single-number)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Single%20Number%20I)
@@ -297,8 +289,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Single%20Number%20I)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -327,7 +319,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/single-number-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/single-number-ii/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/single-number-ii)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Single%20Number%20II)
@@ -335,8 +326,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Single%20Number%20II)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -365,7 +356,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/single-number-iii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/single-number-iii/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/single-number-iii)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Single%20Number%20III)
@@ -373,8 +363,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Single%20Number%20III)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -403,7 +393,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/two-repeated-elements/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/two-repeated-elements/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/two-repeated-elements)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Two%20Numbers%20with%20Odd%20Occurrences)
@@ -412,7 +401,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -441,7 +430,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/subsets/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/subsets/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/subsets)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Power%20Set%20Using%20Bit%20Manipulation)
@@ -450,7 +438,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(2^N * N)
 - **Space Complexity**: O(N)
@@ -479,7 +467,6 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/xor-queries-of-a-subarray/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/xor-queries-of-a-subarray/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/xor-queries-of-a-subarray)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+XOR%20of%20Numbers%20in%20Range%20L%20to%20R)
@@ -487,7 +474,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+XOR%20of%20Numbers%20in%20Range%20L%20to%20R)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)

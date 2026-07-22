@@ -15,15 +15,11 @@ export const step3Data = {
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/largest-element-in-an-array/"
+              "link": "https://leetcode.com/problems/largest-element-in-an-array-1587115620/"
             },
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/largest-element-in-an-array-1587115620/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/largest-element-in-an-array"
             }
           ],
           "striverSolution": {
@@ -87,15 +83,11 @@ export const step3Data = {
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/second-largest/"
+              "link": "https://leetcode.com/problems/second-largest3735/"
             },
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/second-largest3735/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/second-largest"
             }
           ],
           "striverSolution": {
@@ -113,10 +105,9 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -163,10 +154,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/check-if-array-is-sorted-and-rotated/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/check-if-array-is-sorted-and-rotated"
             }
           ],
           "striverSolution": {
@@ -184,7 +171,8 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "Very High",
           "solveTime": "20-30 mins",
@@ -233,10 +221,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-sorted-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/remove-duplicates-from-sorted-array"
             }
           ],
           "striverSolution": {
@@ -254,9 +238,11 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -294,19 +280,15 @@ export const step3Data = {
           "name": "Left Rotate Array by One",
           "difficulty": "Easy",
           "pattern": "Array",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/left-rotate-an-array-by-one/"
+              "link": "https://leetcode.com/problems/rotate-array-by-n-elements-1587115621/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/left-rotate-an-array-by-one/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278"
+              "link": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1"
             }
           ],
           "striverSolution": {
@@ -325,8 +307,7 @@ export const step3Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "Very High",
           "solveTime": "20-30 mins",
@@ -341,17 +322,17 @@ export const step3Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278"
+              "link": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278"
+              "link": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278"
+              "link": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1"
             }
           ],
           "learningLists": "Not Included",
@@ -375,10 +356,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/rotate-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/rotate-array"
             }
           ],
           "striverSolution": {
@@ -399,7 +376,7 @@ export const step3Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -446,10 +423,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/move-zeroes/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/move-zeroes"
             }
           ],
           "striverSolution": {
@@ -469,7 +442,7 @@ export const step3Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -507,19 +480,15 @@ export const step3Data = {
           "name": "Linear Search",
           "difficulty": "Easy",
           "pattern": "Array",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/linear-search_696375",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/linear-search/"
+              "link": "https://leetcode.com/problems/search-an-element-in-an-array-1587115621/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/linear-search/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/linear-search_696375"
+              "link": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1"
             }
           ],
           "striverSolution": {
@@ -540,7 +509,7 @@ export const step3Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -553,17 +522,17 @@ export const step3Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/linear-search_696375"
+              "link": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/linear-search_696375"
+              "link": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/linear-search_696375"
+              "link": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1"
             }
           ],
           "learningLists": "Not Included",
@@ -582,15 +551,11 @@ export const step3Data = {
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/union-of-two-sorted-arrays/"
+              "link": "https://leetcode.com/problems/union-of-two-sorted-arrays-1587115621/"
             },
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/union-of-two-sorted-arrays"
             }
           ],
           "striverSolution": {
@@ -608,9 +573,7 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "Low",
           "solveTime": "20-30 mins",
@@ -659,10 +622,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/missing-number/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/missing-number"
             }
           ],
           "striverSolution": {
@@ -680,9 +639,10 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -729,10 +689,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/max-consecutive-ones/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/max-consecutive-ones"
             }
           ],
           "striverSolution": {
@@ -751,10 +707,9 @@ export const step3Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -801,10 +756,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/single-number/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/single-number"
             }
           ],
           "striverSolution": {
@@ -822,7 +773,9 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Very High",
           "solveTime": "20-30 mins",
@@ -862,19 +815,15 @@ export const step3Data = {
           "name": "Longest Subarray with Sum K (Positives)",
           "difficulty": "Easy",
           "pattern": "Array",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/longest-subarray-with-sum-k/"
+              "link": "https://leetcode.com/problems/longest-sub-array-with-sum-k3024/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-k/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399"
+              "link": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1"
             }
           ],
           "striverSolution": {
@@ -892,9 +841,10 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -907,17 +857,17 @@ export const step3Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399"
+              "link": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399"
+              "link": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399"
+              "link": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1"
             }
           ],
           "learningLists": "Not Included",
@@ -936,15 +886,11 @@ export const step3Data = {
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/longest-sub-array-with-sum-k/"
+              "link": "https://leetcode.com/problems/longest-sub-array-with-sum-k3024/"
             },
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-sub-array-with-sum-k"
             }
           ],
           "striverSolution": {
@@ -963,10 +909,9 @@ export const step3Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1019,10 +964,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/two-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/two-sum"
             }
           ],
           "striverSolution": {
@@ -1042,7 +983,7 @@ export const step3Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1089,10 +1030,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/sort-colors/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/sort-colors"
             }
           ],
           "striverSolution": {
@@ -1161,10 +1098,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/majority-element/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/majority-element"
             }
           ],
           "striverSolution": {
@@ -1183,10 +1116,9 @@ export const step3Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1233,10 +1165,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/maximum-subarray/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-subarray"
             }
           ],
           "striverSolution": {
@@ -1254,7 +1182,9 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -1298,15 +1228,11 @@ export const step3Data = {
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/kadanes-algorithm/"
+              "link": "https://leetcode.com/problems/kadanes-algorithm-1587115620/"
             },
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/kadanes-algorithm"
             }
           ],
           "striverSolution": {
@@ -1325,10 +1251,9 @@ export const step3Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1375,10 +1300,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock"
             }
           ],
           "striverSolution": {
@@ -1399,7 +1320,7 @@ export const step3Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1446,10 +1367,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/rearrange-array-elements-by-sign/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/rearrange-array-elements-by-sign"
             }
           ],
           "striverSolution": {
@@ -1471,7 +1388,7 @@ export const step3Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1518,10 +1435,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/next-permutation/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/next-permutation"
             }
           ],
           "striverSolution": {
@@ -1583,15 +1496,11 @@ export const step3Data = {
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/leaders-in-an-array/"
+              "link": "https://leetcode.com/problems/leaders-in-an-array-1587115620/"
             },
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/leaders-in-an-array"
             }
           ],
           "striverSolution": {
@@ -1611,7 +1520,7 @@ export const step3Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -1658,10 +1567,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-consecutive-sequence/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-consecutive-sequence"
             }
           ],
           "striverSolution": {
@@ -1679,11 +1584,9 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1730,10 +1633,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/set-matrix-zeroes"
             }
           ],
           "striverSolution": {
@@ -1751,9 +1650,11 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N*M)",
           "sc": "O(1)",
@@ -1800,10 +1701,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/rotate-image/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/rotate-image"
             }
           ],
           "striverSolution": {
@@ -1870,10 +1767,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/spiral-matrix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/spiral-matrix"
             }
           ],
           "striverSolution": {
@@ -1891,7 +1784,9 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -1940,10 +1835,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/subarray-sum-equals-k/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/subarray-sum-equals-k"
             }
           ],
           "striverSolution": {
@@ -1964,7 +1855,7 @@ export const step3Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -2017,10 +1908,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/pascals-triangle/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/pascals-triangle"
             }
           ],
           "striverSolution": {
@@ -2039,9 +1926,10 @@ export const step3Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N^2)",
           "sc": "O(1)",
@@ -2088,10 +1976,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/majority-element-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/majority-element-ii"
             }
           ],
           "striverSolution": {
@@ -2110,9 +1994,10 @@ export const step3Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2159,10 +2044,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/3sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/3sum"
             }
           ],
           "striverSolution": {
@@ -2180,9 +2061,11 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(N^2)",
           "sc": "O(1)",
@@ -2229,10 +2112,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/4sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/4sum"
             }
           ],
           "striverSolution": {
@@ -2251,9 +2130,10 @@ export const step3Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N^3)",
           "sc": "O(1)",
@@ -2300,10 +2180,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/largest-subarray-with-0-sum"
             }
           ],
           "striverSolution": {
@@ -2323,7 +2199,7 @@ export const step3Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -2370,10 +2246,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/subarray-with-given-xor/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/subarray-with-given-xor"
             }
           ],
           "striverSolution": {
@@ -2391,11 +2263,9 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -2442,10 +2312,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/merge-intervals/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/merge-intervals"
             }
           ],
           "striverSolution": {
@@ -2466,7 +2332,7 @@ export const step3Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N log N)",
           "sc": "O(1)",
@@ -2513,10 +2379,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/merge-sorted-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/merge-sorted-array"
             }
           ],
           "striverSolution": {
@@ -2535,10 +2397,9 @@ export const step3Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O((N+M) log(N+M))",
           "sc": "O(1)",
@@ -2580,15 +2441,11 @@ export const step3Data = {
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/find-missing-and-repeating/"
+              "link": "https://leetcode.com/problems/find-missing-and-repeating2512/"
             },
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/find-missing-and-repeating"
             }
           ],
           "striverSolution": {
@@ -2609,7 +2466,7 @@ export const step3Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2651,15 +2508,11 @@ export const step3Data = {
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/inversion-of-array/"
+              "link": "https://leetcode.com/problems/inversion-of-array-1587115620/"
             },
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/inversion-of-array"
             }
           ],
           "striverSolution": {
@@ -2677,8 +2530,7 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Low",
           "solveTime": "60-120 mins",
@@ -2727,10 +2579,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/reverse-pairs/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/reverse-pairs"
             }
           ],
           "striverSolution": {
@@ -2748,9 +2596,11 @@ export const step3Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N log N)",
           "sc": "O(N)",
@@ -2797,10 +2647,6 @@ export const step3Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/maximum-product-subarray/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-product-subarray"
             }
           ],
           "striverSolution": {
@@ -2820,7 +2666,7 @@ export const step3Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(1)",

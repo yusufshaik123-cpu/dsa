@@ -20,10 +20,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/string-to-integer-atoi/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/string-to-integer-atoi"
             }
           ],
           "striverSolution": {
@@ -45,7 +41,7 @@ export const step7Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -92,10 +88,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/powx-n/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/powx-n"
             }
           ],
           "striverSolution": {
@@ -113,9 +105,11 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(log N)",
@@ -162,10 +156,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/count-good-numbers/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/count-good-numbers"
             }
           ],
           "striverSolution": {
@@ -233,10 +223,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/sort-a-stack/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/sort-a-stack"
             }
           ],
           "striverSolution": {
@@ -254,11 +240,9 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -305,10 +289,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/reverse-a-stack/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/reverse-a-stack"
             }
           ],
           "striverSolution": {
@@ -326,7 +306,9 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Very High",
           "solveTime": "20-30 mins",
@@ -381,10 +363,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/generate-all-binary-strings"
             }
           ],
           "striverSolution": {
@@ -403,9 +381,10 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(2^N)",
           "sc": "O(N)",
@@ -452,10 +431,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/generate-parentheses/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/generate-parentheses"
             }
           ],
           "striverSolution": {
@@ -474,9 +449,10 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(4^N / sqrt(N))",
           "sc": "O(N)",
@@ -523,10 +499,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/subsets/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/subsets"
             }
           ],
           "striverSolution": {
@@ -544,10 +516,9 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(2^N * N)",
           "sc": "O(N)",
@@ -585,19 +556,15 @@ export const step7Data = {
           "name": "Subsets I",
           "difficulty": "Easy",
           "pattern": "Recursion",
-          "primaryLink": "https://www.geeksforgeeks.org/problems/subset-sum-problem/1",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/subset-sum-problem/"
+              "link": "https://leetcode.com/problems/subset-sum-problem-1611555635/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/subset-sum-problem"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1"
             }
           ],
           "striverSolution": {
@@ -616,9 +583,10 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(2^N)",
           "sc": "O(N)",
@@ -631,17 +599,17 @@ export const step7Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem/1"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem/1"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem/1"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1"
             }
           ],
           "learningLists": "Not Included",
@@ -665,10 +633,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/subsets-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/subsets-ii"
             }
           ],
           "striverSolution": {
@@ -687,8 +651,7 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -737,10 +700,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/combination-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/combination-sum"
             }
           ],
           "striverSolution": {
@@ -758,11 +717,9 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(2^T * K)",
           "sc": "O(T)",
@@ -809,10 +766,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/combination-sum-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/combination-sum-ii"
             }
           ],
           "striverSolution": {
@@ -833,7 +786,7 @@ export const step7Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(2^N * K)",
           "sc": "O(N)",
@@ -880,10 +833,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/combination-sum-iii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/combination-sum-iii"
             }
           ],
           "striverSolution": {
@@ -901,9 +850,7 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -952,10 +899,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/letter-combinations-of-a-phone-number/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/letter-combinations-of-a-phone-number"
             }
           ],
           "striverSolution": {
@@ -975,7 +918,7 @@ export const step7Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(4^N * N)",
           "sc": "O(N)",
@@ -1022,10 +965,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/perfect-sum-problem/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/perfect-sum-problem"
             }
           ],
           "striverSolution": {
@@ -1046,7 +985,7 @@ export const step7Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(2^N)",
           "sc": "O(N)",
@@ -1099,10 +1038,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/word-search/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/word-search"
             }
           ],
           "striverSolution": {
@@ -1120,9 +1055,10 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * M * 4^L)",
           "sc": "O(L)",
@@ -1169,10 +1105,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/n-queens/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/n-queens"
             }
           ],
           "striverSolution": {
@@ -1191,10 +1123,9 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N!)",
           "sc": "O(N^2)",
@@ -1241,10 +1172,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem-i/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/rat-in-a-maze-problem-i"
             }
           ],
           "striverSolution": {
@@ -1263,7 +1190,8 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "High",
           "solveTime": "60-120 mins",
@@ -1312,10 +1240,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/sudoku-solver/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/sudoku-solver"
             }
           ],
           "striverSolution": {
@@ -1333,10 +1257,9 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(9^(N^2))",
           "sc": "O(1)",
@@ -1383,10 +1306,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/m-coloring-problem/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/m-coloring-problem"
             }
           ],
           "striverSolution": {
@@ -1404,9 +1323,10 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(M^V)",
           "sc": "O(V)",
@@ -1453,10 +1373,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/palindrome-partitioning/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/palindrome-partitioning"
             }
           ],
           "striverSolution": {
@@ -1476,7 +1392,7 @@ export const step7Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(2^N * N)",
           "sc": "O(N)",
@@ -1523,10 +1439,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/word-break/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/word-break"
             }
           ],
           "striverSolution": {
@@ -1548,7 +1460,7 @@ export const step7Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N^3)",
           "sc": "O(N)",
@@ -1595,10 +1507,6 @@ export const step7Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/expression-add-operators/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/expression-add-operators"
             }
           ],
           "striverSolution": {
@@ -1616,11 +1524,9 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(4^N)",
           "sc": "O(N)",

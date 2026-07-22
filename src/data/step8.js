@@ -20,10 +20,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/bit-manipulation/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/bit-manipulation"
             }
           ],
           "striverSolution": {
@@ -41,9 +37,11 @@ export const step8Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -90,10 +88,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/check-whether-k-th-bit-is-set-or-not"
             }
           ],
           "striverSolution": {
@@ -111,11 +105,9 @@ export const step8Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -162,10 +154,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/power-of-two/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/power-of-two"
             }
           ],
           "striverSolution": {
@@ -183,9 +171,11 @@ export const step8Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -232,10 +222,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/number-of-1-bits/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-1-bits"
             }
           ],
           "striverSolution": {
@@ -254,9 +240,10 @@ export const step8Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -303,10 +290,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/set-rightmost-unset-bit/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/set-rightmost-unset-bit"
             }
           ],
           "striverSolution": {
@@ -324,9 +307,7 @@ export const step8Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "20-30 mins",
@@ -366,7 +347,7 @@ export const step8Data = {
           "name": "Swap Two Numbers Using Bitwise",
           "difficulty": "Easy",
           "pattern": "Bit Manipulation",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/swap-two-numbers",
+          "primaryLink": "https://leetcode.com/problems/swap-two-numbers/",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -375,10 +356,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/swap-two-numbers/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/swap-two-numbers"
             }
           ],
           "striverSolution": {
@@ -396,11 +373,9 @@ export const step8Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -413,17 +388,17 @@ export const step8Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/swap-two-numbers"
+              "link": "https://leetcode.com/problems/swap-two-numbers/"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/swap-two-numbers"
+              "link": "https://leetcode.com/problems/swap-two-numbers/"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/swap-two-numbers"
+              "link": "https://leetcode.com/problems/swap-two-numbers/"
             }
           ],
           "learningLists": "Not Included",
@@ -447,10 +422,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/divide-two-integers/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/divide-two-integers"
             }
           ],
           "striverSolution": {
@@ -470,7 +441,7 @@ export const step8Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -523,10 +494,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/single-number/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/single-number"
             }
           ],
           "striverSolution": {
@@ -544,11 +511,9 @@ export const step8Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -595,10 +560,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/single-number-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/single-number-ii"
             }
           ],
           "striverSolution": {
@@ -617,9 +578,10 @@ export const step8Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -666,10 +628,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/single-number-iii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/single-number-iii"
             }
           ],
           "striverSolution": {
@@ -687,11 +645,9 @@ export const step8Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -738,10 +694,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/two-repeated-elements/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/two-repeated-elements"
             }
           ],
           "striverSolution": {
@@ -761,7 +713,7 @@ export const step8Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -808,10 +760,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/subsets/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/subsets"
             }
           ],
           "striverSolution": {
@@ -832,7 +780,7 @@ export const step8Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(2^N * N)",
           "sc": "O(N)",
@@ -879,10 +827,6 @@ export const step8Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/xor-queries-of-a-subarray/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/xor-queries-of-a-subarray"
             }
           ],
           "striverSolution": {
@@ -900,7 +844,9 @@ export const step8Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",

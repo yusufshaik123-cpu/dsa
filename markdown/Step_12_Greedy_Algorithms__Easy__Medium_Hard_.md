@@ -13,7 +13,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/assign-cookies/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/assign-cookies/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/assign-cookies)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Assign%20Cookies)
@@ -22,7 +21,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Greedy
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(1)
@@ -51,7 +50,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/fractional-knapsack/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/fractional-knapsack)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Fractional%20Knapsack)
@@ -59,8 +57,8 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Fractional%20Knapsack)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(1)
@@ -89,7 +87,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/lemonade-change/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/lemonade-change/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/lemonade-change)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Lemonade%20Change)
@@ -97,8 +94,8 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Lemonade%20Change)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -137,7 +134,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/n-meetings-in-one-room/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/n-meetings-in-one-room)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+N%20Meetings%20In%20One%20Room)
@@ -175,7 +171,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/jump-game/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/jump-game/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/jump-game)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Jump%20Game%20I)
@@ -183,8 +178,8 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Jump%20Game%20I)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -213,7 +208,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/jump-game-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/jump-game-ii/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/jump-game-ii)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Jump%20Game%20II)
@@ -221,8 +215,8 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Jump%20Game%20II)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -251,7 +245,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/minimum-platforms/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-platforms/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/minimum-platforms)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimum%20Platforms%20Required)
@@ -259,7 +252,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Platforms%20Required)
 - **Prerequisites**:
   - Requires: Basics of Greedy/Sorting
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
@@ -289,7 +282,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/job-sequencing-problem/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/job-sequencing-problem/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/job-sequencing-problem)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Job%20Sequencing%20Problem)
@@ -297,7 +289,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Job%20Sequencing%20Problem)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N + N * M)
@@ -327,7 +319,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/candy/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/candy/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/candy)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Candy%20Distribution)
@@ -335,7 +326,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Candy%20Distribution)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
@@ -365,7 +356,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/gas-station/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/gas-station/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/gas-station)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Gas%20Station%20%2F%20Circular%20Tour)
@@ -373,7 +363,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Gas%20Station%20%2F%20Circular%20Tour)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -403,7 +393,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/valid-parenthesis-string/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/valid-parenthesis-string)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Valid%20Parenthesis%20String)
@@ -411,8 +400,8 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Valid%20Parenthesis%20String)
 - **Prerequisites**:
   - Requires: Basics of Greedy/Stack
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -441,7 +430,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/insert-interval/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/insert-interval/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/insert-interval)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Insert%20Interval)
@@ -450,7 +438,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Greedy
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -479,7 +467,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/merge-intervals/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/merge-intervals/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/merge-intervals)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Merge%20Intervals)
@@ -487,8 +474,8 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Merge%20Intervals)
 - **Prerequisites**:
   - Requires: Basics of Sorting/Greedy
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(1)
@@ -517,7 +504,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/non-overlapping-intervals/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/non-overlapping-intervals/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/non-overlapping-intervals)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Non-overlapping%20Intervals)
@@ -525,7 +511,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Non-overlapping%20Intervals)
 - **Prerequisites**:
   - Requires: Basics of Sorting/Greedy
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
@@ -555,7 +541,6 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-number-of-arrows-to-burst-balloons/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/minimum-number-of-arrows-to-burst-balloons)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)
@@ -564,7 +549,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Sorting/Greedy
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(1)

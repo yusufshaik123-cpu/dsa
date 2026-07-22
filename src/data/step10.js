@@ -20,10 +20,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-substring-without-repeating-characters/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-substring-without-repeating-characters"
             }
           ],
           "striverSolution": {
@@ -41,10 +37,9 @@ export const step10Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(min(M, N))",
@@ -91,10 +86,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/max-consecutive-ones-iii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/max-consecutive-ones-iii"
             }
           ],
           "striverSolution": {
@@ -115,7 +106,7 @@ export const step10Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -162,10 +153,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/fruit-into-baskets/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/fruit-into-baskets"
             }
           ],
           "striverSolution": {
@@ -183,9 +170,11 @@ export const step10Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -232,10 +221,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-repeating-character-replacement"
             }
           ],
           "striverSolution": {
@@ -253,8 +238,7 @@ export const step10Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -303,10 +287,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-subarrays-with-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-subarrays-with-sum"
             }
           ],
           "striverSolution": {
@@ -324,10 +304,9 @@ export const step10Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -374,10 +353,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/count-number-of-nice-subarrays/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/count-number-of-nice-subarrays"
             }
           ],
           "striverSolution": {
@@ -396,8 +371,7 @@ export const step10Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -446,10 +420,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/number-of-substrings-containing-all-three-characters/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-substrings-containing-all-three-characters"
             }
           ],
           "striverSolution": {
@@ -469,7 +439,7 @@ export const step10Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -516,10 +486,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/maximum-points-you-can-obtain-from-cards/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-points-you-can-obtain-from-cards"
             }
           ],
           "striverSolution": {
@@ -541,7 +507,7 @@ export const step10Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(K)",
           "sc": "O(1)",
@@ -585,19 +551,15 @@ export const step10Data = {
           "name": "Longest Substring with At Most K Distinct Chars",
           "difficulty": "Hard",
           "pattern": "Sliding Window",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/longest-substring-with-at-most-k-distinct-characters",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/"
+              "link": "https://leetcode.com/problems/longest-k-unique-characters-substring0853/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/longest-substring-with-at-most-k-distinct-characters/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-substring-with-at-most-k-distinct-characters"
+              "link": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1"
             }
           ],
           "striverSolution": {
@@ -615,9 +577,10 @@ export const step10Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(K)",
@@ -630,17 +593,17 @@ export const step10Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/longest-substring-with-at-most-k-distinct-characters"
+              "link": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/longest-substring-with-at-most-k-distinct-characters"
+              "link": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/longest-substring-with-at-most-k-distinct-characters"
+              "link": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1"
             }
           ],
           "learningLists": "Not Included",
@@ -664,10 +627,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/subarrays-with-k-different-integers"
             }
           ],
           "striverSolution": {
@@ -685,9 +644,10 @@ export const step10Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(K)",
@@ -734,10 +694,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-window-substring/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-window-substring"
             }
           ],
           "striverSolution": {
@@ -759,7 +715,7 @@ export const step10Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -806,10 +762,6 @@ export const step10Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-window-subsequence"
             }
           ],
           "striverSolution": {
@@ -829,7 +781,7 @@ export const step10Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N * M)",
           "sc": "O(1)",

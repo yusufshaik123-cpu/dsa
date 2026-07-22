@@ -13,7 +13,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/introduction-to-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/introduction-to-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Array%20to%20LinkedList)
@@ -21,8 +20,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Array%20to%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -47,11 +46,10 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 ### 📄 Insert Node in LinkedList
 - **Difficulty**: Easy
 - **Problem Pattern**: LinkedList
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/insert-node-at-the-beginning/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/insert-node-at-the-beginning/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning)
+  - [LeetCode](https://leetcode.com/problems/linked-list-insertion-1587115620/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Insert%20Node%20in%20LinkedList)
@@ -59,8 +57,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Insert%20Node%20in%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -73,10 +71,10 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)
 - **Learning Lists**: Not Included
 - **Tags**: LinkedList, Easy, Interview
 
@@ -89,7 +87,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/delete-node-in-a-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/delete-node-in-a-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Delete%20Node%20in%20LinkedList)
@@ -97,8 +94,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Delete%20Node%20in%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -127,7 +124,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/count-nodes-of-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/count-nodes-of-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Length%20of%20LinkedList)
@@ -135,8 +131,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Length%20of%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -165,7 +161,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/search-in-linked-list-1664414816/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664414816/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/search-in-linked-list-1664414816)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20Element%20in%20LinkedList)
@@ -173,8 +168,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20Element%20in%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -209,11 +204,10 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 ### 📄 Array to Doubly LinkedList
 - **Difficulty**: Easy
 - **Problem Pattern**: Doubly LinkedList
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/introduction-to-doubly-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Array%20to%20Doubly%20LinkedList)
@@ -221,7 +215,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Array%20to%20Doubly%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of Doubly LinkedList
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -235,10 +229,10 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1)
 - **Learning Lists**: Not Included
 - **Tags**: Doubly LinkedList, Easy, Interview
 
@@ -247,11 +241,10 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 ### 📄 Insert Node in Doubly LinkedList
 - **Difficulty**: Easy
 - **Problem Pattern**: Doubly LinkedList
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/insert-node-in-dll)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/insert-node-in-dll/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/insert-node-in-dll/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/insert-node-in-dll)
+  - [LeetCode](https://leetcode.com/problems/insert-a-node-in-doubly-linked-list/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Insert%20Node%20in%20Doubly%20LinkedList)
@@ -259,8 +252,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Insert%20Node%20in%20Doubly%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of Doubly LinkedList
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -273,10 +266,10 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/insert-node-in-dll)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/insert-node-in-dll)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/insert-node-in-dll)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1)
 - **Learning Lists**: Not Included
 - **Tags**: Doubly LinkedList, Easy, Interview
 
@@ -285,11 +278,10 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 ### 📄 Delete Node in Doubly LinkedList
 - **Difficulty**: Easy
 - **Problem Pattern**: Doubly LinkedList
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/delete-node-in-dll)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/delete-node-in-dll/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/delete-node-in-dll/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/delete-node-in-dll)
+  - [LeetCode](https://leetcode.com/problems/delete-node-in-doubly-linked-list/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Delete%20Node%20in%20Doubly%20LinkedList)
@@ -297,8 +289,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Delete%20Node%20in%20Doubly%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of Doubly LinkedList
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -311,10 +303,10 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/delete-node-in-dll)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/delete-node-in-dll)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/delete-node-in-dll)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1)
 - **Learning Lists**: Not Included
 - **Tags**: Doubly LinkedList, Easy, Interview
 
@@ -323,11 +315,10 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 ### 📄 Reverse a Doubly LinkedList
 - **Difficulty**: Easy
 - **Problem Pattern**: Doubly LinkedList
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/reverse-a-doubly-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Reverse%20a%20Doubly%20LinkedList)
@@ -335,8 +326,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Reverse%20a%20Doubly%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of Doubly LinkedList
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -349,10 +340,10 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)
 - **Learning Lists**: Not Included
 - **Tags**: Doubly LinkedList, Easy, Interview
 
@@ -375,7 +366,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/middle-of-the-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/middle-of-the-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Middle%20of%20LinkedList)
@@ -384,7 +374,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -413,7 +403,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/reverse-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/reverse-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/reverse-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Reverse%20LinkedList%20(Iterative))
@@ -422,7 +411,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of LinkedList
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -451,7 +440,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/reverse-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/reverse-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/reverse-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Reverse%20LinkedList%20(Recursive))
@@ -489,7 +477,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/linked-list-cycle/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/linked-list-cycle/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/linked-list-cycle)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Detect%20Cycle%20in%20LinkedList)
@@ -497,7 +484,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Detect%20Cycle%20in%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -527,7 +514,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/linked-list-cycle-ii/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/linked-list-cycle-ii)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Starting%20Point%20of%20Cycle)
@@ -535,8 +521,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Starting%20Point%20of%20Cycle)
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -565,7 +551,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/find-length-of-loop/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-length-of-loop)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Length%20of%20Loop%20in%20LinkedList)
@@ -573,8 +558,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Length%20of%20Loop%20in%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -603,7 +588,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/palindrome-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/palindrome-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/palindrome-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Check%20if%20LinkedList%20is%20Palindrome)
@@ -611,8 +595,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Check%20if%20LinkedList%20is%20Palindrome)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -641,7 +625,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/odd-even-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/odd-even-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/odd-even-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Odd%20Even%20LinkedList)
@@ -649,8 +632,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Odd%20Even%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -679,7 +662,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/remove-nth-node-from-end-of-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/remove-nth-node-from-end-of-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Remove%20Nth%20Node%20From%20End%20of%20List)
@@ -688,7 +670,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -717,7 +699,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/delete-the-middle-node-of-a-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/delete-the-middle-node-of-a-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Delete%20Middle%20Node%20of%20LinkedList)
@@ -725,7 +706,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Delete%20Middle%20Node%20of%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -755,7 +736,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/sort-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/sort-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/sort-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Sort%20LinkedList)
@@ -763,7 +743,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Sort%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of Merge Sort
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
@@ -793,7 +773,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Sort%200s%2C%201s%2C%20and%202s%20in%20LinkedList)
@@ -801,8 +780,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Sort%200s%2C%201s%2C%20and%202s%20in%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -831,7 +810,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/intersection-of-two-linked-lists/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/intersection-of-two-linked-lists)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Intersection%20of%20Two%20LinkedLists)
@@ -839,7 +817,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Intersection%20of%20Two%20LinkedLists)
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N + M)
@@ -869,7 +847,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/add-1-to-a-number-represented-as-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/add-1-to-a-number-represented-as-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Add%201%20to%20Number%20Represented%20as%20LinkedList)
@@ -878,7 +855,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of LinkedList
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -907,7 +884,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/add-two-numbers/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/add-two-numbers/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/add-two-numbers)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Add%20Two%20Numbers%20represented%20as%20LLs)
@@ -915,8 +891,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Add%20Two%20Numbers%20represented%20as%20LLs)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(max(N,M))
 - **Space Complexity**: O(max(N,M))
@@ -955,7 +931,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/find-pairs-with-given-sum-in-doubly-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-pairs-with-given-sum-in-doubly-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Pairs%20with%20Sum%20K%20in%20DLL)
@@ -964,7 +939,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -993,7 +968,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/remove-duplicates-from-a-sorted-doubly-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/remove-duplicates-from-a-sorted-doubly-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Remove%20Duplicates%20from%20Sorted%20DLL)
@@ -1002,7 +976,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Doubly LinkedList
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1031,7 +1005,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Delete%20All%20Occurrences%20of%20Key%20in%20DLL)
@@ -1040,7 +1013,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Doubly LinkedList
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1079,7 +1052,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/reverse-nodes-in-k-group/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/reverse-nodes-in-k-group)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Reverse%20LinkedList%20in%20K-Group)
@@ -1087,8 +1059,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Reverse%20LinkedList%20in%20K-Group)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1117,7 +1089,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/rotate-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/rotate-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/rotate-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Rotate%20LinkedList)
@@ -1125,7 +1096,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Rotate%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -1155,7 +1126,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/copy-list-with-random-pointer/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/copy-list-with-random-pointer)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Clone%20LinkedList%20with%20Random%20Pointer)
@@ -1164,7 +1134,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of HashMap/LL
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1) / O(N)
@@ -1193,7 +1163,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/flattening-a-linked-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/flattening-a-linked-list)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Flattening%20a%20LinkedList)
@@ -1201,8 +1170,8 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Flattening%20a%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(1)
@@ -1231,7 +1200,6 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/merge-k-sorted-lists/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/merge-k-sorted-lists)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Merge%20K%20Sorted%20Lists)
@@ -1240,7 +1208,7 @@ Detailed progress tracker for Step 6 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Heap
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log K)
 - **Space Complexity**: O(K)

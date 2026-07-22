@@ -20,10 +20,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/assign-cookies/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/assign-cookies"
             }
           ],
           "striverSolution": {
@@ -45,7 +41,7 @@ export const step12Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N log N)",
           "sc": "O(1)",
@@ -92,10 +88,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/fractional-knapsack/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/fractional-knapsack"
             }
           ],
           "striverSolution": {
@@ -114,10 +106,9 @@ export const step12Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N log N)",
           "sc": "O(1)",
@@ -164,10 +155,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/lemonade-change/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/lemonade-change"
             }
           ],
           "striverSolution": {
@@ -186,10 +173,9 @@ export const step12Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -242,10 +228,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/n-meetings-in-one-room"
             }
           ],
           "striverSolution": {
@@ -312,10 +294,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/jump-game/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/jump-game"
             }
           ],
           "striverSolution": {
@@ -333,9 +311,11 @@ export const step12Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -382,10 +362,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/jump-game-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/jump-game-ii"
             }
           ],
           "striverSolution": {
@@ -403,9 +379,11 @@ export const step12Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -452,10 +430,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-platforms/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-platforms"
             }
           ],
           "striverSolution": {
@@ -474,7 +448,8 @@ export const step12Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -523,10 +498,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/job-sequencing-problem/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/job-sequencing-problem"
             }
           ],
           "striverSolution": {
@@ -545,7 +516,8 @@ export const step12Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Low",
           "solveTime": "30-60 mins",
@@ -594,10 +566,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/candy/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/candy"
             }
           ],
           "striverSolution": {
@@ -615,7 +583,9 @@ export const step12Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Medium",
           "solveTime": "60-120 mins",
@@ -664,10 +634,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/gas-station/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/gas-station"
             }
           ],
           "striverSolution": {
@@ -685,7 +651,8 @@ export const step12Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -734,10 +701,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/valid-parenthesis-string/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/valid-parenthesis-string"
             }
           ],
           "striverSolution": {
@@ -755,9 +718,10 @@ export const step12Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -804,10 +768,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/insert-interval/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/insert-interval"
             }
           ],
           "striverSolution": {
@@ -828,7 +788,7 @@ export const step12Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -875,10 +835,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/merge-intervals/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/merge-intervals"
             }
           ],
           "striverSolution": {
@@ -896,11 +852,9 @@ export const step12Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N log N)",
           "sc": "O(1)",
@@ -947,10 +901,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/non-overlapping-intervals/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/non-overlapping-intervals"
             }
           ],
           "striverSolution": {
@@ -969,8 +919,7 @@ export const step12Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -1019,10 +968,6 @@ export const step12Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-number-of-arrows-to-burst-balloons/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-number-of-arrows-to-burst-balloons"
             }
           ],
           "striverSolution": {
@@ -1043,7 +988,7 @@ export const step12Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N log N)",
           "sc": "O(1)",

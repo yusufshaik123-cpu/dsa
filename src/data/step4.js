@@ -20,10 +20,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-search/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-search"
             }
           ],
           "striverSolution": {
@@ -45,7 +41,7 @@ export const step4Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -83,19 +79,15 @@ export const step4Data = {
           "name": "Lower Bound Implementation",
           "difficulty": "Easy",
           "pattern": "Binary Search",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/lower-bound_8165382",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/lower-bound/"
+              "link": "https://leetcode.com/problems/floor-in-a-sorted-array-1587115620/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/lower-bound/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/lower-bound_8165382"
+              "link": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1"
             }
           ],
           "striverSolution": {
@@ -116,7 +108,7 @@ export const step4Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -129,17 +121,17 @@ export const step4Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/lower-bound_8165382"
+              "link": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/lower-bound_8165382"
+              "link": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/lower-bound_8165382"
+              "link": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1"
             }
           ],
           "learningLists": "Not Included",
@@ -154,19 +146,15 @@ export const step4Data = {
           "name": "Upper Bound Implementation",
           "difficulty": "Easy",
           "pattern": "Binary Search",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/implement-upper-bound/"
+              "link": "https://leetcode.com/problems/ceil-the-floor2802/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/implement-upper-bound/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383"
+              "link": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
             }
           ],
           "striverSolution": {
@@ -188,7 +176,7 @@ export const step4Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -201,17 +189,17 @@ export const step4Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383"
+              "link": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383"
+              "link": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383"
+              "link": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
             }
           ],
           "learningLists": "Not Included",
@@ -235,10 +223,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/search-insert-position/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/search-insert-position"
             }
           ],
           "striverSolution": {
@@ -256,10 +240,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -297,19 +280,15 @@ export const step4Data = {
           "name": "Floor and Ceil in Sorted Array",
           "difficulty": "Easy",
           "pattern": "Binary Search",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/ceiling-in-a-sorted-array/"
+              "link": "https://leetcode.com/problems/ceil-the-floor2802/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/ceiling-in-a-sorted-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518"
+              "link": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
             }
           ],
           "striverSolution": {
@@ -327,9 +306,7 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "Very High",
           "solveTime": "20-30 mins",
@@ -344,17 +321,17 @@ export const step4Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518"
+              "link": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518"
+              "link": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518"
+              "link": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1"
             }
           ],
           "learningLists": "Not Included",
@@ -378,10 +355,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/find-first-and-last-position-of-element-in-sorted-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/find-first-and-last-position-of-element-in-sorted-array"
             }
           ],
           "striverSolution": {
@@ -399,9 +372,11 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -443,15 +418,11 @@ export const step4Data = {
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/number-of-occurrence/"
+              "link": "https://leetcode.com/problems/number-of-occurrence2259/"
             },
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-occurrence"
             }
           ],
           "striverSolution": {
@@ -473,7 +444,7 @@ export const step4Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -520,10 +491,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/search-in-rotated-sorted-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/search-in-rotated-sorted-array"
             }
           ],
           "striverSolution": {
@@ -541,11 +508,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -592,10 +557,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/search-in-rotated-sorted-array-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/search-in-rotated-sorted-array-ii"
             }
           ],
           "striverSolution": {
@@ -615,7 +576,7 @@ export const step4Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -662,10 +623,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/find-minimum-in-rotated-sorted-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/find-minimum-in-rotated-sorted-array"
             }
           ],
           "striverSolution": {
@@ -684,10 +641,9 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -734,10 +690,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/single-element-in-a-sorted-array/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/single-element-in-a-sorted-array"
             }
           ],
           "striverSolution": {
@@ -756,10 +708,9 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -806,10 +757,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/find-peak-element/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/find-peak-element"
             }
           ],
           "striverSolution": {
@@ -830,7 +777,7 @@ export const step4Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -883,10 +830,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/square-root/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/square-root"
             }
           ],
           "striverSolution": {
@@ -905,9 +848,10 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -954,10 +898,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/find-nth-root-of-m5843"
             }
           ],
           "striverSolution": {
@@ -975,11 +915,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -1026,10 +964,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/koko-eating-bananas/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/koko-eating-bananas"
             }
           ],
           "striverSolution": {
@@ -1050,7 +984,7 @@ export const step4Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1097,10 +1031,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-number-of-days-to-make-m-bouquets/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-number-of-days-to-make-m-bouquets"
             }
           ],
           "striverSolution": {
@@ -1118,7 +1048,8 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "Low",
           "solveTime": "30-60 mins",
@@ -1167,10 +1098,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/find-the-smallest-divisor-given-a-threshold/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/find-the-smallest-divisor-given-a-threshold"
             }
           ],
           "striverSolution": {
@@ -1191,7 +1118,7 @@ export const step4Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1238,10 +1165,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/capacity-to-ship-packages-within-d-days"
             }
           ],
           "striverSolution": {
@@ -1260,10 +1183,9 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1310,10 +1232,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/kth-missing-positive-number/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/kth-missing-positive-number"
             }
           ],
           "striverSolution": {
@@ -1333,7 +1251,7 @@ export const step4Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -1380,10 +1298,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/aggressive-cows/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/aggressive-cows"
             }
           ],
           "striverSolution": {
@@ -1404,7 +1318,7 @@ export const step4Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1442,19 +1356,15 @@ export const step4Data = {
           "name": "Book Allocation Problem",
           "difficulty": "Medium",
           "pattern": "Binary Search",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/allocate-books_1090540",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/allocate-books/"
+              "link": "https://leetcode.com/problems/allocate-minimum-number-of-pages0937/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/allocate-books/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/allocate-books_1090540"
+              "link": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1"
             }
           ],
           "striverSolution": {
@@ -1473,10 +1383,9 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1489,17 +1398,17 @@ export const step4Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/allocate-books_1090540"
+              "link": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/allocate-books_1090540"
+              "link": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/allocate-books_1090540"
+              "link": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1"
             }
           ],
           "learningLists": "Not Included",
@@ -1523,10 +1432,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/split-array-largest-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/split-array-largest-sum"
             }
           ],
           "striverSolution": {
@@ -1546,7 +1451,7 @@ export const step4Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1584,19 +1489,15 @@ export const step4Data = {
           "name": "Painter's Partition",
           "difficulty": "Medium",
           "pattern": "Binary Search",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/painter-s-partition-problem/"
+              "link": "https://leetcode.com/problems/the-painters-partition-problem1535/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/painter-s-partition-problem/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557"
+              "link": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1"
             }
           ],
           "striverSolution": {
@@ -1615,9 +1516,10 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1630,17 +1532,17 @@ export const step4Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557"
+              "link": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557"
+              "link": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557"
+              "link": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1"
             }
           ],
           "learningLists": "Not Included",
@@ -1664,10 +1566,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimize-max-distance-to-gas-station"
             }
           ],
           "striverSolution": {
@@ -1685,8 +1583,7 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Low",
           "solveTime": "60-120 mins",
@@ -1735,10 +1632,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/median-of-two-sorted-arrays/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/median-of-two-sorted-arrays"
             }
           ],
           "striverSolution": {
@@ -1757,8 +1650,7 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "High",
           "solveTime": "60-120 mins",
@@ -1807,10 +1699,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/k-th-element-of-two-sorted-array1317"
             }
           ],
           "striverSolution": {
@@ -1829,9 +1717,10 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(log(min(N,M)))",
           "sc": "O(1)",
@@ -1884,10 +1773,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/row-with-max-1s0023"
             }
           ],
           "striverSolution": {
@@ -1905,11 +1790,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N + M)",
           "sc": "O(1)",
@@ -1956,10 +1839,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/search-a-2d-matrix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/search-a-2d-matrix"
             }
           ],
           "striverSolution": {
@@ -1977,11 +1856,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(log(N*M))",
           "sc": "O(1)",
@@ -2028,10 +1905,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/search-a-2d-matrix-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/search-a-2d-matrix-ii"
             }
           ],
           "striverSolution": {
@@ -2050,9 +1923,10 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N + M)",
           "sc": "O(1)",
@@ -2099,10 +1973,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/find-a-peak-element-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/find-a-peak-element-ii"
             }
           ],
           "striverSolution": {
@@ -2121,7 +1991,8 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Very High",
           "solveTime": "60-120 mins",
@@ -2170,10 +2041,6 @@ export const step4Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/median-in-a-row-wise-sorted-matrix1527"
             }
           ],
           "striverSolution": {
@@ -2194,7 +2061,7 @@ export const step4Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(32 * N log M)",
           "sc": "O(1)",

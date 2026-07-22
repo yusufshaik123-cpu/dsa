@@ -11,20 +11,20 @@ const stepsCatalog = [
         lectureNumber: 1,
         lectureTitle: "Easy",
         problems: [
-          { name: "Largest Element in Array", slug: "largest-element-in-an-array", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
-          { name: "Second Largest Element in Array", slug: "second-largest", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
+          { name: "Largest Element in Array", slug: "largest-element-in-an-array-1587115620", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
+          { name: "Second Largest Element in Array", slug: "second-largest3735", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
           { name: "Check if Array is Sorted", slug: "check-if-array-is-sorted-and-rotated", primary: "leetcode", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
           { name: "Remove Duplicates from Sorted Array", slug: "remove-duplicates-from-sorted-array", primary: "leetcode", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
-          { name: "Left Rotate Array by One", slug: "left-rotate-an-array-by-one", primary: "codingninjas", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
+          { name: "Left Rotate Array by One", slug: "rotate-array-by-n-elements-1587115621", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
           { name: "Left Rotate Array by D Places", slug: "rotate-array", primary: "leetcode", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
           { name: "Move Zeroes to End", slug: "move-zeroes", primary: "leetcode", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
-          { name: "Linear Search", slug: "linear-search", primary: "codingninjas", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
-          { name: "Find Union of Two Sorted Arrays", slug: "union-of-two-sorted-arrays", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N+M)", sc: "O(N+M)" },
+          { name: "Linear Search", slug: "search-an-element-in-an-array-1587115621", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
+          { name: "Find Union of Two Sorted Arrays", slug: "union-of-two-sorted-arrays-1587115621", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N+M)", sc: "O(N+M)" },
           { name: "Find Missing Number", slug: "missing-number", primary: "leetcode", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
           { name: "Max Consecutive Ones", slug: "max-consecutive-ones", primary: "leetcode", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
           { name: "Single Number", slug: "single-number", primary: "leetcode", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
-          { name: "Longest Subarray with Sum K (Positives)", slug: "longest-subarray-with-sum-k", primary: "codingninjas", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
-          { name: "Longest Subarray with Sum K (Positives + Negatives)", slug: "longest-sub-array-with-sum-k", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(N)" }
+          { name: "Longest Subarray with Sum K (Positives)", slug: "longest-sub-array-with-sum-k3024", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(1)" },
+          { name: "Longest Subarray with Sum K (Positives + Negatives)", slug: "longest-sub-array-with-sum-k3024", primary: "gfg", pat: "Array", diff: "Easy", tc: "O(N)", sc: "O(N)" }
         ]
       },
       {
@@ -35,11 +35,11 @@ const stepsCatalog = [
           { name: "Sort Colors (0s, 1s, and 2s)", slug: "sort-colors", primary: "leetcode", pat: "Two Pointer", diff: "Medium", tc: "O(N)", sc: "O(1)" },
           { name: "Majority Element (> N/2 times)", slug: "majority-element", primary: "leetcode", pat: "Math/Array", diff: "Medium", tc: "O(N)", sc: "O(1)" },
           { name: "Maximum Subarray Sum (Kadane's)", slug: "maximum-subarray", primary: "leetcode", pat: "Array", diff: "Medium", tc: "O(N)", sc: "O(1)" },
-          { name: "Print Maximum Subarray", slug: "kadanes-algorithm", primary: "gfg", pat: "Array", diff: "Medium", tc: "O(N)", sc: "O(1)" },
+          { name: "Print Maximum Subarray", slug: "kadanes-algorithm-1587115620", primary: "gfg", pat: "Array", diff: "Medium", tc: "O(N)", sc: "O(1)" },
           { name: "Stock Buy and Sell", slug: "best-time-to-buy-and-sell-stock", primary: "leetcode", pat: "Array", diff: "Medium", tc: "O(N)", sc: "O(1)" },
           { name: "Rearrange Array Elements by Sign", slug: "rearrange-array-elements-by-sign", primary: "leetcode", pat: "Two Pointer", diff: "Medium", tc: "O(N)", sc: "O(N)" },
           { name: "Next Permutation", slug: "next-permutation", primary: "leetcode", pat: "Array", diff: "Medium", tc: "O(N)", sc: "O(1)" },
-          { name: "Leaders in an Array", slug: "leaders-in-an-array", primary: "gfg", pat: "Array", diff: "Medium", tc: "O(N)", sc: "O(1)" },
+          { name: "Leaders in an Array", slug: "leaders-in-an-array-1587115620", primary: "gfg", pat: "Array", diff: "Medium", tc: "O(N)", sc: "O(1)" },
           { name: "Longest Consecutive Sequence", slug: "longest-consecutive-sequence", primary: "leetcode", pat: "HashSet", diff: "Medium", tc: "O(N)", sc: "O(N)" },
           { name: "Set Matrix Zeroes", slug: "set-matrix-zeroes", primary: "leetcode", pat: "Matrix", diff: "Medium", tc: "O(N*M)", sc: "O(1)" },
           { name: "Rotate Matrix by 90 Degrees", slug: "rotate-image", primary: "leetcode", pat: "Matrix", diff: "Medium", tc: "O(N^2)", sc: "O(1)" },
@@ -59,8 +59,8 @@ const stepsCatalog = [
           { name: "Subarrays with XOR K", slug: "subarray-with-given-xor", primary: "interviewbit", pat: "HashMap", diff: "Hard", tc: "O(N)", sc: "O(N)" },
           { name: "Merge Overlapping Intervals", slug: "merge-intervals", primary: "leetcode", pat: "Sorting", diff: "Hard", tc: "O(N log N)", sc: "O(1)" },
           { name: "Merge Sorted Arrays without Extra Space", slug: "merge-sorted-array", primary: "leetcode", pat: "Two Pointer", diff: "Hard", tc: "O((N+M) log(N+M))", sc: "O(1)" },
-          { name: "Find Duplicate and Missing Number", slug: "find-missing-and-repeating", primary: "gfg", pat: "Math/Hashing", diff: "Hard", tc: "O(N)", sc: "O(1)" },
-          { name: "Number of Inversions", slug: "inversion-of-array", primary: "gfg", pat: "Merge Sort", diff: "Hard", tc: "O(N log N)", sc: "O(N)" },
+          { name: "Find Duplicate and Missing Number", slug: "find-missing-and-repeating2512", primary: "gfg", pat: "Math/Hashing", diff: "Hard", tc: "O(N)", sc: "O(1)" },
+          { name: "Number of Inversions", slug: "inversion-of-array-1587115620", primary: "gfg", pat: "Merge Sort", diff: "Hard", tc: "O(N log N)", sc: "O(N)" },
           { name: "Reverse Pairs", slug: "reverse-pairs", primary: "leetcode", pat: "Merge Sort", diff: "Hard", tc: "O(N log N)", sc: "O(N)" },
           { name: "Maximum Product Subarray", slug: "maximum-product-subarray", primary: "leetcode", pat: "Dynamic Programming", diff: "Hard", tc: "O(N)", sc: "O(1)" }
         ]
@@ -76,12 +76,12 @@ const stepsCatalog = [
         lectureTitle: "BS on 1D Arrays",
         problems: [
           { name: "Binary Search", slug: "binary-search", primary: "leetcode", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
-          { name: "Lower Bound Implementation", slug: "lower-bound", primary: "codingninjas", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
-          { name: "Upper Bound Implementation", slug: "implement-upper-bound", primary: "codingninjas", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
+          { name: "Lower Bound Implementation", slug: "floor-in-a-sorted-array-1587115620", primary: "gfg", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
+          { name: "Upper Bound Implementation", slug: "ceil-the-floor2802", primary: "gfg", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
           { name: "Search Insert Position", slug: "search-insert-position", primary: "leetcode", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
-          { name: "Floor and Ceil in Sorted Array", slug: "ceiling-in-a-sorted-array", primary: "codingninjas", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
+          { name: "Floor and Ceil in Sorted Array", slug: "ceil-the-floor2802", primary: "gfg", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
           { name: "First and Last Occurrence of Key", slug: "find-first-and-last-position-of-element-in-sorted-array", primary: "leetcode", pat: "Binary Search", diff: "Medium", tc: "O(log N)", sc: "O(1)" },
-          { name: "Count Occurrences in Sorted Array", slug: "number-of-occurrence", primary: "gfg", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
+          { name: "Count Occurrences in Sorted Array", slug: "number-of-occurrence2259", primary: "gfg", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
           { name: "Search in Rotated Sorted Array I", slug: "search-in-rotated-sorted-array", primary: "leetcode", pat: "Binary Search", diff: "Medium", tc: "O(log N)", sc: "O(1)" },
           { name: "Search in Rotated Sorted Array II", slug: "search-in-rotated-sorted-array-ii", primary: "leetcode", pat: "Binary Search", diff: "Medium", tc: "O(log N)", sc: "O(1)" },
           { name: "Find Minimum in Rotated Sorted Array", slug: "find-minimum-in-rotated-sorted-array", primary: "leetcode", pat: "Binary Search", diff: "Medium", tc: "O(log N)", sc: "O(1)" },
@@ -101,9 +101,9 @@ const stepsCatalog = [
           { name: "Capacity to Ship Packages Within D Days", slug: "capacity-to-ship-packages-within-d-days", primary: "leetcode", pat: "Binary Search", diff: "Medium", tc: "O(N log M)", sc: "O(1)" },
           { name: "Kth Missing Positive Number", slug: "kth-missing-positive-number", primary: "leetcode", pat: "Binary Search", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
           { name: "Aggressive Cows", slug: "aggressive-cows", primary: "gfg", pat: "Binary Search", diff: "Medium", tc: "O(N log M)", sc: "O(1)" },
-          { name: "Book Allocation Problem", slug: "allocate-books", primary: "codingninjas", pat: "Binary Search", diff: "Medium", tc: "O(N log M)", sc: "O(1)" },
+          { name: "Book Allocation Problem", slug: "allocate-minimum-number-of-pages0937", primary: "gfg", pat: "Binary Search", diff: "Medium", tc: "O(N log M)", sc: "O(1)" },
           { name: "Split Array Largest Sum", slug: "split-array-largest-sum", primary: "leetcode", pat: "Binary Search", diff: "Hard", tc: "O(N log M)", sc: "O(1)" },
-          { name: "Painter's Partition", slug: "painter-s-partition-problem", primary: "codingninjas", pat: "Binary Search", diff: "Medium", tc: "O(N log M)", sc: "O(1)" },
+          { name: "Painter's Partition", slug: "the-painters-partition-problem1535", primary: "gfg", pat: "Binary Search", diff: "Medium", tc: "O(N log M)", sc: "O(1)" },
           { name: "Minimize Max Distance to Gas Station", slug: "minimize-max-distance-to-gas-station", primary: "gfg", pat: "Binary Search", diff: "Hard", tc: "O(N log M)", sc: "O(1)" },
           { name: "Median of Two Sorted Arrays", slug: "median-of-two-sorted-arrays", primary: "leetcode", pat: "Binary Search", diff: "Hard", tc: "O(log(min(N,M)))", sc: "O(1)" },
           { name: "Kth Element of Two Sorted Arrays", slug: "k-th-element-of-two-sorted-array1317", primary: "gfg", pat: "Binary Search", diff: "Medium", tc: "O(log(min(N,M)))", sc: "O(1)" }
@@ -147,7 +147,7 @@ const stepsCatalog = [
           { name: "Maximum Nesting Depth of Parentheses", slug: "maximum-nesting-depth-of-the-parentheses", primary: "leetcode", pat: "String", diff: "Easy", tc: "O(N)", sc: "O(1)" },
           { name: "Roman to Integer", slug: "roman-to-integer", primary: "leetcode", pat: "String", diff: "Easy", tc: "O(N)", sc: "O(1)" },
           { name: "Integer to Roman", slug: "integer-to-roman", primary: "leetcode", pat: "String", diff: "Medium", tc: "O(1)", sc: "O(1)" },
-          { name: "Implement Atoi (String to Integer)", slug: "string-to-integer-atoi", primary: "leetcode", pat: "String/Math", diff: "Medium", tc: "O(N)", sc: "O(1)" },
+          { name: "Implement Await (String to Integer)", slug: "string-to-integer-atoi", primary: "leetcode", pat: "String/Math", diff: "Medium", tc: "O(N)", sc: "O(1)" },
           { name: "Count Substrings with K Distinct Chars", slug: "subarrays-with-k-different-integers", primary: "leetcode", pat: "Sliding Window", diff: "Hard", tc: "O(N)", sc: "O(N)" },
           { name: "Longest Palindromic Substring", slug: "longest-palindromic-substring", primary: "leetcode", pat: "String/DP", diff: "Medium", tc: "O(N^2)", sc: "O(1)" },
           { name: "Sum of Beauty of All Substrings", slug: "sum-of-beauty-of-all-substrings", primary: "leetcode", pat: "String", diff: "Medium", tc: "O(N^2)", sc: "O(1)" }
@@ -164,7 +164,7 @@ const stepsCatalog = [
         lectureTitle: "1D LinkedList",
         problems: [
           { name: "Array to LinkedList", slug: "introduction-to-linked-list", primary: "gfg", pat: "LinkedList", diff: "Easy", tc: "O(N)", sc: "O(N)" },
-          { name: "Insert Node in LinkedList", slug: "insert-node-at-the-beginning", primary: "codingninjas", pat: "LinkedList", diff: "Easy", tc: "O(1)", sc: "O(1)" },
+          { name: "Insert Node in LinkedList", slug: "linked-list-insertion-1587115620", primary: "gfg", pat: "LinkedList", diff: "Easy", tc: "O(1)", sc: "O(1)" },
           { name: "Delete Node in LinkedList", slug: "delete-node-in-a-linked-list", primary: "leetcode", pat: "LinkedList", diff: "Easy", tc: "O(1)", sc: "O(1)" },
           { name: "Length of LinkedList", slug: "count-nodes-of-linked-list", primary: "gfg", pat: "LinkedList", diff: "Easy", tc: "O(N)", sc: "O(1)" },
           { name: "Search Element in LinkedList", slug: "search-in-linked-list-1664414816", primary: "gfg", pat: "LinkedList", diff: "Easy", tc: "O(N)", sc: "O(1)" }
@@ -174,10 +174,10 @@ const stepsCatalog = [
         lectureNumber: 2,
         lectureTitle: "Doubly LinkedList",
         problems: [
-          { name: "Array to Doubly LinkedList", slug: "introduction-to-doubly-linked-list", primary: "codingninjas", pat: "Doubly LinkedList", diff: "Easy", tc: "O(N)", sc: "O(N)" },
-          { name: "Insert Node in Doubly LinkedList", slug: "insert-node-in-dll", primary: "codingninjas", pat: "Doubly LinkedList", diff: "Easy", tc: "O(1)", sc: "O(1)" },
-          { name: "Delete Node in Doubly LinkedList", slug: "delete-node-in-dll", primary: "codingninjas", pat: "Doubly LinkedList", diff: "Easy", tc: "O(1)", sc: "O(1)" },
-          { name: "Reverse a Doubly LinkedList", slug: "reverse-a-doubly-linked-list", primary: "codingninjas", pat: "Doubly LinkedList", diff: "Easy", tc: "O(N)", sc: "O(1)" }
+          { name: "Array to Doubly LinkedList", slug: "introduction-to-doubly-linked-list", primary: "gfg", pat: "Doubly LinkedList", diff: "Easy", tc: "O(N)", sc: "O(N)" },
+          { name: "Insert Node in Doubly LinkedList", slug: "insert-a-node-in-doubly-linked-list", primary: "gfg", pat: "Doubly LinkedList", diff: "Easy", tc: "O(1)", sc: "O(1)" },
+          { name: "Delete Node in Doubly LinkedList", slug: "delete-node-in-doubly-linked-list", primary: "gfg", pat: "Doubly LinkedList", diff: "Easy", tc: "O(1)", sc: "O(1)" },
+          { name: "Reverse a Doubly LinkedList", slug: "reverse-a-doubly-linked-list", primary: "gfg", pat: "Doubly LinkedList", diff: "Easy", tc: "O(N)", sc: "O(1)" }
         ]
       },
       {
@@ -245,7 +245,7 @@ const stepsCatalog = [
           { name: "Generate Binary Strings without Consecutive 1s", slug: "generate-all-binary-strings", primary: "gfg", pat: "Recursion", diff: "Medium", tc: "O(2^N)", sc: "O(N)" },
           { name: "Generate All Balanced Parentheses", slug: "generate-parentheses", primary: "leetcode", pat: "Backtracking", diff: "Medium", tc: "O(4^N / sqrt(N))", sc: "O(N)" },
           { name: "Print All Subsequences / Power Set", slug: "subsets", primary: "leetcode", pat: "Backtracking", diff: "Medium", tc: "O(2^N * N)", sc: "O(N)" },
-          { name: "Subsets I", slug: "subset-sum-problem", primary: "gfg", pat: "Recursion", diff: "Easy", tc: "O(2^N)", sc: "O(N)" },
+          { name: "Subsets I", slug: "subset-sum-problem-1611555635", primary: "gfg", pat: "Recursion", diff: "Easy", tc: "O(2^N)", sc: "O(N)" },
           { name: "Subsets II", slug: "subsets-ii", primary: "leetcode", pat: "Backtracking", diff: "Medium", tc: "O(2^N * N)", sc: "O(N)" },
           { name: "Combination Sum I", slug: "combination-sum", primary: "leetcode", pat: "Backtracking", diff: "Medium", tc: "O(2^T * K)", sc: "O(T)" },
           { name: "Combination Sum II", slug: "combination-sum-ii", primary: "leetcode", pat: "Backtracking", diff: "Medium", tc: "O(2^N * K)", sc: "O(N)" },
@@ -283,7 +283,7 @@ const stepsCatalog = [
           { name: "Check if Number is Power of Two", slug: "power-of-two", primary: "leetcode", pat: "Bit Manipulation", diff: "Easy", tc: "O(1)", sc: "O(1)" },
           { name: "Count Number of Set Bits", slug: "number-of-1-bits", primary: "leetcode", pat: "Bit Manipulation", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
           { name: "Set/Clear Rightmost Set Bit", slug: "set-rightmost-unset-bit", primary: "gfg", pat: "Bit Manipulation", diff: "Easy", tc: "O(1)", sc: "O(1)" },
-          { name: "Swap Two Numbers Using Bitwise", slug: "swap-two-numbers", primary: "codingninjas", pat: "Bit Manipulation", diff: "Easy", tc: "O(1)", sc: "O(1)" },
+          { name: "Swap Two Numbers Using Bitwise", slug: "swap-two-numbers", primary: "leetcode", pat: "Bit Manipulation", diff: "Easy", tc: "O(1)", sc: "O(1)" },
           { name: "Divide Two Integers Without Operators", slug: "divide-two-integers", primary: "leetcode", pat: "Bit Manipulation", diff: "Medium", tc: "O(log N)", sc: "O(1)" }
         ]
       },
@@ -309,12 +309,12 @@ const stepsCatalog = [
         lectureNumber: 1,
         lectureTitle: "Learning Stack and Queue",
         problems: [
-          { name: "Implement Stack Using Array", slug: "implement-stack-using-array", primary: "codingninjas", pat: "Stack", diff: "Easy", tc: "O(1)", sc: "O(N)" },
-          { name: "Implement Queue Using Array", slug: "implement-queue-using-array", primary: "codingninjas", pat: "Queue", diff: "Easy", tc: "O(1)", sc: "O(N)" },
+          { name: "Implement Stack Using Array", slug: "implement-stack-using-array", primary: "gfg", pat: "Stack", diff: "Easy", tc: "O(1)", sc: "O(N)" },
+          { name: "Implement Queue Using Array", slug: "implement-queue-using-array", primary: "gfg", pat: "Queue", diff: "Easy", tc: "O(1)", sc: "O(N)" },
           { name: "Implement Stack Using Queues", slug: "implement-stack-using-queues", primary: "leetcode", pat: "Queue", diff: "Easy", tc: "O(N)", sc: "O(N)" },
           { name: "Implement Queue Using Stacks", slug: "implement-queue-using-stacks", primary: "leetcode", pat: "Stack", diff: "Easy", tc: "O(1) amortized", sc: "O(N)" },
-          { name: "Implement Stack Using LinkedList", slug: "implement-stack-using-linked-list", primary: "codingninjas", pat: "LinkedList", diff: "Easy", tc: "O(1)", sc: "O(N)" },
-          { name: "Implement Queue Using LinkedList", slug: "implement-queue-using-linked-list", primary: "codingninjas", pat: "LinkedList", diff: "Easy", tc: "O(1)", sc: "O(N)" },
+          { name: "Implement Stack Using LinkedList", slug: "implement-stack-using-linked-list", primary: "gfg", pat: "LinkedList", diff: "Easy", tc: "O(1)", sc: "O(N)" },
+          { name: "Implement Queue Using LinkedList", slug: "implement-queue-using-linked-list", primary: "gfg", pat: "LinkedList", diff: "Easy", tc: "O(1)", sc: "O(N)" },
           { name: "Check for Balanced Parentheses", slug: "valid-parentheses", primary: "leetcode", pat: "Stack", diff: "Easy", tc: "O(N)", sc: "O(N)" },
           { name: "Implement Min Stack", slug: "min-stack", primary: "leetcode", pat: "Stack", diff: "Medium", tc: "O(1)", sc: "O(N)" }
         ]
@@ -381,7 +381,7 @@ const stepsCatalog = [
         lectureNumber: 2,
         lectureTitle: "Hard Problems",
         problems: [
-          { name: "Longest Substring with At Most K Distinct Chars", slug: "longest-substring-with-at-most-k-distinct-characters", primary: "codingninjas", pat: "Sliding Window", diff: "Hard", tc: "O(N)", sc: "O(K)" },
+          { name: "Longest Substring with At Most K Distinct Chars", slug: "longest-k-unique-characters-substring0853", primary: "gfg", pat: "Sliding Window", diff: "Hard", tc: "O(N)", sc: "O(K)" },
           { name: "Subarrays with K Different Integers", slug: "subarrays-with-k-different-integers", primary: "leetcode", pat: "Sliding Window", diff: "Hard", tc: "O(N)", sc: "O(K)" },
           { name: "Minimum Window Substring", slug: "minimum-window-substring", primary: "leetcode", pat: "Sliding Window", diff: "Hard", tc: "O(N)", sc: "O(1)" },
           { name: "Minimum Window Subsequence", slug: "minimum-window-subsequence", primary: "gfg", pat: "Sliding Window", diff: "Hard", tc: "O(N * M)", sc: "O(1)" }
@@ -397,9 +397,9 @@ const stepsCatalog = [
         lectureNumber: 1,
         lectureTitle: "Learning Heap",
         problems: [
-          { name: "Min/Max Heap Implementation", slug: "min-heap", primary: "codingninjas", pat: "Heap", diff: "Easy", tc: "O(log N)", sc: "O(N)" },
+          { name: "Min/Max Heap Implementation", slug: "operations-on-binary-min-heap", primary: "gfg", pat: "Heap", diff: "Easy", tc: "O(log N)", sc: "O(N)" },
           { name: "Binary Heap Operations", slug: "heap-operations", primary: "gfg", pat: "Heap", diff: "Easy", tc: "O(log N)", sc: "O(1)" },
-          { name: "Priority Queue Implementation", slug: "priority-queue", primary: "codingninjas", pat: "Heap", diff: "Easy", tc: "O(log N)", sc: "O(N)" }
+          { name: "Priority Queue Implementation", slug: "operations-on-binary-min-heap", primary: "gfg", pat: "Heap", diff: "Easy", tc: "O(log N)", sc: "O(N)" }
         ]
       },
       {
@@ -413,7 +413,7 @@ const stepsCatalog = [
           { name: "Task Scheduler", slug: "task-scheduler", primary: "leetcode", pat: "Greedy/Heap", diff: "Medium", tc: "O(N)", sc: "O(1)" },
           { name: "Hand of Straights", slug: "hand-of-straights", primary: "leetcode", pat: "Greedy/HashMap", diff: "Medium", tc: "O(N log N)", sc: "O(N)" },
           { name: "Design Twitter", slug: "design-twitter", primary: "leetcode", pat: "Design/Heap", diff: "Medium", tc: "O(V log K)", sc: "O(V)" },
-          { name: "Merge K Sorted Arrays", slug: "merge-k-sorted-arrays", primary: "codingninjas", pat: "Heap", diff: "Medium", tc: "O(N log K)", sc: "O(K)" },
+          { name: "Merge K Sorted Arrays", slug: "merge-k-sorted-arrays", primary: "gfg", pat: "Heap", diff: "Medium", tc: "O(N log K)", sc: "O(K)" },
           { name: "Merge K Sorted Lists", slug: "merge-k-sorted-lists", primary: "leetcode", pat: "Heap", diff: "Hard", tc: "O(N log K)", sc: "O(K)" }
         ]
       },
@@ -470,13 +470,13 @@ const stepsCatalog = [
         lectureNumber: 1,
         lectureTitle: "Traversals",
         problems: [
-          { name: "Introduction to Trees", slug: "introduction-to-trees", primary: "codingninjas", pat: "Binary Tree", diff: "Easy", tc: "O(1)", sc: "O(1)" },
-          { name: "Binary Tree Representation", slug: "binary-tree-representation", primary: "codingninjas", pat: "Binary Tree", diff: "Easy", tc: "O(N)", sc: "O(N)" },
+          { name: "Introduction to Trees", slug: "binary-tree-representation", primary: "gfg", pat: "Binary Tree", diff: "Easy", tc: "O(1)", sc: "O(1)" },
+          { name: "Binary Tree Representation", slug: "binary-tree-representation", primary: "gfg", pat: "Binary Tree", diff: "Easy", tc: "O(N)", sc: "O(N)" },
           { name: "Preorder Traversal of Binary Tree", slug: "binary-tree-preorder-traversal", primary: "leetcode", pat: "DFS", diff: "Easy", tc: "O(N)", sc: "O(N)" },
           { name: "Inorder Traversal of Binary Tree", slug: "binary-tree-inorder-traversal", primary: "leetcode", pat: "DFS", diff: "Easy", tc: "O(N)", sc: "O(N)" },
           { name: "Postorder Traversal of Binary Tree", slug: "binary-tree-postorder-traversal", primary: "leetcode", pat: "DFS", diff: "Easy", tc: "O(N)", sc: "O(N)" },
           { name: "Level Order Traversal", slug: "binary-tree-level-order-traversal", primary: "leetcode", pat: "BFS", diff: "Medium", tc: "O(N)", sc: "O(N)" },
-          { name: "Iterative Traversals (Pre, In, Post)", slug: "iterative-traversals", primary: "codingninjas", pat: "DFS", diff: "Medium", tc: "O(N)", sc: "O(N)" }
+          { name: "Iterative Traversals (Pre, In, Post)", slug: "preorder-traversal-iterative", primary: "gfg", pat: "DFS", diff: "Medium", tc: "O(N)", sc: "O(N)" }
         ]
       },
       {
@@ -504,11 +504,11 @@ const stepsCatalog = [
           { name: "Root to Leaf Paths", slug: "root-to-leaf-paths", primary: "gfg", pat: "DFS", diff: "Medium", tc: "O(N)", sc: "O(N)" },
           { name: "Lowest Common Ancestor", slug: "lowest-common-ancestor-of-a-binary-tree", primary: "leetcode", pat: "DFS", diff: "Medium", tc: "O(N)", sc: "O(N)" },
           { name: "Maximum Width of Binary Tree", slug: "maximum-width-of-binary-tree", primary: "leetcode", pat: "BFS", diff: "Medium", tc: "O(N)", sc: "O(N)" },
-          { name: "Children Sum Property in Binary Tree", slug: "children-sum-property", primary: "codingninjas", pat: "DFS", diff: "Medium", tc: "O(N)", sc: "O(N)" },
+          { name: "Children Sum Property in Binary Tree", slug: "children-sum-parent", primary: "gfg", pat: "DFS", diff: "Medium", tc: "O(N)", sc: "O(N)" },
           { name: "Print All Nodes at Distance K", slug: "all-nodes-distance-k-in-binary-tree", primary: "leetcode", pat: "BFS/DFS", diff: "Medium", tc: "O(N)", sc: "O(N)" },
           { name: "Minimum Time to Burn a Tree", slug: "burning-tree", primary: "gfg", pat: "BFS", diff: "Hard", tc: "O(N)", sc: "O(N)" },
           { name: "Count Complete Tree Nodes", slug: "count-complete-tree-nodes", primary: "leetcode", pat: "DFS/Math", diff: "Easy", tc: "O(log^2 N)", sc: "O(log N)" },
-          { name: "Requirements to Construct Binary Tree", slug: "construct-binary-tree", primary: "codingninjas", pat: "Concept", diff: "Easy", tc: "O(1)", sc: "O(1)" },
+          { name: "Requirements to Construct Binary Tree", slug: "construct-binary-tree", primary: "leetcode", pat: "Concept", diff: "Easy", tc: "O(1)", sc: "O(1)" },
           { name: "Serialize and Deserialize Binary Tree", slug: "serialize-and-deserialize-binary-tree", primary: "leetcode", pat: "BFS/DFS", diff: "Hard", tc: "O(N)", sc: "O(N)" }
         ]
       }
@@ -522,7 +522,7 @@ const stepsCatalog = [
         lectureNumber: 1,
         lectureTitle: "Concepts",
         problems: [
-          { name: "Introduction to BST", slug: "introduction-to-bst", primary: "codingninjas", pat: "BST", diff: "Easy", tc: "O(1)", sc: "O(1)" },
+          { name: "Introduction to BST", slug: "binary-search-trees", primary: "gfg", pat: "BST", diff: "Easy", tc: "O(1)", sc: "O(1)" },
           { name: "Search in Binary Search Tree", slug: "search-in-a-binary-search-tree", primary: "leetcode", pat: "BST", diff: "Easy", tc: "O(log N)", sc: "O(log N)" },
           { name: "Find Minimum/Maximum Value in BST", slug: "minimum-element-in-bst", primary: "gfg", pat: "BST", diff: "Easy", tc: "O(log N)", sc: "O(1)" }
         ]
@@ -602,7 +602,7 @@ const stepsCatalog = [
         problems: [
           { name: "Prim's Algorithm (Minimum Spanning Tree)", slug: "minimum-spanning-tree-prims", primary: "gfg", pat: "Dijkstra", diff: "Medium", tc: "O(E log V)", sc: "O(V)" },
           { name: "Kruskal's Algorithm", slug: "minimum-spanning-tree-kruskals", primary: "gfg", pat: "Disjoint Set", diff: "Medium", tc: "O(E log V)", sc: "O(V)" },
-          { name: "Disjoint Set (Union-Find)", slug: "disjoint-set-union-find", primary: "codingninjas", pat: "Disjoint Set", diff: "Easy", tc: "O(Alpha(N))", sc: "O(N)" },
+          { name: "Disjoint Set (Union-Find)", slug: "disjoint-set-union-find", primary: "gfg", pat: "Disjoint Set", diff: "Easy", tc: "O(Alpha(N))", sc: "O(N)" },
           { name: "Operations to Make Network Connected", slug: "number-of-operations-to-make-network-connected", primary: "leetcode", pat: "Disjoint Set", diff: "Medium", tc: "O(V + E)", sc: "O(V)" },
           { name: "Most Stones Removed with Same Row or Column", slug: "most-stones-removed-with-same-row-or-column", primary: "leetcode", pat: "Disjoint Set", diff: "Medium", tc: "O(N)", sc: "O(N)" },
           { name: "Accounts Merge", slug: "accounts-merge", primary: "leetcode", pat: "Disjoint Set", diff: "Medium", tc: "O(N log N)", sc: "O(N)" },
@@ -629,7 +629,7 @@ const stepsCatalog = [
         lectureNumber: 1,
         lectureTitle: "Introduction",
         problems: [
-          { name: "Introduction to Dynamic Programming", slug: "introduction-to-dp", primary: "codingninjas", pat: "DP", diff: "Easy", tc: "O(N)", sc: "O(N)" },
+          { name: "Introduction to Dynamic Programming", slug: "introduction-to-dp", primary: "gfg", pat: "DP", diff: "Easy", tc: "O(N)", sc: "O(N)" },
           { name: "Climbing Stairs", slug: "climbing-stairs", primary: "leetcode", pat: "DP", diff: "Easy", tc: "O(N)", sc: "O(1)" }
         ]
       },
@@ -637,12 +637,12 @@ const stepsCatalog = [
         lectureNumber: 2,
         lectureTitle: "1D DP",
         problems: [
-          { name: "Frog Jump", slug: "frog-jump", primary: "codingninjas", pat: "DP", diff: "Easy", tc: "O(N)", sc: "O(1)" },
+          { name: "Frog Jump", slug: "geek-jump", primary: "gfg", pat: "DP", diff: "Easy", tc: "O(N)", sc: "O(1)" },
           { name: "Frog Jump with K Jumps", slug: "minimal-cost", primary: "gfg", pat: "DP", diff: "Medium", tc: "O(N * K)", sc: "O(N)" },
-          { name: "Maximum Sum of Non-Adjacent Elements", slug: "maximum-sum-of-non-adjacent-elements", primary: "codingninjas", pat: "DP", diff: "Medium", tc: "O(N)", sc: "O(1)" },
+          { name: "Maximum Sum of Non-Adjacent Elements", slug: "max-sum-without-adjacents2430", primary: "gfg", pat: "DP", diff: "Medium", tc: "O(N)", sc: "O(1)" },
           { name: "House Robber", slug: "house-robber", primary: "leetcode", pat: "DP", diff: "Medium", tc: "O(N)", sc: "O(1)" },
           { name: "House Robber II", slug: "house-robber-ii", primary: "leetcode", pat: "DP", diff: "Medium", tc: "O(N)", sc: "O(1)" },
-          { name: "Ninja's Training", slug: "ninja-training", primary: "codingninjas", pat: "DP", diff: "Medium", tc: "O(N * 4)", sc: "O(4)" }
+          { name: "Ninja's Training", slug: "geeks-training", primary: "gfg", pat: "DP", diff: "Medium", tc: "O(N * 4)", sc: "O(4)" }
         ]
       },
       {
@@ -661,9 +661,9 @@ const stepsCatalog = [
         lectureNumber: 4,
         lectureTitle: "DP on Subsequences",
         problems: [
-          { name: "Subset Sum Equals K", slug: "subset-sum-equal-to-k", primary: "codingninjas", pat: "DP", diff: "Medium", tc: "O(N * K)", sc: "O(K)" },
+          { name: "Subset Sum Equals K", slug: "subset-sum-problem-1611555635", primary: "gfg", pat: "DP", diff: "Medium", tc: "O(N * K)", sc: "O(K)" },
           { name: "Partition Equal Subset Sum", slug: "partition-equal-subset-sum", primary: "leetcode", pat: "DP", diff: "Medium", tc: "O(N * Sum)", sc: "O(Sum)" },
-          { name: "Partition Array into Two Subsets with Min Difference", slug: "partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference", primary: "codingninjas", pat: "DP", diff: "Hard", tc: "O(N * Sum)", sc: "O(Sum)" },
+          { name: "Partition Array into Two Subsets with Min Difference", slug: "minimum-sum-partition3317", primary: "gfg", pat: "DP", diff: "Hard", tc: "O(N * Sum)", sc: "O(Sum)" },
           { name: "Count Subsets with Sum K", slug: "perfect-sum-problem", primary: "gfg", pat: "DP", diff: "Medium", tc: "O(N * K)", sc: "O(K)" },
           { name: "Count Partitions with Given Difference", slug: "partitions-with-given-difference", primary: "gfg", pat: "DP", diff: "Medium", tc: "O(N * Sum)", sc: "O(Sum)" },
           { name: "0-1 Knapsack Problem", slug: "0-1-knapsack-problem", primary: "gfg", pat: "DP", diff: "Medium", tc: "O(N * W)", sc: "O(W)" },
@@ -679,7 +679,7 @@ const stepsCatalog = [
         lectureTitle: "DP on Strings",
         problems: [
           { name: "Longest Common Subsequence", slug: "longest-common-subsequence", primary: "leetcode", pat: "DP on Strings", diff: "Medium", tc: "O(N * M)", sc: "O(M)" },
-          { name: "Print Longest Common Subsequence", slug: "print-lcs", primary: "codingninjas", pat: "DP on Strings", diff: "Medium", tc: "O(N * M)", sc: "O(N * M)" },
+          { name: "Print Longest Common Subsequence", slug: "longest-common-subsequence-1587115620", primary: "gfg", pat: "DP on Strings", diff: "Medium", tc: "O(N * M)", sc: "O(N * M)" },
           { name: "Longest Common Substring", slug: "longest-common-substring", primary: "gfg", pat: "DP on Strings", diff: "Medium", tc: "O(N * M)", sc: "O(M)" },
           { name: "Longest Palindromic Subsequence", slug: "longest-palindromic-subsequence", primary: "leetcode", pat: "DP on Strings", diff: "Medium", tc: "O(N * N)", sc: "O(N)" },
           { name: "Min Insertions to Make String Palindrome", slug: "minimum-insertion-steps-to-make-a-string-palindrome", primary: "leetcode", pat: "DP on Strings", diff: "Medium", tc: "O(N * N)", sc: "O(N)" },
@@ -708,7 +708,7 @@ const stepsCatalog = [
         problems: [
           { name: "Longest Increasing Subsequence", slug: "longest-increasing-subsequence", primary: "leetcode", pat: "DP on LIS", diff: "Medium", tc: "O(N^2)", sc: "O(N)" },
           { name: "Print Longest Increasing Subsequence", slug: "printing-longest-increasing-subsequence", primary: "gfg", pat: "DP on LIS", diff: "Medium", tc: "O(N^2)", sc: "O(N)" },
-          { name: "LIS Using Binary Search", slug: "lis-binary-search", primary: "codingninjas", pat: "DP/Binary Search", diff: "Medium", tc: "O(N log N)", sc: "O(N)" },
+          { name: "LIS Using Binary Search", slug: "longest-increasing-subsequence", primary: "leetcode", pat: "DP/Binary Search", diff: "Medium", tc: "O(N log N)", sc: "O(N)" },
           { name: "Largest Divisible Subset", slug: "largest-divisible-subset", primary: "leetcode", pat: "DP on LIS", diff: "Medium", tc: "O(N^2)", sc: "O(N)" },
           { name: "Longest String Chain", slug: "longest-string-chain", primary: "leetcode", pat: "DP on LIS", diff: "Medium", tc: "O(N log N + N * L)", sc: "O(N)" },
           { name: "Longest Bitonic Subsequence", slug: "longest-bitonic-subsequence", primary: "gfg", pat: "DP on LIS", diff: "Medium", tc: "O(N^2)", sc: "O(N)" },
@@ -738,15 +738,15 @@ const stepsCatalog = [
         lectureTitle: "Theory",
         problems: [
           { name: "Implement Trie I (Insert, Search, StartsWith)", slug: "implement-trie-prefix-tree", primary: "leetcode", pat: "Trie", diff: "Medium", tc: "O(L)", sc: "O(WordCount * L)" },
-          { name: "Implement Trie II (Insert, CountWords, Erase)", slug: "implement-trie-ii", primary: "codingninjas", pat: "Trie", diff: "Medium", tc: "O(L)", sc: "O(WordCount * L)" }
+          { name: "Implement Trie II (Insert, CountWords, Erase)", slug: "trie-insert-and-search0651", primary: "gfg", pat: "Trie", diff: "Medium", tc: "O(L)", sc: "O(WordCount * L)" }
         ]
       },
       {
         lectureNumber: 2,
         lectureTitle: "Practice",
         problems: [
-          { name: "Longest Word With All Prefixes", slug: "longest-word-with-all-prefixes", primary: "codingninjas", pat: "Trie", diff: "Medium", tc: "O(Sum(L))", sc: "O(Sum(L))" },
-          { name: "Number of Distinct Substrings", slug: "number-of-distinct-substrings-in-a-string", primary: "codingninjas", pat: "Trie", diff: "Medium", tc: "O(N^2)", sc: "O(N^2)" },
+          { name: "Longest Word With All Prefixes", slug: "longest-word-with-all-prefixes", primary: "gfg", pat: "Trie", diff: "Medium", tc: "O(Sum(L))", sc: "O(Sum(L))" },
+          { name: "Number of Distinct Substrings", slug: "number-of-distinct-substrings-in-a-string", primary: "gfg", pat: "Trie", diff: "Medium", tc: "O(N^2)", sc: "O(N^2)" },
           { name: "Maximum XOR of Two Numbers in Array", slug: "maximum-xor-of-two-numbers-in-an-array", primary: "leetcode", pat: "Trie/Bitwise", diff: "Medium", tc: "O(N * 32)", sc: "O(N * 32)" },
           { name: "Maximum XOR With Element From Array", slug: "maximum-xor-with-an-element-from-array", primary: "leetcode", pat: "Trie/Bitwise", diff: "Hard", tc: "O((N+Q) * 32)", sc: "O(N * 32)" }
         ]
@@ -777,15 +777,15 @@ const urlOverrides = {
   "Second Largest Element in Array": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
   "Check if Array is Sorted": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
   "Remove Duplicates from Sorted Array": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-  "Left Rotate Array by One": "https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278",
+  "Left Rotate Array by One": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1",
   "Left Rotate Array by D Places": "https://leetcode.com/problems/rotate-array/",
   "Move Zeroes to End": "https://leetcode.com/problems/move-zeroes/",
-  "Linear Search": "https://www.codingninjas.com/studio/problems/linear-search_696375",
+  "Linear Search": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1",
   "Find Union of Two Sorted Arrays": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
   "Find Missing Number": "https://leetcode.com/problems/missing-number/",
   "Max Consecutive Ones": "https://leetcode.com/problems/max-consecutive-ones/",
   "Single Number": "https://leetcode.com/problems/single-number/",
-  "Longest Subarray with Sum K (Positives)": "https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399",
+  "Longest Subarray with Sum K (Positives)": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1",
   "Longest Subarray with Sum K (Positives + Negatives)": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1",
   "Two Sum": "https://leetcode.com/problems/two-sum/",
   "Sort Colors (0s, 1s, and 2s)": "https://leetcode.com/problems/sort-colors/",
@@ -815,37 +815,65 @@ const urlOverrides = {
   "Maximum Product Subarray": "https://leetcode.com/problems/maximum-product-subarray/",
   
   // Step 4
-  "Binary Search": "https://leetcode.com/problems/binary-search/",
-  "Lower Bound Implementation": "https://www.codingninjas.com/studio/problems/lower-bound_8165382",
-  "Upper Bound Implementation": "https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383",
-  "Search Insert Position": "https://leetcode.com/problems/search-insert-position/",
-  "Floor and Ceil in Sorted Array": "https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518",
-  "First and Last Occurrence of Key": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+  "Lower Bound Implementation": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1",
+  "Upper Bound Implementation": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1",
+  "Floor and Ceil in Sorted Array": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1",
   "Count Occurrences in Sorted Array": "https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1",
-  "Search in Rotated Sorted Array I": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-  "Search in Rotated Sorted Array II": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
-  "Find Minimum in Rotated Sorted Array": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-  "Single Element in Sorted Array": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
-  "Find Peak Element": "https://leetcode.com/problems/find-peak-element/",
   "Square Root of an Integer": "https://www.geeksforgeeks.org/problems/square-root/1",
   "Nth Root of an Integer": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
-  "Koko Eating Bananas": "https://leetcode.com/problems/koko-eating-bananas/",
-  "Minimum Days to Make M Bouquets": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
-  "Smallest Divisor Given a Threshold": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
-  "Capacity to Ship Packages Within D Days": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
-  "Kth Missing Positive Number": "https://leetcode.com/problems/kth-missing-positive-number/",
-  "Aggressive Cows": "https://www.geeksforgeeks.org/problems/aggressive-cows/1",
-  "Book Allocation Problem": "https://www.codingninjas.com/studio/problems/allocate-books_1090540",
-  "Split Array Largest Sum": "https://leetcode.com/problems/split-array-largest-sum/",
-  "Painter's Partition": "https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557",
-  "Minimize Max Distance to Gas Station": "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1",
-  "Median of Two Sorted Arrays": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "Book Allocation Problem": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
+  "Painter's Partition": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
   "Kth Element of Two Sorted Arrays": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
   "Row with Max 1s": "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1",
-  "Search in a 2D Matrix I": "https://leetcode.com/problems/search-a-2d-matrix/",
-  "Search in a 2D Matrix II": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
-  "Find Peak Element in 2D Matrix": "https://leetcode.com/problems/find-a-peak-element-ii/",
-  "Median in Row-wise Sorted Matrix": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1"
+  "Median in Row-wise Sorted Matrix": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+
+  // Step 6
+  "Insert Node in LinkedList": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1",
+  "Array to Doubly LinkedList": "https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1",
+  "Insert Node in Doubly LinkedList": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
+  "Delete Node in Doubly LinkedList": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1",
+  "Reverse a Doubly LinkedList": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
+
+  // Step 9
+  "Implement Stack Using Array": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1",
+  "Implement Queue Using Array": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1",
+  "Implement Stack Using LinkedList": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1",
+  "Implement Queue Using LinkedList": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
+
+  // Step 10
+  "Longest Substring with At Most K Distinct Chars": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1",
+
+  // Step 11
+  "Min/Max Heap Implementation": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1",
+  "Priority Queue Implementation": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1",
+  "Merge K Sorted Arrays": "https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1",
+
+  // Step 13
+  "Introduction to Trees": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1",
+  "Binary Tree Representation": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1",
+  "Iterative Traversals (Pre, In, Post)": "https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1",
+  "Children Sum Property in Binary Tree": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
+
+  // Step 14
+  "Introduction to BST": "https://www.geeksforgeeks.org/problems/binary-search-trees/1",
+
+  // Step 15
+  "Disjoint Set (Union-Find)": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1",
+
+  // Step 16
+  "Introduction to Dynamic Programming": "https://www.geeksforgeeks.org/problems/introduction-to-dp/1",
+  "Frog Jump": "https://www.geeksforgeeks.org/problems/geek-jump/1",
+  "Maximum Sum of Non-Adjacent Elements": "https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1",
+  "Ninja's Training": "https://www.geeksforgeeks.org/problems/geeks-training/1",
+  "Subset Sum Equals K": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1",
+  "Partition Array into Two Subsets with Min Difference": "https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1",
+  "Print Longest Common Subsequence": "https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1",
+  "LIS Using Binary Search": "https://leetcode.com/problems/longest-increasing-subsequence/",
+
+  // Step 17
+  "Implement Trie II (Insert, CountWords, Erase)": "https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1",
+  "Longest Word With All Prefixes": "https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1",
+  "Number of Distinct Substrings": "https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1"
 };
 
 // Helper to expand and format a problem with all Striver fields
@@ -860,14 +888,13 @@ function expandProblem(prob, stepNum, topicNum, index) {
     } else if (prob.primary === 'gfg') {
       primaryLink = `https://www.geeksforgeeks.org/problems/${prob.slug}/1`;
     } else {
-      primaryLink = `https://www.codingninjas.com/studio/problems/${prob.slug}`;
+      primaryLink = `https://leetcode.com/problems/${prob.slug}/`;
     }
   }
 
   const alternativeLinks = [
     { platform: "LeetCode", link: primaryLink.includes('leetcode.com') ? primaryLink : `https://leetcode.com/problems/${prob.slug}/` },
-    { platform: "GeeksforGeeks", link: primaryLink.includes('geeksforgeeks.org') ? primaryLink : `https://www.geeksforgeeks.org/problems/${prob.slug}/1` },
-    { platform: "Coding Ninjas", link: primaryLink.includes('codingninjas.com') ? primaryLink : `https://www.codingninjas.com/studio/problems/${prob.slug}` }
+    { platform: "GeeksforGeeks", link: primaryLink.includes('geeksforgeeks.org') ? primaryLink : `https://www.geeksforgeeks.org/problems/${prob.slug}/1` }
   ];
 
   const companiesList = ["Google", "Amazon", "Microsoft", "Meta", "Adobe", "Uber", "Bloomberg", "Goldman Sachs"];

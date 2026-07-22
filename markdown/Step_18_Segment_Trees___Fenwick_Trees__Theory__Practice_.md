@@ -13,7 +13,6 @@ Detailed progress tracker for Step 18 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/range-sum-query-mutable/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/range-sum-query-mutable/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/range-sum-query-mutable)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Segment%20Tree%20Range%20Query%20%26%20Node%20Update)
@@ -21,8 +20,8 @@ Detailed progress tracker for Step 18 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Segment%20Tree%20Range%20Query%20%26%20Node%20Update)
 - **Prerequisites**:
   - Requires: Basics of Segment Tree
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(N)
@@ -51,7 +50,6 @@ Detailed progress tracker for Step 18 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/range-sum-query-2d-mutable/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/range-sum-query-2d-mutable/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/range-sum-query-2d-mutable)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Lazy%20Propagation%20Segment%20Tree)
@@ -59,8 +57,8 @@ Detailed progress tracker for Step 18 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Lazy%20Propagation%20Segment%20Tree)
 - **Prerequisites**:
   - Requires: Basics of Segment Tree
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(N)
@@ -89,7 +87,6 @@ Detailed progress tracker for Step 18 of the Striver A2Z DSA Sheet.
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/count-of-smaller-numbers-after-self/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/count-of-smaller-numbers-after-self)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Fenwick%20Tree%20Range%20Query%20%26%20Point%20Update)
@@ -97,7 +94,7 @@ Detailed progress tracker for Step 18 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Fenwick%20Tree%20Range%20Query%20%26%20Point%20Update)
 - **Prerequisites**:
   - Requires: Basics of Fenwick Tree
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(log N)

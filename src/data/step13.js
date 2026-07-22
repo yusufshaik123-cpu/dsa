@@ -11,19 +11,15 @@ export const step13Data = {
           "name": "Introduction to Trees",
           "difficulty": "Easy",
           "pattern": "Binary Tree",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/introduction-to-trees",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/introduction-to-trees/"
+              "link": "https://leetcode.com/problems/binary-tree-representation/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/introduction-to-trees/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-trees"
+              "link": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1"
             }
           ],
           "striverSolution": {
@@ -41,10 +37,9 @@ export const step13Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -57,17 +52,17 @@ export const step13Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-trees"
+              "link": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-trees"
+              "link": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-trees"
+              "link": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1"
             }
           ],
           "learningLists": "Not Included",
@@ -82,7 +77,7 @@ export const step13Data = {
           "name": "Binary Tree Representation",
           "difficulty": "Easy",
           "pattern": "Binary Tree",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/binary-tree-representation",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -91,10 +86,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-representation"
             }
           ],
           "striverSolution": {
@@ -113,10 +104,9 @@ export const step13Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -129,17 +119,17 @@ export const step13Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-representation"
+              "link": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-representation"
+              "link": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-representation"
+              "link": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1"
             }
           ],
           "learningLists": "Not Included",
@@ -163,10 +153,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-tree-preorder-traversal/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-preorder-traversal"
             }
           ],
           "striverSolution": {
@@ -187,7 +173,7 @@ export const step13Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -234,10 +220,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-tree-inorder-traversal/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-inorder-traversal"
             }
           ],
           "striverSolution": {
@@ -306,10 +288,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-tree-postorder-traversal/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-postorder-traversal"
             }
           ],
           "striverSolution": {
@@ -330,7 +308,7 @@ export const step13Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -377,10 +355,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-tree-level-order-traversal/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-level-order-traversal"
             }
           ],
           "striverSolution": {
@@ -402,7 +376,7 @@ export const step13Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -440,19 +414,15 @@ export const step13Data = {
           "name": "Iterative Traversals (Pre, In, Post)",
           "difficulty": "Medium",
           "pattern": "DFS",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/iterative-traversals",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/iterative-traversals/"
+              "link": "https://leetcode.com/problems/preorder-traversal-iterative/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/iterative-traversals/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/iterative-traversals"
+              "link": "https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1"
             }
           ],
           "striverSolution": {
@@ -471,9 +441,10 @@ export const step13Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -486,17 +457,17 @@ export const step13Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/iterative-traversals"
+              "link": "https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/iterative-traversals"
+              "link": "https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/iterative-traversals"
+              "link": "https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1"
             }
           ],
           "learningLists": "Not Included",
@@ -526,10 +497,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-depth-of-binary-tree"
             }
           ],
           "striverSolution": {
@@ -548,9 +515,10 @@ export const step13Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -597,10 +565,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/balanced-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/balanced-binary-tree"
             }
           ],
           "striverSolution": {
@@ -618,7 +582,9 @@ export const step13Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "High",
           "solveTime": "20-30 mins",
@@ -667,10 +633,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/diameter-of-binary-tree"
             }
           ],
           "striverSolution": {
@@ -689,10 +651,9 @@ export const step13Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -739,10 +700,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-tree-maximum-path-sum/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-maximum-path-sum"
             }
           ],
           "striverSolution": {
@@ -760,9 +717,11 @@ export const step13Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -809,10 +768,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/same-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/same-tree"
             }
           ],
           "striverSolution": {
@@ -830,8 +785,7 @@ export const step13Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Low",
           "solveTime": "20-30 mins",
@@ -880,10 +834,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-tree-zigzag-level-order-traversal/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-zigzag-level-order-traversal"
             }
           ],
           "striverSolution": {
@@ -901,9 +851,10 @@ export const step13Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -950,10 +901,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/boundary-traversal-of-binary-tree"
             }
           ],
           "striverSolution": {
@@ -972,10 +919,9 @@ export const step13Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1022,10 +968,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/vertical-order-traversal/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/vertical-order-traversal"
             }
           ],
           "striverSolution": {
@@ -1043,11 +985,9 @@ export const step13Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N log N)",
           "sc": "O(N)",
@@ -1094,10 +1034,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/top-view-of-binary-tree"
             }
           ],
           "striverSolution": {
@@ -1118,7 +1054,7 @@ export const step13Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1165,10 +1101,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/bottom-view-of-binary-tree"
             }
           ],
           "striverSolution": {
@@ -1186,11 +1118,9 @@ export const step13Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1237,10 +1167,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-tree-right-side-view/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-tree-right-side-view"
             }
           ],
           "striverSolution": {
@@ -1258,7 +1184,9 @@ export const step13Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Low",
           "solveTime": "30-60 mins",
@@ -1307,10 +1235,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/symmetric-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/symmetric-tree"
             }
           ],
           "striverSolution": {
@@ -1329,10 +1253,9 @@ export const step13Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1385,10 +1308,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/root-to-leaf-paths"
             }
           ],
           "striverSolution": {
@@ -1406,9 +1325,7 @@ export const step13Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -1457,10 +1374,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/lowest-common-ancestor-of-a-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/lowest-common-ancestor-of-a-binary-tree"
             }
           ],
           "striverSolution": {
@@ -1479,9 +1392,10 @@ export const step13Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1528,10 +1442,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/maximum-width-of-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-width-of-binary-tree"
             }
           ],
           "striverSolution": {
@@ -1550,10 +1460,9 @@ export const step13Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1591,19 +1500,15 @@ export const step13Data = {
           "name": "Children Sum Property in Binary Tree",
           "difficulty": "Medium",
           "pattern": "DFS",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/children-sum-property",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/children-sum-property/"
+              "link": "https://leetcode.com/problems/children-sum-parent/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/children-sum-property/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/children-sum-property"
+              "link": "https://www.geeksforgeeks.org/problems/children-sum-parent/1"
             }
           ],
           "striverSolution": {
@@ -1638,17 +1543,17 @@ export const step13Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/children-sum-property"
+              "link": "https://www.geeksforgeeks.org/problems/children-sum-parent/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/children-sum-property"
+              "link": "https://www.geeksforgeeks.org/problems/children-sum-parent/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/children-sum-property"
+              "link": "https://www.geeksforgeeks.org/problems/children-sum-parent/1"
             }
           ],
           "learningLists": "Not Included",
@@ -1672,10 +1577,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/all-nodes-distance-k-in-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/all-nodes-distance-k-in-binary-tree"
             }
           ],
           "striverSolution": {
@@ -1742,10 +1643,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/burning-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/burning-tree"
             }
           ],
           "striverSolution": {
@@ -1763,9 +1660,11 @@ export const step13Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -1812,10 +1711,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/count-complete-tree-nodes/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/count-complete-tree-nodes"
             }
           ],
           "striverSolution": {
@@ -1836,7 +1731,7 @@ export const step13Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(log^2 N)",
           "sc": "O(log N)",
@@ -1874,7 +1769,7 @@ export const step13Data = {
           "name": "Requirements to Construct Binary Tree",
           "difficulty": "Easy",
           "pattern": "Concept",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/construct-binary-tree",
+          "primaryLink": "https://leetcode.com/problems/construct-binary-tree/",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -1883,10 +1778,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/construct-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/construct-binary-tree"
             }
           ],
           "striverSolution": {
@@ -1908,7 +1799,7 @@ export const step13Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -1921,17 +1812,17 @@ export const step13Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/construct-binary-tree"
+              "link": "https://leetcode.com/problems/construct-binary-tree/"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/construct-binary-tree"
+              "link": "https://leetcode.com/problems/construct-binary-tree/"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/construct-binary-tree"
+              "link": "https://leetcode.com/problems/construct-binary-tree/"
             }
           ],
           "learningLists": "Not Included",
@@ -1955,10 +1846,6 @@ export const step13Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/serialize-and-deserialize-binary-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/serialize-and-deserialize-binary-tree"
             }
           ],
           "striverSolution": {
@@ -1978,7 +1865,7 @@ export const step13Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(N)",

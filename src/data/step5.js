@@ -20,10 +20,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/remove-outermost-parentheses/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/remove-outermost-parentheses"
             }
           ],
           "striverSolution": {
@@ -92,10 +88,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/reverse-words-in-a-string/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/reverse-words-in-a-string"
             }
           ],
           "striverSolution": {
@@ -117,7 +109,7 @@ export const step5Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -164,10 +156,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/largest-odd-number-in-string/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/largest-odd-number-in-string"
             }
           ],
           "striverSolution": {
@@ -186,10 +174,9 @@ export const step5Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -236,10 +223,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-common-prefix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-common-prefix"
             }
           ],
           "striverSolution": {
@@ -258,10 +241,9 @@ export const step5Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N * M)",
           "sc": "O(1)",
@@ -308,10 +290,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/isomorphic-strings/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/isomorphic-strings"
             }
           ],
           "striverSolution": {
@@ -330,9 +308,10 @@ export const step5Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -379,10 +358,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/rotate-string/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/rotate-string"
             }
           ],
           "striverSolution": {
@@ -400,9 +375,10 @@ export const step5Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -449,10 +425,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/valid-anagram/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/valid-anagram"
             }
           ],
           "striverSolution": {
@@ -470,9 +442,7 @@ export const step5Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "20-30 mins",
@@ -527,10 +497,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/sort-characters-by-frequency/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/sort-characters-by-frequency"
             }
           ],
           "striverSolution": {
@@ -551,7 +517,7 @@ export const step5Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N log N)",
           "sc": "O(N)",
@@ -598,10 +564,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/maximum-nesting-depth-of-the-parentheses/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/maximum-nesting-depth-of-the-parentheses"
             }
           ],
           "striverSolution": {
@@ -619,9 +581,11 @@ export const step5Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -668,10 +632,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/roman-to-integer/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/roman-to-integer"
             }
           ],
           "striverSolution": {
@@ -689,7 +649,9 @@ export const step5Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Medium",
           "solveTime": "20-30 mins",
@@ -738,10 +700,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/integer-to-roman/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/integer-to-roman"
             }
           ],
           "striverSolution": {
@@ -796,7 +754,7 @@ export const step5Data = {
         },
         {
           "id": "s5_l2_p5",
-          "name": "Implement Atoi (String to Integer)",
+          "name": "Implement Await (String to Integer)",
           "difficulty": "Medium",
           "pattern": "String/Math",
           "primaryLink": "https://leetcode.com/problems/string-to-integer-atoi/",
@@ -808,20 +766,16 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/string-to-integer-atoi/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/string-to-integer-atoi"
             }
           ],
           "striverSolution": {
             "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
-            "video": "https://www.youtube.com/results?search_query=striver+Implement%20Atoi%20(String%20to%20Integer)"
+            "video": "https://www.youtube.com/results?search_query=striver+Implement%20Await%20(String%20to%20Integer)"
           },
           "alternativeVideos": [
             {
               "name": "NeetCode",
-              "link": "https://www.youtube.com/results?search_query=neetcode+Implement%20Atoi%20(String%20to%20Integer)"
+              "link": "https://www.youtube.com/results?search_query=neetcode+Implement%20Await%20(String%20to%20Integer)"
             }
           ],
           "prerequisites": [
@@ -829,9 +783,7 @@ export const step5Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -880,10 +832,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/subarrays-with-k-different-integers"
             }
           ],
           "striverSolution": {
@@ -902,8 +850,7 @@ export const step5Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "Medium",
           "solveTime": "60-120 mins",
@@ -952,10 +899,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/longest-palindromic-substring/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/longest-palindromic-substring"
             }
           ],
           "striverSolution": {
@@ -973,9 +916,10 @@ export const step5Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(1)",
@@ -1022,10 +966,6 @@ export const step5Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/sum-of-beauty-of-all-substrings"
             }
           ],
           "striverSolution": {
@@ -1046,7 +986,7 @@ export const step5Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(1)",

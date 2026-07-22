@@ -11,19 +11,15 @@ export const step14Data = {
           "name": "Introduction to BST",
           "difficulty": "Easy",
           "pattern": "BST",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/introduction-to-bst",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/binary-search-trees/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/introduction-to-bst/"
+              "link": "https://leetcode.com/problems/binary-search-trees/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/introduction-to-bst/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-bst"
+              "link": "https://www.geeksforgeeks.org/problems/binary-search-trees/1"
             }
           ],
           "striverSolution": {
@@ -44,7 +40,7 @@ export const step14Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(1)",
           "sc": "O(1)",
@@ -57,17 +53,17 @@ export const step14Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-bst"
+              "link": "https://www.geeksforgeeks.org/problems/binary-search-trees/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-bst"
+              "link": "https://www.geeksforgeeks.org/problems/binary-search-trees/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/introduction-to-bst"
+              "link": "https://www.geeksforgeeks.org/problems/binary-search-trees/1"
             }
           ],
           "learningLists": "Not Included",
@@ -91,10 +87,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/search-in-a-binary-search-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/search-in-a-binary-search-tree"
             }
           ],
           "striverSolution": {
@@ -112,9 +104,10 @@ export const step14Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(log N)",
@@ -161,10 +154,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-element-in-bst"
             }
           ],
           "striverSolution": {
@@ -182,9 +171,10 @@ export const step14Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -237,10 +227,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/floor-from-bst/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/floor-from-bst"
             }
           ],
           "striverSolution": {
@@ -258,9 +244,11 @@ export const step14Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -307,10 +295,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/ceil-from-bst/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/ceil-from-bst"
             }
           ],
           "striverSolution": {
@@ -329,9 +313,10 @@ export const step14Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -378,10 +363,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/insert-into-a-binary-search-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/insert-into-a-binary-search-tree"
             }
           ],
           "striverSolution": {
@@ -399,10 +380,9 @@ export const step14Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(log N)",
@@ -449,10 +429,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/delete-node-in-a-bst/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/delete-node-in-a-bst"
             }
           ],
           "striverSolution": {
@@ -470,9 +446,11 @@ export const step14Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(log N)",
@@ -519,10 +497,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/kth-smallest-element-in-a-bst/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/kth-smallest-element-in-a-bst"
             }
           ],
           "striverSolution": {
@@ -540,8 +514,7 @@ export const step14Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Low",
           "solveTime": "30-60 mins",
@@ -590,10 +563,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/validate-binary-search-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/validate-binary-search-tree"
             }
           ],
           "striverSolution": {
@@ -614,7 +583,7 @@ export const step14Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -661,10 +630,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/lowest-common-ancestor-of-a-binary-search-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/lowest-common-ancestor-of-a-binary-search-tree"
             }
           ],
           "striverSolution": {
@@ -684,7 +649,7 @@ export const step14Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(log N)",
@@ -731,10 +696,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/construct-binary-search-tree-from-preorder-traversal/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/construct-binary-search-tree-from-preorder-traversal"
             }
           ],
           "striverSolution": {
@@ -752,9 +713,7 @@ export const step14Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -803,10 +762,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/binary-search-tree-iterator/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/binary-search-tree-iterator"
             }
           ],
           "striverSolution": {
@@ -875,10 +830,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/two-sum-iv-input-is-a-bst/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/two-sum-iv-input-is-a-bst"
             }
           ],
           "striverSolution": {
@@ -896,10 +847,9 @@ export const step14Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(H)",
@@ -946,10 +896,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/recover-binary-search-tree/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/recover-binary-search-tree"
             }
           ],
           "striverSolution": {
@@ -967,10 +913,9 @@ export const step14Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(H)",
@@ -1017,10 +962,6 @@ export const step14Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/largest-bst/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/largest-bst"
             }
           ],
           "striverSolution": {
@@ -1039,10 +980,9 @@ export const step14Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N)",
           "sc": "O(H)",

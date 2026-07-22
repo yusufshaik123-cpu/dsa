@@ -20,10 +20,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/print-adjacency-list/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/print-adjacency-list"
             }
           ],
           "striverSolution": {
@@ -41,9 +37,7 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "Very High",
           "solveTime": "20-30 mins",
@@ -92,10 +86,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/bfs-traversal-of-graph"
             }
           ],
           "striverSolution": {
@@ -113,9 +103,10 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -162,10 +153,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/dfs-traversal-of-graph/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/dfs-traversal-of-graph"
             }
           ],
           "striverSolution": {
@@ -187,7 +174,7 @@ export const step15Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -240,10 +227,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/number-of-provinces/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-provinces"
             }
           ],
           "striverSolution": {
@@ -310,10 +293,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/rotting-oranges/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/rotting-oranges"
             }
           ],
           "striverSolution": {
@@ -332,10 +311,9 @@ export const step15Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(N * M)",
@@ -382,10 +360,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/flood-fill/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/flood-fill"
             }
           ],
           "striverSolution": {
@@ -405,7 +379,7 @@ export const step15Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(N * M)",
           "sc": "O(N * M)",
@@ -452,10 +426,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/detect-cycle-in-an-undirected-graph"
             }
           ],
           "striverSolution": {
@@ -473,9 +443,10 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -522,10 +493,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph-dfs/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/detect-cycle-in-an-undirected-graph-dfs"
             }
           ],
           "striverSolution": {
@@ -544,9 +511,10 @@ export const step15Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -593,10 +561,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/01-matrix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/01-matrix"
             }
           ],
           "striverSolution": {
@@ -615,9 +579,10 @@ export const step15Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(N * M)",
@@ -664,10 +629,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/surrounded-regions/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/surrounded-regions"
             }
           ],
           "striverSolution": {
@@ -689,7 +650,7 @@ export const step15Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(N * M)",
@@ -736,10 +697,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/number-of-enclaves/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-enclaves"
             }
           ],
           "striverSolution": {
@@ -808,10 +765,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/word-ladder/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/word-ladder"
             }
           ],
           "striverSolution": {
@@ -830,9 +783,10 @@ export const step15Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N * WordLength * 26)",
           "sc": "O(N)",
@@ -879,10 +833,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/word-ladder-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/word-ladder-ii"
             }
           ],
           "striverSolution": {
@@ -903,7 +853,7 @@ export const step15Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(Exponential)",
           "sc": "O(Exponential)",
@@ -950,10 +900,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/detect-cycle-in-a-directed-graph"
             }
           ],
           "striverSolution": {
@@ -971,9 +917,11 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -1020,10 +968,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/topological-sort/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/topological-sort"
             }
           ],
           "striverSolution": {
@@ -1041,9 +985,11 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -1090,10 +1036,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/topological-sort-kahns/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/topological-sort-kahns"
             }
           ],
           "striverSolution": {
@@ -1111,11 +1053,9 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -1162,10 +1102,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/detect-cycle-in-directed-bfs/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/detect-cycle-in-directed-bfs"
             }
           ],
           "striverSolution": {
@@ -1240,10 +1176,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/shortest-path-in-directed-acyclic-graph"
             }
           ],
           "striverSolution": {
@@ -1311,10 +1243,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/shortest-path-in-undirected-graph-having-unit-distance"
             }
           ],
           "striverSolution": {
@@ -1332,9 +1260,10 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -1381,10 +1310,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/implementing-dijkstra-set-1-adjacency-matrix"
             }
           ],
           "striverSolution": {
@@ -1403,10 +1328,9 @@ export const step15Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(E log V)",
           "sc": "O(V)",
@@ -1453,10 +1377,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/shortest-path-in-binary-matrix/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/shortest-path-in-binary-matrix"
             }
           ],
           "striverSolution": {
@@ -1478,7 +1398,7 @@ export const step15Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(N * M)",
@@ -1525,10 +1445,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/path-with-minimum-effort/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/path-with-minimum-effort"
             }
           ],
           "striverSolution": {
@@ -1550,7 +1466,7 @@ export const step15Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N * M log(N*M))",
           "sc": "O(N * M)",
@@ -1597,10 +1513,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/cheapest-flights-within-k-stops"
             }
           ],
           "striverSolution": {
@@ -1667,10 +1579,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/network-delay-time/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/network-delay-time"
             }
           ],
           "striverSolution": {
@@ -1688,11 +1596,9 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(E log V)",
           "sc": "O(V)",
@@ -1739,10 +1645,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/number-of-ways-to-arrive-at-destination/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-ways-to-arrive-at-destination"
             }
           ],
           "striverSolution": {
@@ -1762,7 +1664,7 @@ export const step15Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(E log V)",
           "sc": "O(V)",
@@ -1809,10 +1711,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-vector/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/distance-from-the-source-bellman-ford-vector"
             }
           ],
           "striverSolution": {
@@ -1832,7 +1730,7 @@ export const step15Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(V * E)",
           "sc": "O(V)",
@@ -1879,10 +1777,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/floyd-warshall/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/floyd-warshall"
             }
           ],
           "striverSolution": {
@@ -1900,10 +1794,9 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(V^3)",
           "sc": "O(V^2)",
@@ -1956,10 +1849,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree-prims/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-spanning-tree-prims"
             }
           ],
           "striverSolution": {
@@ -1977,11 +1866,9 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(E log V)",
           "sc": "O(V)",
@@ -2028,10 +1915,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree-kruskals/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/minimum-spanning-tree-kruskals"
             }
           ],
           "striverSolution": {
@@ -2049,9 +1932,10 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(E log V)",
           "sc": "O(V)",
@@ -2089,7 +1973,7 @@ export const step15Data = {
           "name": "Disjoint Set (Union-Find)",
           "difficulty": "Easy",
           "pattern": "Disjoint Set",
-          "primaryLink": "https://www.codingninjas.com/studio/problems/disjoint-set-union-find",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
@@ -2098,10 +1982,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/disjoint-set-union-find"
             }
           ],
           "striverSolution": {
@@ -2122,7 +2002,7 @@ export const step15Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(Alpha(N))",
           "sc": "O(N)",
@@ -2135,17 +2015,17 @@ export const step15Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.codingninjas.com/studio/problems/disjoint-set-union-find"
+              "link": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.codingninjas.com/studio/problems/disjoint-set-union-find"
+              "link": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.codingninjas.com/studio/problems/disjoint-set-union-find"
+              "link": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1"
             }
           ],
           "learningLists": "Not Included",
@@ -2169,10 +2049,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/number-of-operations-to-make-network-connected/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-operations-to-make-network-connected"
             }
           ],
           "striverSolution": {
@@ -2194,7 +2070,7 @@ export const step15Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -2241,10 +2117,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/most-stones-removed-with-same-row-or-column/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/most-stones-removed-with-same-row-or-column"
             }
           ],
           "striverSolution": {
@@ -2265,7 +2137,7 @@ export const step15Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -2312,10 +2184,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/accounts-merge/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/accounts-merge"
             }
           ],
           "striverSolution": {
@@ -2333,9 +2201,10 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N log N)",
           "sc": "O(N)",
@@ -2382,10 +2251,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/number-of-islands-ii/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/number-of-islands-ii"
             }
           ],
           "striverSolution": {
@@ -2403,9 +2268,10 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(Q * Alpha(V))",
           "sc": "O(V)",
@@ -2452,10 +2318,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/making-a-large-island/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/making-a-large-island"
             }
           ],
           "striverSolution": {
@@ -2473,9 +2335,11 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N^2)",
           "sc": "O(N^2)",
@@ -2528,10 +2392,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/critical-connections-in-a-network/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/critical-connections-in-a-network"
             }
           ],
           "striverSolution": {
@@ -2550,10 +2410,9 @@ export const step15Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -2600,10 +2459,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/articulation-point-1/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/articulation-point-1"
             }
           ],
           "striverSolution": {
@@ -2621,11 +2476,9 @@ export const step15Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
@@ -2672,10 +2525,6 @@ export const step15Data = {
             {
               "platform": "GeeksforGeeks",
               "link": "https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1"
-            },
-            {
-              "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/strongly-connected-components-kosarajus-algo"
             }
           ],
           "striverSolution": {
@@ -2694,9 +2543,10 @@ export const step15Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(V + E)",
           "sc": "O(V)",
