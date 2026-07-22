@@ -35,7 +35,7 @@ export default function Sidebar({ activeStep, activeTopic, onSelectTopic, progre
         </div>
       </div>
 
-      <div className="steps-container">
+      <div className="sidebar-menu">
         {stepsList.map((step) => {
           const isExpanded = !!expandedSteps[step.number];
           const isActive = activeStep === step.number;
