@@ -21,8 +21,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Introduction%20to%20Dynamic%20Programming)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -59,8 +59,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Climbing%20Stairs)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -108,7 +108,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -145,8 +145,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Frog%20Jump%20with%20K%20Jumps)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * K)
 - **Space Complexity**: O(N)
@@ -184,7 +184,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -260,7 +260,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -297,7 +297,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Ninja's%20Training)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * 4)
@@ -346,7 +346,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -383,8 +383,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Grid%20Unique%20Paths%20II)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -421,7 +421,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Path%20Sum%20in%20Grid)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
@@ -459,8 +459,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Triangle%20Path%20Min%20Sum)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -497,8 +497,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%2FMaximum%20Falling%20Path%20Sum)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -535,8 +535,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Cherry%20Pickup%20II%20(3D%20DP))
 - **Prerequisites**:
   - Requires: Basics of 3D DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M * M)
 - **Space Complexity**: O(M * M)
@@ -584,7 +584,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * K)
 - **Space Complexity**: O(K)
@@ -659,8 +659,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Partition%20Array%20into%20Two%20Subsets%20with%20Min%20Difference)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * Sum)
 - **Space Complexity**: O(Sum)
@@ -698,7 +698,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * K)
 - **Space Complexity**: O(K)
@@ -735,8 +735,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Partitions%20with%20Given%20Difference)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * Sum)
 - **Space Complexity**: O(Sum)
@@ -773,7 +773,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+0-1%20Knapsack%20Problem)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * W)
@@ -811,8 +811,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Target%20Sum)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * Sum)
 - **Space Complexity**: O(Sum)
@@ -849,8 +849,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Coin%20Change%20I%20(Min%20Coins))
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * Amount)
 - **Space Complexity**: O(Amount)
@@ -887,8 +887,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Coin%20Change%20II%20(Total%20Ways))
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * Amount)
 - **Space Complexity**: O(Amount)
@@ -913,11 +913,11 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 ### 📄 Unbounded Knapsack
 - **Difficulty**: Medium
 - **Problem Pattern**: DP
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/unbounded-knapsack/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/unbounded-knapsack/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/unbounded-knapsack/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/unbounded-knapsack)
+  - [LeetCode](https://leetcode.com/problems/unbounded-knapsack-or-fractional-knapsack/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/unbounded-knapsack-or-fractional-knapsack)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Unbounded%20Knapsack)
@@ -925,8 +925,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Unbounded%20Knapsack)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * W)
 - **Space Complexity**: O(W)
@@ -939,10 +939,10 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/unbounded-knapsack/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/unbounded-knapsack/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/unbounded-knapsack/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1)
 - **Learning Lists**: Not Included
 - **Tags**: DP, Medium, Interview
 
@@ -963,8 +963,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Rod%20Cutting%20Problem)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * N)
 - **Space Complexity**: O(N)
@@ -1011,8 +1011,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Common%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -1049,8 +1049,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Print%20Longest%20Common%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -1087,8 +1087,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Common%20Substring)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -1126,7 +1126,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * N)
 - **Space Complexity**: O(N)
@@ -1239,7 +1239,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Shortest%20Common%20Supersequence)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M)
@@ -1277,8 +1277,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Distinct%20Subsequences)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -1353,8 +1353,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Wildcard%20Matching)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -1401,8 +1401,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20I)
 - **Prerequisites**:
   - Requires: Basics of Array/Greedy
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1439,8 +1439,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20II)
 - **Prerequisites**:
   - Requires: Basics of DP on Stocks
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1477,7 +1477,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20III)
 - **Prerequisites**:
   - Requires: Basics of DP on Stocks
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
@@ -1515,8 +1515,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20IV)
 - **Prerequisites**:
   - Requires: Basics of DP on Stocks
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * K)
 - **Space Complexity**: O(K)
@@ -1553,8 +1553,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20with%20Cooldown)
 - **Prerequisites**:
   - Requires: Basics of DP on Stocks
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1592,7 +1592,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP on Stocks
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1640,7 +1640,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -1677,8 +1677,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Print%20Longest%20Increasing%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -1715,8 +1715,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+LIS%20Using%20Binary%20Search)
 - **Prerequisites**:
   - Requires: Basics of DP/Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -1754,7 +1754,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -1791,8 +1791,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20String%20Chain)
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N + N * L)
 - **Space Complexity**: O(N)
@@ -1830,7 +1830,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -1868,7 +1868,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -1915,8 +1915,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Matrix%20Chain%20Multiplication)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^3)
 - **Space Complexity**: O(N^2)
@@ -1953,7 +1953,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Cost%20to%20Cut%20a%20Stick)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^3)
@@ -1991,7 +1991,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Burst%20Balloons)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^3)
@@ -2029,8 +2029,8 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Evaluate%20Boolean%20Expression%20to%20True)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^3)
 - **Space Complexity**: O(N^2)
@@ -2067,7 +2067,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Palindrome%20Partitioning%20II)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^2)
@@ -2106,7 +2106,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Partition DP
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * K)
 - **Space Complexity**: O(N)

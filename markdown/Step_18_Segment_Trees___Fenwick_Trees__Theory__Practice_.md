@@ -21,8 +21,8 @@ Detailed progress tracker for Step 18 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Segment%20Tree%20Range%20Query%20%26%20Node%20Update)
 - **Prerequisites**:
   - Requires: Basics of Segment Tree
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(N)
@@ -60,7 +60,7 @@ Detailed progress tracker for Step 18 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Segment Tree
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(N)
@@ -97,7 +97,7 @@ Detailed progress tracker for Step 18 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Fenwick%20Tree%20Range%20Query%20%26%20Point%20Update)
 - **Prerequisites**:
   - Requires: Basics of Fenwick Tree
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(log N)

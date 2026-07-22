@@ -21,8 +21,8 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Substring%20Without%20Repeating%20Characters)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(min(M, N))
@@ -59,8 +59,8 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Max%20Consecutive%20Ones%20III)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -97,7 +97,7 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Fruit%20Into%20Baskets)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -173,8 +173,8 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Binary%20Subarrays%20With%20Sum)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -211,7 +211,7 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Number%20of%20Nice%20Subarrays)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -250,7 +250,7 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -288,7 +288,7 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(K)
 - **Space Complexity**: O(1)
@@ -335,8 +335,8 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Chars)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(K)
@@ -374,7 +374,7 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(K)
@@ -411,8 +411,8 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Window%20Substring)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -449,7 +449,7 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Window%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M)

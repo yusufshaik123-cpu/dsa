@@ -9,11 +9,11 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Largest Element in Array
 - **Difficulty**: Easy
 - **Problem Pattern**: Array
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/largest-element/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/largest-element-in-an-array-1587115620/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/largest-element/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-element/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/largest-element)
+  - [LeetCode](https://leetcode.com/problems/largest-element-in-an-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-an-array-1587115620/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/largest-element-in-an-array)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Largest%20Element%20in%20Array)
@@ -22,44 +22,6 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Array
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
-- **Estimated Solve Time**: 20-30 mins
-- **Time Complexity**: O(N)
-- **Space Complexity**: O(1)
-- **Status**: ☐ Not Started
-- **Personal Confidence**: ⭐⭐⭐⭐⭐
-- **Notes**: 
-- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
-- **Hints**:
-  - Hint 1: Analyze the problem using manual drawings for small inputs.
-  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
-  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
-- **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/largest-element/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/largest-element/1)
-- **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/largest-element/1)
-- **Learning Lists**: Not Included
-- **Tags**: Array, Easy, Interview
-
----
-
-### 📄 Second Largest Element in Array
-- **Difficulty**: Easy
-- **Problem Pattern**: Array
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/second-largest/1)
-- **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/second-largest/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/second-largest/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/second-largest)
-- **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
-  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Second%20Largest%20Element%20in%20Array)
-- **Alternative Video Resources**:
-  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Second%20Largest%20Element%20in%20Array)
-- **Prerequisites**:
-  - Requires: Basics of Array
-- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -73,10 +35,48 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/second-largest/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/second-largest/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/largest-element-in-an-array-1587115620/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/largest-element-in-an-array-1587115620/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/second-largest/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/largest-element-in-an-array-1587115620/1)
+- **Learning Lists**: Not Included
+- **Tags**: Array, Easy, Interview
+
+---
+
+### 📄 Second Largest Element in Array
+- **Difficulty**: Easy
+- **Problem Pattern**: Array
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/second-largest3735/1)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/second-largest/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/second-largest)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Second%20Largest%20Element%20in%20Array)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Second%20Largest%20Element%20in%20Array)
+- **Prerequisites**:
+  - Requires: Basics of Array
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.geeksforgeeks.org/problems/second-largest3735/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/second-largest3735/1)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/second-largest3735/1)
 - **Learning Lists**: Not Included
 - **Tags**: Array, Easy, Interview
 
@@ -85,11 +85,11 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Check if Array is Sorted
 - **Difficulty**: Easy
 - **Problem Pattern**: Array
-- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/check-if-array-is-sorted/)
+- **Official Problem Link**: [Primary Practice Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/check-if-array-is-sorted/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/check-if-array-is-sorted)
+  - [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/check-if-array-is-sorted-and-rotated/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/check-if-array-is-sorted-and-rotated)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Check%20if%20Array%20is%20Sorted)
@@ -111,10 +111,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://leetcode.com/problems/check-if-array-is-sorted/)
-  - [Related problem B](https://leetcode.com/problems/check-if-array-is-sorted/)
+  - [Related problem A](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
+  - [Related problem B](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://leetcode.com/problems/check-if-array-is-sorted/)
+  - [Advanced follow-up A](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 - **Learning Lists**: Not Included
 - **Tags**: Array, Easy, Interview
 
@@ -135,8 +135,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Remove%20Duplicates%20from%20Sorted%20Array)
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -161,11 +161,11 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Left Rotate Array by One
 - **Difficulty**: Easy
 - **Problem Pattern**: Array
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/left-rotate-array-by-one)
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/left-rotate-array-by-one/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/left-rotate-array-by-one/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/left-rotate-array-by-one)
+  - [LeetCode](https://leetcode.com/problems/left-rotate-an-array-by-one/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/left-rotate-an-array-by-one/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Left%20Rotate%20Array%20by%20One)
@@ -174,7 +174,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Array
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -187,10 +187,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/left-rotate-array-by-one)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/left-rotate-array-by-one)
+  - [Related problem A](https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/left-rotate-array-by-one)
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278)
 - **Learning Lists**: Not Included
 - **Tags**: Array, Easy, Interview
 
@@ -211,8 +211,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Left%20Rotate%20Array%20by%20D%20Places)
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -250,7 +250,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Array
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -275,11 +275,11 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Linear Search
 - **Difficulty**: Easy
 - **Problem Pattern**: Array
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/linear-search)
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/linear-search_696375)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/linear-search/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/linear-search/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/linear-search)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/linear-search_696375)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Linear%20Search)
@@ -287,7 +287,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Linear%20Search)
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -301,10 +301,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/linear-search)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/linear-search)
+  - [Related problem A](https://www.codingninjas.com/studio/problems/linear-search_696375)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/linear-search_696375)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/linear-search)
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/linear-search_696375)
 - **Learning Lists**: Not Included
 - **Tags**: Array, Easy, Interview
 
@@ -313,10 +313,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Find Union of Two Sorted Arrays
 - **Difficulty**: Easy
 - **Problem Pattern**: Array
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/union-of-two-sorted-arrays/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
   - [Coding Ninjas](https://www.codingninjas.com/studio/problems/union-of-two-sorted-arrays)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
@@ -325,8 +325,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Union%20of%20Two%20Sorted%20Arrays)
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N+M)
 - **Space Complexity**: O(N+M)
@@ -339,10 +339,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
 - **Learning Lists**: Not Included
 - **Tags**: Array, Easy, Interview
 
@@ -363,8 +363,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Missing%20Number)
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -401,7 +401,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Max%20Consecutive%20Ones)
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -439,7 +439,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Single%20Number)
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -465,11 +465,11 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Longest Subarray with Sum K (Positives)
 - **Difficulty**: Easy
 - **Problem Pattern**: Array
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k)
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/longest-subarray-with-sum-k/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-k/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Subarray%20with%20Sum%20K%20(Positives))
@@ -478,7 +478,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Array
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -491,10 +491,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k)
+  - [Related problem A](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k)
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399)
 - **Learning Lists**: Not Included
 - **Tags**: Array, Easy, Interview
 
@@ -503,11 +503,11 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Longest Subarray with Sum K (Positives + Negatives)
 - **Difficulty**: Easy
 - **Problem Pattern**: Array
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k-pos-neg)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/longest-subarray-with-sum-k-pos-neg/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-k-pos-neg/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k-pos-neg)
+  - [LeetCode](https://leetcode.com/problems/longest-sub-array-with-sum-k/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/longest-sub-array-with-sum-k)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Subarray%20with%20Sum%20K%20(Positives%20%2B%20Negatives))
@@ -515,8 +515,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Subarray%20with%20Sum%20K%20(Positives%20%2B%20Negatives))
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -529,10 +529,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k-pos-neg)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k-pos-neg)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k-pos-neg)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k3024/1)
 - **Learning Lists**: Not Included
 - **Tags**: Array, Easy, Interview
 
@@ -563,8 +563,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Two%20Sum)
 - **Prerequisites**:
   - Requires: Basics of Array/HashMap
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -639,7 +639,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Majority%20Element%20(%3E%20N%2F2%20times))
 - **Prerequisites**:
   - Requires: Basics of Math/Array
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -677,8 +677,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20Subarray%20Sum%20(Kadane's))
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -703,11 +703,11 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Print Maximum Subarray
 - **Difficulty**: Medium
 - **Problem Pattern**: Array
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/print-maximum-subarray)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/print-maximum-subarray/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/print-maximum-subarray/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/print-maximum-subarray)
+  - [LeetCode](https://leetcode.com/problems/kadanes-algorithm/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/kadanes-algorithm)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Print%20Maximum%20Subarray)
@@ -715,7 +715,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Print%20Maximum%20Subarray)
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -729,10 +729,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/print-maximum-subarray)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/print-maximum-subarray)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/print-maximum-subarray)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 - **Learning Lists**: Not Included
 - **Tags**: Array, Medium, Interview
 
@@ -753,8 +753,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Stock%20Buy%20and%20Sell)
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -791,8 +791,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Rearrange%20Array%20Elements%20by%20Sign)
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -830,7 +830,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Array
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -855,10 +855,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Leaders in an Array
 - **Difficulty**: Medium
 - **Problem Pattern**: Array
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/leaders-in-an-array/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/leaders-in-an-array/1)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
   - [Coding Ninjas](https://www.codingninjas.com/studio/problems/leaders-in-an-array)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
@@ -868,7 +868,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Array
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -881,10 +881,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/leaders-in-an-array/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/leaders-in-an-array/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/leaders-in-an-array/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
 - **Learning Lists**: Not Included
 - **Tags**: Array, Medium, Interview
 
@@ -905,7 +905,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Consecutive%20Sequence)
 - **Prerequisites**:
   - Requires: Basics of HashSet
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -943,8 +943,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Set%20Matrix%20Zeroes)
 - **Prerequisites**:
   - Requires: Basics of Matrix
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N*M)
 - **Space Complexity**: O(1)
@@ -981,8 +981,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Rotate%20Matrix%20by%2090%20Degrees)
 - **Prerequisites**:
   - Requires: Basics of Matrix
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(1)
@@ -1019,8 +1019,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Spiral%20Matrix)
 - **Prerequisites**:
   - Requires: Basics of Matrix
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N*M)
 - **Space Complexity**: O(1)
@@ -1058,7 +1058,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of HashMap
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -1105,7 +1105,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Pascal's%20Triangle)
 - **Prerequisites**:
   - Requires: Basics of Array
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^2)
@@ -1143,8 +1143,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Majority%20Element%20(%3E%20N%2F3%20times))
 - **Prerequisites**:
   - Requires: Basics of Math/Array
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1181,8 +1181,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+3-Sum)
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(1)
@@ -1219,7 +1219,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+4-Sum)
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^3)
@@ -1257,8 +1257,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Subarray%20with%200%20Sum)
 - **Prerequisites**:
   - Requires: Basics of HashMap
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -1283,11 +1283,11 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Subarrays with XOR K
 - **Difficulty**: Hard
 - **Problem Pattern**: HashMap
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k)
+- **Official Problem Link**: [Primary Practice Link](https://www.interviewbit.com/problems/subarray-with-given-xor/)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/subarrays-with-xor-k/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/subarrays-with-xor-k/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k)
+  - [LeetCode](https://leetcode.com/problems/subarray-with-given-xor/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/subarray-with-given-xor/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/subarray-with-given-xor)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Subarrays%20with%20XOR%20K)
@@ -1295,7 +1295,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Subarrays%20with%20XOR%20K)
 - **Prerequisites**:
   - Requires: Basics of HashMap
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
@@ -1309,10 +1309,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k)
+  - [Related problem A](https://www.interviewbit.com/problems/subarray-with-given-xor/)
+  - [Related problem B](https://www.interviewbit.com/problems/subarray-with-given-xor/)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k)
+  - [Advanced follow-up A](https://www.interviewbit.com/problems/subarray-with-given-xor/)
 - **Learning Lists**: Not Included
 - **Tags**: HashMap, Hard, Interview
 
@@ -1334,7 +1334,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Sorting
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(1)
@@ -1371,8 +1371,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Merge%20Sorted%20Arrays%20without%20Extra%20Space)
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O((N+M) log(N+M))
 - **Space Complexity**: O(1)
@@ -1397,11 +1397,11 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Find Duplicate and Missing Number
 - **Difficulty**: Hard
 - **Problem Pattern**: Math/Hashing
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/missing-and-repeating)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/missing-and-repeating/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/missing-and-repeating/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/missing-and-repeating)
+  - [LeetCode](https://leetcode.com/problems/find-missing-and-repeating/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-missing-and-repeating)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Duplicate%20and%20Missing%20Number)
@@ -1409,8 +1409,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Duplicate%20and%20Missing%20Number)
 - **Prerequisites**:
   - Requires: Basics of Math/Hashing
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1423,10 +1423,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/missing-and-repeating)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/missing-and-repeating)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/missing-and-repeating)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 - **Learning Lists**: Not Included
 - **Tags**: Math/Hashing, Hard, Interview
 
@@ -1435,10 +1435,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 ### 📄 Number of Inversions
 - **Difficulty**: Hard
 - **Problem Pattern**: Merge Sort
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/inversion-of-array/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/inversion-of-array/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array/1)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
   - [Coding Ninjas](https://www.codingninjas.com/studio/problems/inversion-of-array)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
@@ -1448,7 +1448,7 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Merge Sort
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -1461,10 +1461,10 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/inversion-of-array/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/inversion-of-array/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/inversion-of-array/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
 - **Learning Lists**: Not Included
 - **Tags**: Merge Sort, Hard, Interview
 
@@ -1485,8 +1485,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Reverse%20Pairs)
 - **Prerequisites**:
   - Requires: Basics of Merge Sort
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -1523,8 +1523,8 @@ Detailed progress tracker for Step 3 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20Product%20Subarray)
 - **Prerequisites**:
   - Requires: Basics of Dynamic Programming
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)

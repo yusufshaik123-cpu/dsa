@@ -22,7 +22,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Tree
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -59,8 +59,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Binary%20Tree%20Representation)
 - **Prerequisites**:
   - Requires: Basics of Binary Tree
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -98,7 +98,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DFS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -135,8 +135,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Inorder%20Traversal%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -173,8 +173,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Postorder%20Traversal%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -211,8 +211,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Level%20Order%20Traversal)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -249,8 +249,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Iterative%20Traversals%20(Pre%2C%20In%2C%20Post))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -297,7 +297,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Height%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -335,8 +335,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Balanced%20Binary%20Tree%20Check)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -374,7 +374,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DFS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -411,8 +411,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Binary%20Tree%20Maximum%20Path%20Sum)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -449,8 +449,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Check%20if%20Two%20Trees%20are%20Identical)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -525,7 +525,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Boundary%20Traversal%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -564,7 +564,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BFS/DFS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -639,8 +639,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Bottom%20View%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -677,7 +677,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Left%2FRight%20View%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -715,8 +715,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Symmetric%20Tree%20Check)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -763,8 +763,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Root%20to%20Leaf%20Paths)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -839,7 +839,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20Width%20of%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -877,8 +877,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Children%20Sum%20Property%20in%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -916,7 +916,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BFS/DFS
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -953,8 +953,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Time%20to%20Burn%20a%20Tree)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -991,7 +991,7 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Complete%20Tree%20Nodes)
 - **Prerequisites**:
   - Requires: Basics of DFS/Math
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log^2 N)
@@ -1029,8 +1029,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Requirements%20to%20Construct%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of Concept
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -1067,8 +1067,8 @@ Detailed progress tracker for Step 13 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Serialize%20and%20Deserialize%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of BFS/DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)

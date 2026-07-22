@@ -21,8 +21,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Graph%20Representation)
 - **Prerequisites**:
   - Requires: Basics of Graph
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V + E)
@@ -59,8 +59,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Breadth%20First%20Search%20(BFS))
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -97,8 +97,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Depth%20First%20Search%20(DFS))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -145,7 +145,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20Provinces)
 - **Prerequisites**:
   - Requires: Basics of BFS/DFS
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V^2)
@@ -221,8 +221,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Flood%20Fill)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -260,7 +260,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BFS
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -336,7 +336,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BFS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -373,8 +373,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Surrounded%20Regions)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -411,8 +411,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20Enclaves)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -449,7 +449,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Word%20Ladder%20I)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * WordLength * 26)
@@ -487,8 +487,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Word%20Ladder%20II)
 - **Prerequisites**:
   - Requires: Basics of BFS/Backtracking
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(Exponential)
 - **Space Complexity**: O(Exponential)
@@ -525,7 +525,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Cycle%20Detection%20Directed%20(DFS))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
@@ -563,8 +563,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Topological%20Sort%20(DFS))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -601,8 +601,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kahn's%20Algorithm%20(Topological%20Sort%20BFS))
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -639,8 +639,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Cycle%20Detection%20Directed%20(BFS))
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -688,7 +688,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Topological Sort
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -725,8 +725,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Shortest%20Path%20in%20Undirected%20Graph)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -764,7 +764,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Priority Queue
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(E log V)
 - **Space Complexity**: O(V)
@@ -801,8 +801,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Shortest%20Path%20in%20Binary%20Matrix)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -839,7 +839,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Path%20with%20Minimum%20Effort)
 - **Prerequisites**:
   - Requires: Basics of Dijkstra
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M log(N*M))
@@ -877,8 +877,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Cheapest%20Flights%20Within%20K%20Stops)
 - **Prerequisites**:
   - Requires: Basics of BFS/Dijkstra
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -915,8 +915,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Network%20Delay%20Time)
 - **Prerequisites**:
   - Requires: Basics of Dijkstra
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(E log V)
 - **Space Complexity**: O(V)
@@ -954,7 +954,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Dijkstra
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(E log V)
 - **Space Complexity**: O(V)
@@ -992,7 +992,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Graph
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V * E)
 - **Space Complexity**: O(V)
@@ -1030,7 +1030,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Matrix
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V^3)
 - **Space Complexity**: O(V^2)
@@ -1077,8 +1077,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Prim's%20Algorithm%20(Minimum%20Spanning%20Tree))
 - **Prerequisites**:
   - Requires: Basics of Dijkstra
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(E log V)
 - **Space Complexity**: O(V)
@@ -1115,7 +1115,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kruskal's%20Algorithm)
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(E log V)
@@ -1153,8 +1153,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Disjoint%20Set%20(Union-Find))
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(Alpha(N))
 - **Space Complexity**: O(N)
@@ -1229,7 +1229,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -1268,7 +1268,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -1306,7 +1306,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(Q * Alpha(V))
 - **Space Complexity**: O(V)
@@ -1343,8 +1343,8 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Making%20a%20Large%20Island)
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N^2)
@@ -1391,7 +1391,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Bridges%20in%20Graph%20(Tarjan's))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(V + E)
@@ -1430,7 +1430,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of DFS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -1467,7 +1467,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kosaraju's%20Algorithm%20(SCC))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)

@@ -59,7 +59,7 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Implement%20Trie%20II%20(Insert%2C%20CountWords%2C%20Erase))
 - **Prerequisites**:
   - Requires: Basics of Trie
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(L)
@@ -108,7 +108,7 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Trie
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(Sum(L))
 - **Space Complexity**: O(Sum(L))
@@ -146,7 +146,7 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Trie
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N^2)
@@ -183,8 +183,8 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20XOR%20of%20Two%20Numbers%20in%20Array)
 - **Prerequisites**:
   - Requires: Basics of Trie/Bitwise
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * 32)
 - **Space Complexity**: O(N * 32)
@@ -221,8 +221,8 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20XOR%20With%20Element%20From%20Array)
 - **Prerequisites**:
   - Requires: Basics of Trie/Bitwise
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O((N+Q) * 32)
 - **Space Complexity**: O(N * 32)

@@ -42,9 +42,10 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -112,10 +113,9 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(log N)",
@@ -183,9 +183,10 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(log N)",
@@ -253,7 +254,9 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "High",
           "solveTime": "20-30 mins",
@@ -323,11 +326,9 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -404,7 +405,7 @@ export const step7Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(2^N)",
           "sc": "O(N)",
@@ -473,10 +474,9 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(4^N / sqrt(N))",
           "sc": "O(N)",
@@ -545,10 +545,9 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(2^N * N)",
           "sc": "O(N)",
@@ -586,19 +585,19 @@ export const step7Data = {
           "name": "Subsets I",
           "difficulty": "Easy",
           "pattern": "Recursion",
-          "primaryLink": "https://www.geeksforgeeks.org/problems/subset-sum/1",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/subset-sum-problem/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/subset-sum/"
+              "link": "https://leetcode.com/problems/subset-sum-problem/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/subset-sum/1"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem/1"
             },
             {
               "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/subset-sum"
+              "link": "https://www.codingninjas.com/studio/problems/subset-sum-problem"
             }
           ],
           "striverSolution": {
@@ -632,17 +631,17 @@ export const step7Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.geeksforgeeks.org/problems/subset-sum/1"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.geeksforgeeks.org/problems/subset-sum/1"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.geeksforgeeks.org/problems/subset-sum/1"
+              "link": "https://www.geeksforgeeks.org/problems/subset-sum-problem/1"
             }
           ],
           "learningLists": "Not Included",
@@ -763,7 +762,7 @@ export const step7Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(2^T * K)",
           "sc": "O(T)",
@@ -832,10 +831,9 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(2^N * K)",
           "sc": "O(N)",
@@ -903,9 +901,11 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(9! / (K! * (9-K)!))",
           "sc": "O(K)",
@@ -973,10 +973,9 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(4^N * N)",
           "sc": "O(N)",
@@ -1045,8 +1044,7 @@ export const step7Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -1122,9 +1120,7 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "30-60 mins",
@@ -1194,9 +1190,11 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N!)",
           "sc": "O(N^2)",
@@ -1267,7 +1265,7 @@ export const step7Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(3^(N^2))",
           "sc": "O(N^2)",
@@ -1338,7 +1336,7 @@ export const step7Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(9^(N^2))",
           "sc": "O(1)",
@@ -1408,7 +1406,7 @@ export const step7Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(M^V)",
           "sc": "O(V)",
@@ -1476,8 +1474,7 @@ export const step7Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Low",
           "solveTime": "30-60 mins",
@@ -1551,7 +1548,7 @@ export const step7Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N^3)",
           "sc": "O(N)",
@@ -1623,7 +1620,7 @@ export const step7Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(4^N)",
           "sc": "O(N)",

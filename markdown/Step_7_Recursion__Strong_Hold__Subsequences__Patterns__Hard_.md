@@ -21,8 +21,8 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Recursive%20implementation%20of%20Atoi)
 - **Prerequisites**:
   - Requires: Basics of Recursion
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -59,8 +59,8 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Pow(x%2C%20n))
 - **Prerequisites**:
   - Requires: Basics of Recursion
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(log N)
@@ -97,8 +97,8 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Good%20Numbers)
 - **Prerequisites**:
   - Requires: Basics of Recursion/Math
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(log N)
@@ -135,7 +135,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Sort%20a%20Stack%20Using%20Recursion)
 - **Prerequisites**:
   - Requires: Basics of Recursion
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N^2)
@@ -173,8 +173,8 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Reverse%20a%20Stack%20Using%20Recursion)
 - **Prerequisites**:
   - Requires: Basics of Recursion
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -222,7 +222,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Recursion
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(2^N)
 - **Space Complexity**: O(N)
@@ -259,8 +259,8 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Generate%20All%20Balanced%20Parentheses)
 - **Prerequisites**:
   - Requires: Basics of Backtracking
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(4^N / sqrt(N))
 - **Space Complexity**: O(N)
@@ -297,8 +297,8 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Print%20All%20Subsequences%20%2F%20Power%20Set)
 - **Prerequisites**:
   - Requires: Basics of Backtracking
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(2^N * N)
 - **Space Complexity**: O(N)
@@ -323,11 +323,11 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
 ### 📄 Subsets I
 - **Difficulty**: Easy
 - **Problem Pattern**: Recursion
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/subset-sum/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/subset-sum-problem/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/subset-sum/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/subset-sum/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/subset-sum)
+  - [LeetCode](https://leetcode.com/problems/subset-sum-problem/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/subset-sum-problem/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/subset-sum-problem)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Subsets%20I)
@@ -349,10 +349,10 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/subset-sum/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/subset-sum/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/subset-sum-problem/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/subset-sum-problem/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/subset-sum/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/subset-sum-problem/1)
 - **Learning Lists**: Not Included
 - **Tags**: Recursion, Easy, Interview
 
@@ -412,7 +412,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Backtracking
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(2^T * K)
 - **Space Complexity**: O(T)
@@ -449,8 +449,8 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Combination%20Sum%20II)
 - **Prerequisites**:
   - Requires: Basics of Backtracking
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(2^N * K)
 - **Space Complexity**: O(N)
@@ -487,8 +487,8 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Combination%20Sum%20III)
 - **Prerequisites**:
   - Requires: Basics of Backtracking
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(9! / (K! * (9-K)!))
 - **Space Complexity**: O(K)
@@ -525,8 +525,8 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Letter%20Combinations%20of%20a%20Phone%20Number)
 - **Prerequisites**:
   - Requires: Basics of Backtracking
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(4^N * N)
 - **Space Complexity**: O(N)
@@ -563,7 +563,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Perfect%20Sum%20Problem)
 - **Prerequisites**:
   - Requires: Basics of Recursion
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(2^N)
@@ -611,7 +611,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Word%20Search)
 - **Prerequisites**:
   - Requires: Basics of Backtracking
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M * 4^L)
@@ -649,8 +649,8 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+N-Queens)
 - **Prerequisites**:
   - Requires: Basics of Backtracking
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N!)
 - **Space Complexity**: O(N^2)
@@ -688,7 +688,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Backtracking
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(3^(N^2))
 - **Space Complexity**: O(N^2)
@@ -726,7 +726,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Backtracking
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(9^(N^2))
 - **Space Complexity**: O(1)
@@ -764,7 +764,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Backtracking
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(M^V)
 - **Space Complexity**: O(V)
@@ -801,7 +801,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Palindrome%20Partitioning)
 - **Prerequisites**:
   - Requires: Basics of Backtracking
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(2^N * N)
@@ -840,7 +840,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Dynamic Programming
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^3)
 - **Space Complexity**: O(N)
@@ -878,7 +878,7 @@ Detailed progress tracker for Step 7 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Backtracking
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(4^N)
 - **Space Complexity**: O(N)

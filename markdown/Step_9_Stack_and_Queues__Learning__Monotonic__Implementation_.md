@@ -21,8 +21,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Implement%20Stack%20Using%20Array)
 - **Prerequisites**:
   - Requires: Basics of Stack
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(N)
@@ -60,7 +60,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Queue
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(N)
@@ -98,7 +98,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Queue
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -135,8 +135,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Implement%20Queue%20Using%20Stacks)
 - **Prerequisites**:
   - Requires: Basics of Stack
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1) amortized
 - **Space Complexity**: O(N)
@@ -173,8 +173,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Implement%20Stack%20Using%20LinkedList)
 - **Prerequisites**:
   - Requires: Basics of LinkedList
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(N)
@@ -212,7 +212,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of LinkedList
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(N)
@@ -250,7 +250,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Stack
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -288,7 +288,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Stack
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(N)
@@ -335,7 +335,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Infix%20to%20Postfix)
 - **Prerequisites**:
   - Requires: Basics of Stack
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -373,8 +373,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Infix%20to%20Prefix)
 - **Prerequisites**:
   - Requires: Basics of Stack
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -411,7 +411,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Postfix%20to%20Infix)
 - **Prerequisites**:
   - Requires: Basics of Stack
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -449,8 +449,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Postfix%20to%20Prefix)
 - **Prerequisites**:
   - Requires: Basics of Stack
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -487,8 +487,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Prefix%20to%20Infix)
 - **Prerequisites**:
   - Requires: Basics of Stack
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -525,8 +525,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Prefix%20to%20Postfix)
 - **Prerequisites**:
   - Requires: Basics of Stack
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -574,7 +574,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Monotonic Stack
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N + M)
 - **Space Complexity**: O(N)
@@ -611,7 +611,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Next%20Greater%20Element%20II)
 - **Prerequisites**:
   - Requires: Basics of Monotonic Stack
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -649,8 +649,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Next%20Smaller%20Element)
 - **Prerequisites**:
   - Requires: Basics of Monotonic Stack
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -687,7 +687,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20NGEs%20to%20the%20Right)
 - **Prerequisites**:
   - Requires: Basics of Monotonic Stack
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -726,7 +726,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Two Pointer
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -764,7 +764,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Monotonic Stack
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -839,8 +839,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Asteroid%20Collision)
 - **Prerequisites**:
   - Requires: Basics of Stack
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -877,7 +877,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Largest%20Rectangle%20in%20Histogram)
 - **Prerequisites**:
   - Requires: Basics of Monotonic Stack
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
@@ -916,7 +916,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Monotonic Stack
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -1001,8 +1001,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+LRU%20Cache%20Implementation)
 - **Prerequisites**:
   - Requires: Basics of Design/DLL
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(Capacity)
@@ -1039,8 +1039,8 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+LFU%20Cache%20Implementation)
 - **Prerequisites**:
   - Requires: Basics of Design/DLL
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(Capacity)
@@ -1077,7 +1077,7 @@ Detailed progress tracker for Step 9 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+The%20Celebrity%20Problem)
 - **Prerequisites**:
   - Requires: Basics of Stack
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)

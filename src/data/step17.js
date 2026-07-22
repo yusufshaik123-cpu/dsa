@@ -113,8 +113,7 @@ export const step17Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -194,7 +193,7 @@ export const step17Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(Sum(L))",
           "sc": "O(Sum(L))",
@@ -265,7 +264,7 @@ export const step17Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N^2)",
@@ -334,9 +333,10 @@ export const step17Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * 32)",
           "sc": "O(N * 32)",
@@ -404,11 +404,9 @@ export const step17Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O((N+Q) * 32)",
           "sc": "O(N * 32)",

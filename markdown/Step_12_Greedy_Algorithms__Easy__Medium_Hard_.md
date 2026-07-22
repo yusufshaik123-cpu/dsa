@@ -21,8 +21,8 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Assign%20Cookies)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(1)
@@ -59,7 +59,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Fractional%20Knapsack)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
@@ -98,7 +98,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Greedy
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -221,7 +221,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Jump%20Game%20II)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -297,8 +297,8 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Job%20Sequencing%20Problem)
 - **Prerequisites**:
   - Requires: Basics of Greedy
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N + N * M)
 - **Space Complexity**: O(M)
@@ -336,7 +336,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Greedy
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -412,7 +412,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Greedy/Stack
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -450,7 +450,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Greedy
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -487,8 +487,8 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Merge%20Intervals)
 - **Prerequisites**:
   - Requires: Basics of Sorting/Greedy
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(1)
@@ -525,7 +525,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Non-overlapping%20Intervals)
 - **Prerequisites**:
   - Requires: Basics of Sorting/Greedy
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
@@ -564,7 +564,7 @@ Detailed progress tracker for Step 12 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Sorting/Greedy
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(1)

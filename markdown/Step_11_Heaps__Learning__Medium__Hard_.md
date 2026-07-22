@@ -22,7 +22,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Heap
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(N)
@@ -60,7 +60,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Heap
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -97,8 +97,8 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Priority%20Queue%20Implementation)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(N)
@@ -145,7 +145,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kth%20Largest%20Element%20in%20an%20Array)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log K)
@@ -183,7 +183,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kth%20Smallest%20Element%20in%20an%20Array)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log K)
@@ -259,8 +259,8 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Replace%20Elements%20by%20Its%20Rank%20in%20Array)
 - **Prerequisites**:
   - Requires: Basics of Sorting/Heap
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -336,7 +336,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Greedy/HashMap
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -411,7 +411,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Merge%20K%20Sorted%20Arrays)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log K)
@@ -449,8 +449,8 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Merge%20K%20Sorted%20Lists)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log K)
 - **Space Complexity**: O(K)
@@ -497,8 +497,8 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+K%20Most%20Frequent%20Elements)
 - **Prerequisites**:
   - Requires: Basics of Heap/HashMap
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log K)
 - **Space Complexity**: O(N)
@@ -535,7 +535,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Median%20from%20Data%20Stream)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(log N)
@@ -573,7 +573,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kth%20Largest%20Element%20in%20a%20Stream)
 - **Prerequisites**:
   - Requires: Basics of Heap
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log K)
@@ -612,7 +612,7 @@ Detailed progress tracker for Step 11 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Heap
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)

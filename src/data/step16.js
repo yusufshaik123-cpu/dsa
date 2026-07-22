@@ -41,11 +41,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(N)",
@@ -114,9 +112,10 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -193,7 +192,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -261,11 +260,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * K)",
           "sc": "O(N)",
@@ -335,7 +332,7 @@ export const step16Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -477,7 +474,7 @@ export const step16Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -545,7 +542,8 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -624,7 +622,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -693,10 +691,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -765,7 +762,8 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -836,10 +834,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -907,9 +904,10 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -978,10 +976,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N * M * M)",
           "sc": "O(M * M)",
@@ -1058,7 +1055,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * K)",
           "sc": "O(K)",
@@ -1199,10 +1196,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(N * Sum)",
           "sc": "O(Sum)",
@@ -1273,7 +1269,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * K)",
           "sc": "O(K)",
@@ -1341,11 +1337,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * Sum)",
           "sc": "O(Sum)",
@@ -1414,7 +1408,8 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Very High",
           "solveTime": "30-60 mins",
@@ -1485,10 +1480,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N * Sum)",
           "sc": "O(Sum)",
@@ -1556,10 +1550,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N * Amount)",
           "sc": "O(Amount)",
@@ -1627,9 +1620,11 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N * Amount)",
           "sc": "O(Amount)",
@@ -1667,19 +1662,19 @@ export const step16Data = {
           "name": "Unbounded Knapsack",
           "difficulty": "Medium",
           "pattern": "DP",
-          "primaryLink": "https://www.geeksforgeeks.org/problems/unbounded-knapsack/1",
+          "primaryLink": "https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1",
           "alternativeLinks": [
             {
               "platform": "LeetCode",
-              "link": "https://leetcode.com/problems/unbounded-knapsack/"
+              "link": "https://leetcode.com/problems/unbounded-knapsack-or-fractional-knapsack/"
             },
             {
               "platform": "GeeksforGeeks",
-              "link": "https://www.geeksforgeeks.org/problems/unbounded-knapsack/1"
+              "link": "https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1"
             },
             {
               "platform": "Coding Ninjas",
-              "link": "https://www.codingninjas.com/studio/problems/unbounded-knapsack"
+              "link": "https://www.codingninjas.com/studio/problems/unbounded-knapsack-or-fractional-knapsack"
             }
           ],
           "striverSolution": {
@@ -1698,10 +1693,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * W)",
           "sc": "O(W)",
@@ -1714,17 +1708,17 @@ export const step16Data = {
           "similarProblems": [
             {
               "name": "Related problem A",
-              "link": "https://www.geeksforgeeks.org/problems/unbounded-knapsack/1"
+              "link": "https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1"
             },
             {
               "name": "Related problem B",
-              "link": "https://www.geeksforgeeks.org/problems/unbounded-knapsack/1"
+              "link": "https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1"
             }
           ],
           "harderFollowUps": [
             {
               "name": "Advanced follow-up A",
-              "link": "https://www.geeksforgeeks.org/problems/unbounded-knapsack/1"
+              "link": "https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1"
             }
           ],
           "learningLists": "Not Included",
@@ -1770,10 +1764,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N * N)",
           "sc": "O(N)",
@@ -1848,9 +1841,10 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -1919,10 +1913,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(N * M)",
@@ -1990,11 +1983,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -2065,7 +2056,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * N)",
           "sc": "O(N)",
@@ -2276,8 +2267,7 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "60-120 mins",
@@ -2347,11 +2337,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "60-120 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -2490,10 +2478,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N * M)",
           "sc": "O(M)",
@@ -2567,9 +2554,10 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2638,9 +2626,10 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2709,7 +2698,8 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "High",
           "solveTime": "60-120 mins",
@@ -2780,9 +2770,10 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N * K)",
           "sc": "O(K)",
@@ -2850,9 +2841,10 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -2923,7 +2915,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N)",
           "sc": "O(1)",
@@ -3000,7 +2992,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -3068,9 +3060,11 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -3138,11 +3132,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N log N)",
           "sc": "O(N)",
@@ -3213,7 +3205,7 @@ export const step16Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -3281,10 +3273,9 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N log N + N * L)",
           "sc": "O(N)",
@@ -3356,7 +3347,7 @@ export const step16Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -3428,7 +3419,7 @@ export const step16Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N)",
@@ -3503,10 +3494,9 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O(N^3)",
           "sc": "O(N^2)",
@@ -3574,9 +3564,7 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "60-120 mins",
@@ -3646,8 +3634,7 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Medium",
           "solveTime": "60-120 mins",
@@ -3718,9 +3705,10 @@ export const step16Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N^3)",
           "sc": "O(N^2)",
@@ -3788,8 +3776,7 @@ export const step16Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "60-120 mins",
@@ -3861,7 +3848,7 @@ export const step16Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * K)",
           "sc": "O(N)",

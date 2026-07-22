@@ -21,8 +21,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Intro%20to%20Bit%20Manipulation)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -59,8 +59,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Check%20if%20i-th%20Bit%20is%20Set)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -97,8 +97,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Check%20if%20Number%20is%20Power%20of%20Two)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -135,8 +135,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Number%20of%20Set%20Bits)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -174,7 +174,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -211,8 +211,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Swap%20Two%20Numbers%20Using%20Bitwise)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -249,8 +249,8 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Divide%20Two%20Integers%20Without%20Operators)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -298,7 +298,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -335,7 +335,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Single%20Number%20II)
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -374,7 +374,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -412,7 +412,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -488,7 +488,7 @@ Detailed progress tracker for Step 8 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Bit Manipulation
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)

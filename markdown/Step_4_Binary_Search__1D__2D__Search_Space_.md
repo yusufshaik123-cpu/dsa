@@ -22,7 +22,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -47,54 +47,16 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 ### 📄 Lower Bound Implementation
 - **Difficulty**: Easy
 - **Problem Pattern**: Binary Search
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/implement-lower-bound)
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/lower-bound_8165382)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/implement-lower-bound/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implement-lower-bound/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/implement-lower-bound)
+  - [LeetCode](https://leetcode.com/problems/lower-bound/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/lower-bound/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/lower-bound_8165382)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Lower%20Bound%20Implementation)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Lower%20Bound%20Implementation)
-- **Prerequisites**:
-  - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
-- **Estimated Solve Time**: 20-30 mins
-- **Time Complexity**: O(log N)
-- **Space Complexity**: O(1)
-- **Status**: ☐ Not Started
-- **Personal Confidence**: ⭐⭐⭐⭐⭐
-- **Notes**: 
-- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
-- **Hints**:
-  - Hint 1: Analyze the problem using manual drawings for small inputs.
-  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
-  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
-- **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/implement-lower-bound)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/implement-lower-bound)
-- **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/implement-lower-bound)
-- **Learning Lists**: Not Included
-- **Tags**: Binary Search, Easy, Interview
-
----
-
-### 📄 Upper Bound Implementation
-- **Difficulty**: Easy
-- **Problem Pattern**: Binary Search
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/implement-upper-bound)
-- **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/implement-upper-bound/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/implement-upper-bound)
-- **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
-  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Upper%20Bound%20Implementation)
-- **Alternative Video Resources**:
-  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Upper%20Bound%20Implementation)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft
@@ -111,10 +73,48 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/implement-upper-bound)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/implement-upper-bound)
+  - [Related problem A](https://www.codingninjas.com/studio/problems/lower-bound_8165382)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/lower-bound_8165382)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/implement-upper-bound)
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/lower-bound_8165382)
+- **Learning Lists**: Not Included
+- **Tags**: Binary Search, Easy, Interview
+
+---
+
+### 📄 Upper Bound Implementation
+- **Difficulty**: Easy
+- **Problem Pattern**: Binary Search
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383)
+- **Alternative Practice Links**:
+  - [LeetCode](https://leetcode.com/problems/implement-upper-bound/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383)
+- **Striver Solution**:
+  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Upper%20Bound%20Implementation)
+- **Alternative Video Resources**:
+  - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Upper%20Bound%20Implementation)
+- **Prerequisites**:
+  - Requires: Basics of Binary Search
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
+- **Estimated Solve Time**: 20-30 mins
+- **Time Complexity**: O(log N)
+- **Space Complexity**: O(1)
+- **Status**: ☐ Not Started
+- **Personal Confidence**: ⭐⭐⭐⭐⭐
+- **Notes**: 
+- **Common Mistakes**: Incorrect boundary checking, off-by-one errors, or stack-overflow in recursion.
+- **Hints**:
+  - Hint 1: Analyze the problem using manual drawings for small inputs.
+  - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
+  - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
+- **Similar Problems**:
+  - [Related problem A](https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383)
+- **Harder Follow-up Problems**:
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Search, Easy, Interview
 
@@ -136,7 +136,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -161,11 +161,11 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 ### 📄 Floor and Ceil in Sorted Array
 - **Difficulty**: Easy
 - **Problem Pattern**: Binary Search
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/floor-ceil)
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/floor-ceil/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/floor-ceil/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/floor-ceil)
+  - [LeetCode](https://leetcode.com/problems/ceiling-in-a-sorted-array/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/ceiling-in-a-sorted-array/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Floor%20and%20Ceil%20in%20Sorted%20Array)
@@ -174,7 +174,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -187,10 +187,10 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/floor-ceil)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/floor-ceil)
+  - [Related problem A](https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/floor-ceil)
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_518)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Search, Easy, Interview
 
@@ -237,11 +237,11 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 ### 📄 Count Occurrences in Sorted Array
 - **Difficulty**: Easy
 - **Problem Pattern**: Binary Search
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/count-occurrences/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/count-occurrences/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/count-occurrences/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/count-occurrences)
+  - [LeetCode](https://leetcode.com/problems/number-of-occurrence/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/number-of-occurrence)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Count%20Occurrences%20in%20Sorted%20Array)
@@ -250,7 +250,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -263,10 +263,10 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/count-occurrences/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/count-occurrences/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/count-occurrences/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Search, Easy, Interview
 
@@ -287,8 +287,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20Rotated%20Sorted%20Array%20I)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -325,8 +325,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20Rotated%20Sorted%20Array%20II)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -363,7 +363,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
@@ -401,7 +401,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Single%20Element%20in%20Sorted%20Array)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
@@ -439,8 +439,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Peak%20Element)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -487,8 +487,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Square%20Root%20of%20an%20Integer)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -513,11 +513,11 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 ### 📄 Nth Root of an Integer
 - **Difficulty**: Easy
 - **Problem Pattern**: Binary Search
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/nth-root/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/nth-root/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/nth-root/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/nth-root)
+  - [LeetCode](https://leetcode.com/problems/find-nth-root-of-m5843/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-nth-root-of-m5843)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Nth%20Root%20of%20an%20Integer)
@@ -526,7 +526,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -539,10 +539,10 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/nth-root/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/nth-root/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/nth-root/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Search, Easy, Interview
 
@@ -564,7 +564,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -601,8 +601,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Days%20to%20Make%20M%20Bouquets)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -639,8 +639,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Smallest%20Divisor%20Given%20a%20Threshold)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -678,7 +678,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -753,8 +753,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Aggressive%20Cows)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -779,11 +779,11 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 ### 📄 Book Allocation Problem
 - **Difficulty**: Medium
 - **Problem Pattern**: Binary Search
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/allocate-books)
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/allocate-books_1090540)
 - **Alternative Practice Links**:
   - [LeetCode](https://leetcode.com/problems/allocate-books/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/allocate-books/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/allocate-books)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/allocate-books_1090540)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Book%20Allocation%20Problem)
@@ -791,8 +791,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Book%20Allocation%20Problem)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -805,10 +805,10 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/allocate-books)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/allocate-books)
+  - [Related problem A](https://www.codingninjas.com/studio/problems/allocate-books_1090540)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/allocate-books_1090540)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/allocate-books)
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/allocate-books_1090540)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Search, Medium, Interview
 
@@ -830,7 +830,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -855,11 +855,11 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 ### 📄 Painter's Partition
 - **Difficulty**: Medium
 - **Problem Pattern**: Binary Search
-- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/painters-partition)
+- **Official Problem Link**: [Primary Practice Link](https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/painters-partition/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/painters-partition/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/painters-partition)
+  - [LeetCode](https://leetcode.com/problems/painter-s-partition-problem/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/painter-s-partition-problem/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Painter's%20Partition)
@@ -868,7 +868,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -881,10 +881,10 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.codingninjas.com/studio/problems/painters-partition)
-  - [Related problem B](https://www.codingninjas.com/studio/problems/painters-partition)
+  - [Related problem A](https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557)
+  - [Related problem B](https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/painters-partition)
+  - [Advanced follow-up A](https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Search, Medium, Interview
 
@@ -906,7 +906,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -943,8 +943,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Median%20of%20Two%20Sorted%20Arrays)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(log(min(N,M)))
 - **Space Complexity**: O(1)
@@ -969,11 +969,11 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 ### 📄 Kth Element of Two Sorted Arrays
 - **Difficulty**: Medium
 - **Problem Pattern**: Binary Search
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/kth-element-of-two-sorted-arrays/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/kth-element-of-two-sorted-arrays/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/kth-element-of-two-sorted-arrays/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/kth-element-of-two-sorted-arrays)
+  - [LeetCode](https://leetcode.com/problems/k-th-element-of-two-sorted-array1317/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/k-th-element-of-two-sorted-array1317)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kth%20Element%20of%20Two%20Sorted%20Arrays)
@@ -981,8 +981,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kth%20Element%20of%20Two%20Sorted%20Arrays)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log(min(N,M)))
 - **Space Complexity**: O(1)
@@ -995,10 +995,10 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/kth-element-of-two-sorted-arrays/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/kth-element-of-two-sorted-arrays/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/kth-element-of-two-sorted-arrays/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Search, Medium, Interview
 
@@ -1017,11 +1017,11 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 ### 📄 Row with Max 1s
 - **Difficulty**: Medium
 - **Problem Pattern**: Binary Search
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/row-with-max-1s/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/row-with-max-1s/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/row-with-max-1s/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/row-with-max-1s)
+  - [LeetCode](https://leetcode.com/problems/row-with-max-1s0023/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/row-with-max-1s0023)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Row%20with%20Max%201s)
@@ -1029,8 +1029,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Row%20with%20Max%201s)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N + M)
 - **Space Complexity**: O(1)
@@ -1043,10 +1043,10 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/row-with-max-1s/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/row-with-max-1s/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/row-with-max-1s/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Search, Medium, Interview
 
@@ -1067,8 +1067,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20a%202D%20Matrix%20I)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log(N*M))
 - **Space Complexity**: O(1)
@@ -1106,7 +1106,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N + M)
 - **Space Complexity**: O(1)
@@ -1169,11 +1169,11 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
 ### 📄 Median in Row-wise Sorted Matrix
 - **Difficulty**: Hard
 - **Problem Pattern**: Binary Search
-- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/matrix-median/1)
+- **Official Problem Link**: [Primary Practice Link](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
 - **Alternative Practice Links**:
-  - [LeetCode](https://leetcode.com/problems/matrix-median/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/matrix-median/1)
-  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/matrix-median)
+  - [LeetCode](https://leetcode.com/problems/median-in-a-row-wise-sorted-matrix1527/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
+  - [Coding Ninjas](https://www.codingninjas.com/studio/problems/median-in-a-row-wise-sorted-matrix1527)
 - **Striver Solution**:
   - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Median%20in%20Row-wise%20Sorted%20Matrix)
@@ -1181,8 +1181,8 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Median%20in%20Row-wise%20Sorted%20Matrix)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(32 * N log M)
 - **Space Complexity**: O(1)
@@ -1195,10 +1195,10 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - Hint 2: Consider using auxiliary data structures like hash maps or arrays to cache results.
   - Hint 3: Check time complexity constraints to select the optimal approach (e.g. Binary Search for sorted arrays).
 - **Similar Problems**:
-  - [Related problem A](https://www.geeksforgeeks.org/problems/matrix-median/1)
-  - [Related problem B](https://www.geeksforgeeks.org/problems/matrix-median/1)
+  - [Related problem A](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
+  - [Related problem B](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
 - **Harder Follow-up Problems**:
-  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/matrix-median/1)
+  - [Advanced follow-up A](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
 - **Learning Lists**: Not Included
 - **Tags**: Binary Search, Hard, Interview
 

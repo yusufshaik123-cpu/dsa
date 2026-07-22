@@ -21,8 +21,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Introduction%20to%20BST)
 - **Prerequisites**:
   - Requires: Basics of BST
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -60,7 +60,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BST
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(log N)
@@ -97,7 +97,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Minimum%2FMaximum%20Value%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of BST
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
@@ -146,7 +146,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BST
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -222,7 +222,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of BST
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(log N)
@@ -259,8 +259,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Delete%20a%20Node%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of BST
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(log N)
@@ -298,7 +298,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of Inorder DFS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -335,8 +335,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Validate%20Binary%20Search%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -373,8 +373,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Lowest%20Common%20Ancestor%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of BST
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(log N)
@@ -411,7 +411,7 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Construct%20BST%20from%20Preorder%20Traversal)
 - **Prerequisites**:
   - Requires: Basics of BST/DFS
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -449,8 +449,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Binary%20Search%20Tree%20Iterator)
 - **Prerequisites**:
   - Requires: Basics of Stack/Design
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(1) average
 - **Space Complexity**: O(H)
@@ -487,8 +487,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Two%20Sum%20in%20BST)
 - **Prerequisites**:
   - Requires: Basics of Iterator/Two Pointer
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(H)
@@ -525,8 +525,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Recover%20Binary%20Search%20Tree)
 - **Prerequisites**:
   - Requires: Basics of Inorder DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(H)
@@ -563,8 +563,8 @@ Detailed progress tracker for Step 14 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Largest%20BST%20in%20Binary%20Tree)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(H)

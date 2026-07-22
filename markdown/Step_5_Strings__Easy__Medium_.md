@@ -22,7 +22,7 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of String
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -60,7 +60,7 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of String
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -98,7 +98,7 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of String
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -135,8 +135,8 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Common%20Prefix)
 - **Prerequisites**:
   - Requires: Basics of String
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(1)
@@ -173,8 +173,8 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Isomorphic%20Strings)
 - **Prerequisites**:
   - Requires: Basics of String/HashMap
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -211,8 +211,8 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Rotate%20String)
 - **Prerequisites**:
   - Requires: Basics of String
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -249,8 +249,8 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Valid%20Anagram)
 - **Prerequisites**:
   - Requires: Basics of String/HashMap
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -297,8 +297,8 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Sort%20Characters%20By%20Frequency)
 - **Prerequisites**:
   - Requires: Basics of String/Hashing
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -336,7 +336,7 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of String
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -374,7 +374,7 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of String
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -412,7 +412,7 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of String
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(1)
 - **Space Complexity**: O(1)
@@ -449,7 +449,7 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Implement%20Atoi%20(String%20to%20Integer))
 - **Prerequisites**:
   - Requires: Basics of String/Math
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -487,8 +487,8 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Substrings%20with%20K%20Distinct%20Chars)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -525,8 +525,8 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Palindromic%20Substring)
 - **Prerequisites**:
   - Requires: Basics of String/DP
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(1)
@@ -564,7 +564,7 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
 - **Prerequisites**:
   - Requires: Basics of String
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(1)
