@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { ChevronRight, Layers } from 'lucide-react';
 import { allStepsData } from '../data/allSteps';
 
-export default function Sidebar({ activeStep, activeTopic, onSelectTopic }) {
+export default function Sidebar({ activeStep, activeTopic, onSelectTopic, progress = {} }) {
   // Expansion state for accordion steps.
   const [expandedSteps, setExpandedSteps] = useState({ 1: true });
 
@@ -35,7 +35,7 @@ export default function Sidebar({ activeStep, activeTopic, onSelectTopic }) {
         </div>
       </div>
 
-      <div className="sidebar-menu">
+      <div className="steps-container">
         {stepsList.map((step) => {
           const isExpanded = !!expandedSteps[step.number];
           const isActive = activeStep === step.number;
@@ -68,12 +68,27 @@ export default function Sidebar({ activeStep, activeTopic, onSelectTopic }) {
                 <div className="topics-list">
                   {step.data.lectures.map((lecture) => {
                     const isTopicActive = activeStep === step.number && activeTopic === lecture.lectureNumber;
+                    
+                    // Check if all problems in this lecture are completed
+                    const isLecCompleted = lecture.problems.length > 0 && lecture.problems.every(p => {
+                      const status = progress[p.id]?.status;
+                      return status === 'Solved' || status === 'Mastered' || (status && status.includes('Revision'));
+                    });
+
                     return (
                       <div
                         key={lecture.lectureNumber}
                         className={`topic-link ${isTopicActive ? 'active' : ''}`}
                         onClick={() => onSelectTopic(step.number, lecture.lectureNumber)}
+                        style={{ display: 'flex', alignItems: 'center', gap: '10px' }}
                       >
+                        <input
+                          type="checkbox"
+                          className="topic-checkbox"
+                          checked={isLecCompleted}
+                          readOnly
+                          style={{ pointerEvents: 'none' }}
+                        />
                         <span>Lec {lecture.lectureNumber}: {lecture.lectureTitle.split('(')[0]}</span>
                       </div>
                     );

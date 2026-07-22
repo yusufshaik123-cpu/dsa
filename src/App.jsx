@@ -146,6 +146,7 @@ export default function App() {
         activeStep={activeStep}
         activeTopic={activeTopic}
         onSelectTopic={handleSelectTopic}
+        progress={progress}
       />
 
       {/* Main Container */}

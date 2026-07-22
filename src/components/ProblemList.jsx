@@ -76,6 +76,7 @@ export default function ProblemList({
         <table className="problems-table">
           <thead>
             <tr>
+              <th style={{ width: '40px', textAlign: 'center' }}></th>
               <th style={{ width: '40%' }}>Problem Name</th>
               <th>Difficulty</th>
               <th>Pattern</th>
@@ -88,18 +89,32 @@ export default function ProblemList({
           <tbody>
             {filteredProblems.length === 0 ? (
               <tr>
-                <td colSpan="7" style={{ textAlign: 'center', color: 'var(--text-muted)', padding: '24px' }}>
+                <td colSpan="8" style={{ textAlign: 'center', color: 'var(--text-muted)', padding: '24px' }}>
                   No problems matched your search or filters.
                 </td>
               </tr>
             ) : (
               filteredProblems.map((prob) => {
                 const userProg = progress[prob.id] || { status: 'Not Started', confidence: 0 };
+                const isCompleted = userProg.status === 'Solved' || userProg.status === 'Mastered' || userProg.status.includes('Revision');
                 
                 return (
-                  <tr key={prob.id} className="problem-row">
+                  <tr key={prob.id} className={`problem-row ${isCompleted ? 'completed-row' : ''}`}>
+                    <td style={{ textAlign: 'center', verticalAlign: 'middle' }}>
+                      <input
+                        type="checkbox"
+                        className="problem-checkbox"
+                        checked={isCompleted}
+                        onChange={(e) => onUpdateStatus(prob.id, e.target.checked ? 'Solved' : 'Not Started')}
+                      />
+                    </td>
                     <td>
-                      <div style={{ fontWeight: 600, color: 'var(--text-primary)' }}>
+                      <div style={{ 
+                        fontWeight: 600, 
+                        color: isCompleted ? 'var(--text-muted)' : 'var(--text-primary)',
+                        textDecoration: isCompleted ? 'line-through' : 'none',
+                        transition: 'all 0.2s ease'
+                      }}>
                         {prob.name}
                       </div>
                       {prob.companies && prob.companies.length > 0 && (

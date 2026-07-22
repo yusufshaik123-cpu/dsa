@@ -14,7 +14,7 @@ export const step2Data = {
           primaryLink: "https://www.geeksforgeeks.org/problems/selection-sort/1",
           alternativeLinks: [
             { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/selection-sort/1" },
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/selection-sort_624469" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/selection-sort/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/sorting/selection-sort-algorithm/",
@@ -52,7 +52,7 @@ export const step2Data = {
           primaryLink: "https://www.geeksforgeeks.org/problems/bubble-sort/1",
           alternativeLinks: [
             { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/bubble-sort/1" },
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/bubble-sort_624470" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/bubble-sort/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/sorting/bubble-sort-algorithm/",
@@ -88,7 +88,7 @@ export const step2Data = {
           primaryLink: "https://www.geeksforgeeks.org/problems/insertion-sort/1",
           alternativeLinks: [
             { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/insertion-sort/1" },
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/insertion-sort_624459" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/insertion-sort/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/sorting/insertion-sort-algorithm/",
@@ -130,7 +130,7 @@ export const step2Data = {
           primaryLink: "https://www.geeksforgeeks.org/problems/merge-sort/1",
           alternativeLinks: [
             { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/merge-sort/1" },
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/merge-sort_920442" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/merge-sort/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/data-structure/merge-sort-algorithm/",
@@ -168,7 +168,7 @@ export const step2Data = {
           pattern: "Recursion",
           primaryLink: "https://www.geeksforgeeks.org/problems/recursive-bubble-sort/0",
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/bubble-sort_624470" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/bubble-sort/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/sorting/recursive-bubble-sort-algorithm/",
@@ -199,7 +199,7 @@ export const step2Data = {
           pattern: "Recursion",
           primaryLink: "https://www.geeksforgeeks.org/problems/recursive-insertion-sort/0",
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/insertion-sort_624459" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/insertion-sort/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/sorting/recursive-insertion-sort-algorithm/",
@@ -231,7 +231,7 @@ export const step2Data = {
           primaryLink: "https://www.geeksforgeeks.org/problems/quick-sort/1",
           alternativeLinks: [
             { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/quick-sort/1" },
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/quick-sort_980589" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/quick-sort/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/data-structure/quick-sort-algorithm/",

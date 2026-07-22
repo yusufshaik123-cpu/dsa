@@ -11,9 +11,9 @@ export const step1Data = {
           name: "User Input / Output",
           difficulty: "Easy",
           pattern: "Basic Input/Output",
-          primaryLink: "https://www.codingninjas.com/studio/problems/find-character-case_5851472",
+          primaryLink: "https://www.geeksforgeeks.org/problems/c-input-output/1",
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/find-character-case_5851472" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/c-input-output/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/c/c-basics-input-output-data-types-if-else-switch-loops-functions/",
@@ -49,9 +49,9 @@ export const step1Data = {
           name: "Data Types",
           difficulty: "Easy",
           pattern: "Basic Syntax",
-          primaryLink: "https://www.codingninjas.com/studio/problems/data-type_8357232",
+          primaryLink: "https://www.geeksforgeeks.org/problems/size-of-data-types/1",
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/data-type_8357232" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/size-of-data-types/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/c/c-basics-input-output-data-types-if-else-switch-loops-functions/",
@@ -81,9 +81,9 @@ export const step1Data = {
           name: "If Else statements",
           difficulty: "Easy",
           pattern: "Conditionals",
-          primaryLink: "https://www.codingninjas.com/studio/problems/if-else-decision-making_8357235",
+          primaryLink: "https://www.geeksforgeeks.org/problems/java-if-else-decision-making0924/1",
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/if-else-decision-making_8357235" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/java-if-else-decision-making0924/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/c/c-basics-input-output-data-types-if-else-switch-loops-functions/",
@@ -113,9 +113,9 @@ export const step1Data = {
           name: "Switch Statement",
           difficulty: "Easy",
           pattern: "Conditionals",
-          primaryLink: "https://www.codingninjas.com/studio/problems/switch-case-statement_8357245",
+          primaryLink: "https://www.geeksforgeeks.org/problems/java-switch-case-statement3529/1",
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/switch-case-statement_8357245" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/java-switch-case-statement3529/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/c/c-basics-input-output-data-types-if-else-switch-loops-functions/",
@@ -143,9 +143,9 @@ export const step1Data = {
           name: "For loops",
           difficulty: "Easy",
           pattern: "Loops",
-          primaryLink: "https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74126",
+          primaryLink: "https://leetcode.com/problems/fibonacci-number/",
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74126" },
+            { platform: "GeeksforGeeks", link: "https://leetcode.com/problems/fibonacci-number/" },
             { platform: "LeetCode", link: "https://leetcode.com/problems/fibonacci-number/" }
           ],
           striverSolution: {
@@ -181,9 +181,9 @@ export const step1Data = {
           name: "While loops",
           difficulty: "Easy",
           pattern: "Loops",
-          primaryLink: "https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650",
+          primaryLink: "https://www.geeksforgeeks.org/problems/sum-of-even-and-odd-elements/1",
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/sum-of-even-and-odd-elements/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/c/c-basics-input-output-data-types-if-else-switch-loops-functions/",
@@ -214,9 +214,9 @@ export const step1Data = {
           name: "Functions (Pass by Reference and Value)",
           difficulty: "Easy",
           pattern: "Functions",
-          primaryLink: "https://www.codingninjas.com/studio/problems/pass-by-value-and-pass-by-reference_9853173",
+          primaryLink: "https://www.geeksforgeeks.org/problems/pass-by-reference-and-value/1",
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/pass-by-value-and-pass-by-reference_9853173" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/pass-by-reference-and-value/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/c/c-basics-input-output-data-types-if-else-switch-loops-functions/",
@@ -252,9 +252,9 @@ export const step1Data = {
           name: `Pattern ${pNum}`,
           difficulty: "Easy",
           pattern: "Loops",
-          primaryLink: `https://www.codingninjas.com/studio/problems/pattern-${pNum}_65819${80 + idx}`,
+          primaryLink: `https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/ + idx}`,
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: `https://www.codingninjas.com/studio/problems/pattern-${pNum}_65819${80 + idx}` }
+            { platform: "GeeksforGeeks", link: `https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/ + idx}` }
           ],
           striverSolution: {
             article: "https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/",
@@ -869,7 +869,7 @@ export const step1Data = {
           pattern: "Hashing",
           primaryLink: "https://takeuforward.org/arrays/find-the-highest-lowest-frequency-element/",
           alternativeLinks: [
-            { platform: "Coding Ninjas", link: "https://www.codingninjas.com/studio/problems/k-max-sum-combinations_1062626" }
+            { platform: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/problems/k-max-sum-combinations/1" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/arrays/find-the-highest-lowest-frequency-element/",
