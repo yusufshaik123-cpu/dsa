@@ -14,14 +14,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/introduction-to-dp/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/introduction-to-dp/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Introduction%20to%20Dynamic%20Programming)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Introduction%20to%20Dynamic%20Programming)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -51,14 +51,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/climbing-stairs/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/climbing-stairs/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Climbing%20Stairs)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Climbing%20Stairs)
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -98,14 +98,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/geek-jump/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Frog%20Jump)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Frog%20Jump)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -135,14 +135,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimal-cost/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimal-cost/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Frog%20Jump%20with%20K%20Jumps)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Frog%20Jump%20with%20K%20Jumps)
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * K)
 - **Space Complexity**: O(N)
@@ -172,13 +172,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/max-sum-without-adjacents2430/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20Sum%20of%20Non-Adjacent%20Elements)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20Sum%20of%20Non-Adjacent%20Elements)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -209,14 +209,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/house-robber/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/house-robber/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+House%20Robber)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+House%20Robber)
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -246,7 +246,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/house-robber-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/house-robber-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+House%20Robber%20II)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+House%20Robber%20II)
@@ -283,13 +283,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/geeks-training/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/geeks-training/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Ninja's%20Training)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Ninja's%20Training)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * 4)
@@ -330,7 +330,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/unique-paths/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/unique-paths/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Grid%20Unique%20Paths)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Grid%20Unique%20Paths)
@@ -367,14 +367,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/unique-paths-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/unique-paths-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Grid%20Unique%20Paths%20II)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Grid%20Unique%20Paths%20II)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -404,14 +404,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimum-path-sum/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-path-sum/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimum%20Path%20Sum%20in%20Grid)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Path%20Sum%20in%20Grid)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -441,14 +441,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/triangle/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/triangle/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Triangle%20Path%20Min%20Sum)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Triangle%20Path%20Min%20Sum)
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -478,13 +478,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimum-falling-path-sum/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-falling-path-sum/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimum%2FMaximum%20Falling%20Path%20Sum)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%2FMaximum%20Falling%20Path%20Sum)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
@@ -515,13 +515,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/cherry-pickup-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/cherry-pickup-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Cherry%20Pickup%20II%20(3D%20DP))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Cherry%20Pickup%20II%20(3D%20DP))
 - **Prerequisites**:
   - Requires: Basics of 3D DP
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M * M)
@@ -562,13 +562,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/subset-sum-problem-1611555635/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555635/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Subset%20Sum%20Equals%20K)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Subset%20Sum%20Equals%20K)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * K)
@@ -599,14 +599,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/partition-equal-subset-sum/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Partition%20Equal%20Subset%20Sum)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Partition%20Equal%20Subset%20Sum)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * Sum)
 - **Space Complexity**: O(Sum)
@@ -636,13 +636,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimum-sum-partition3317/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Partition%20Array%20into%20Two%20Subsets%20with%20Min%20Difference)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Partition%20Array%20into%20Two%20Subsets%20with%20Min%20Difference)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * Sum)
@@ -673,14 +673,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/perfect-sum-problem/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/perfect-sum-problem/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Count%20Subsets%20with%20Sum%20K)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Subsets%20with%20Sum%20K)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * K)
 - **Space Complexity**: O(K)
@@ -710,14 +710,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/partitions-with-given-difference/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Count%20Partitions%20with%20Given%20Difference)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Partitions%20with%20Given%20Difference)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * Sum)
 - **Space Complexity**: O(Sum)
@@ -747,14 +747,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/0-1-knapsack-problem/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+0-1%20Knapsack%20Problem)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+0-1%20Knapsack%20Problem)
 - **Prerequisites**:
   - Requires: Basics of DP
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * W)
 - **Space Complexity**: O(W)
@@ -784,14 +784,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/target-sum/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/target-sum/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Target%20Sum)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Target%20Sum)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * Sum)
 - **Space Complexity**: O(Sum)
@@ -821,13 +821,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/coin-change/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/coin-change/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Coin%20Change%20I%20(Min%20Coins))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Coin%20Change%20I%20(Min%20Coins))
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * Amount)
@@ -858,7 +858,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/coin-change-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/coin-change-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Coin%20Change%20II%20(Total%20Ways))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Coin%20Change%20II%20(Total%20Ways))
@@ -895,14 +895,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/unbounded-knapsack-or-fractional-knapsack/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/unbounded-knapsack-or-fractional-knapsack/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Unbounded%20Knapsack)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Unbounded%20Knapsack)
 - **Prerequisites**:
   - Requires: Basics of DP
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * W)
 - **Space Complexity**: O(W)
@@ -932,7 +932,7 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/rod-cutting/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/rod-cutting/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Rod%20Cutting%20Problem)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Rod%20Cutting%20Problem)
@@ -979,13 +979,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-common-subsequence/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-common-subsequence/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Common%20Subsequence)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Common%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
@@ -1016,13 +1016,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-common-subsequence-1587115620/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Print%20Longest%20Common%20Subsequence)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Print%20Longest%20Common%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
@@ -1053,14 +1053,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-common-substring/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-common-substring/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Common%20Substring)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Common%20Substring)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -1090,13 +1090,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Palindromic%20Subsequence)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Palindromic%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * N)
@@ -1127,14 +1127,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-insertion-steps-to-make-a-string-palindrome/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Min%20Insertions%20to%20Make%20String%20Palindrome)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Min%20Insertions%20to%20Make%20String%20Palindrome)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * N)
 - **Space Complexity**: O(N)
@@ -1164,14 +1164,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/delete-operation-for-two-strings/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/delete-operation-for-two-strings/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Min%20Insertions%2FDeletions%20to%20convert%20A%20to%20B)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Min%20Insertions%2FDeletions%20to%20convert%20A%20to%20B)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -1201,13 +1201,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/shortest-common-supersequence/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/shortest-common-supersequence/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Shortest%20Common%20Supersequence)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Shortest%20Common%20Supersequence)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M)
@@ -1238,14 +1238,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/distinct-subsequences/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/distinct-subsequences/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Distinct%20Subsequences)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Distinct%20Subsequences)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -1275,13 +1275,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/edit-distance/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/edit-distance/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Edit%20Distance)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Edit%20Distance)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M)
@@ -1312,14 +1312,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/wildcard-matching/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/wildcard-matching/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Wildcard%20Matching)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Wildcard%20Matching)
 - **Prerequisites**:
   - Requires: Basics of DP on Strings
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(M)
@@ -1359,14 +1359,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20I)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20I)
 - **Prerequisites**:
   - Requires: Basics of Array/Greedy
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1396,13 +1396,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20II)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20II)
 - **Prerequisites**:
   - Requires: Basics of DP on Stocks
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
@@ -1433,14 +1433,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock-iii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20III)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20III)
 - **Prerequisites**:
   - Requires: Basics of DP on Stocks
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1470,14 +1470,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock-iv/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20IV)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20IV)
 - **Prerequisites**:
   - Requires: Basics of DP on Stocks
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * K)
 - **Space Complexity**: O(K)
@@ -1507,14 +1507,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock-with-cooldown/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20with%20Cooldown)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20with%20Cooldown)
 - **Prerequisites**:
   - Requires: Basics of DP on Stocks
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1544,14 +1544,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20with%20Transaction%20Fee)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Best%20Time%20to%20Buy%20%26%20Sell%20Stock%20with%20Transaction%20Fee)
 - **Prerequisites**:
   - Requires: Basics of DP on Stocks
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -1591,14 +1591,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Increasing%20Subsequence)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Increasing%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -1628,14 +1628,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/printing-longest-increasing-subsequence/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Print%20Longest%20Increasing%20Subsequence)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Print%20Longest%20Increasing%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -1665,14 +1665,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+LIS%20Using%20Binary%20Search)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+LIS%20Using%20Binary%20Search)
 - **Prerequisites**:
   - Requires: Basics of DP/Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -1702,13 +1702,13 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/largest-divisible-subset/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-divisible-subset/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Largest%20Divisible%20Subset)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Largest%20Divisible%20Subset)
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
@@ -1739,14 +1739,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-string-chain/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-string-chain/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20String%20Chain)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20String%20Chain)
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N + N * L)
 - **Space Complexity**: O(N)
@@ -1776,14 +1776,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-bitonic-subsequence/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Bitonic%20Subsequence)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Bitonic%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -1813,14 +1813,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-longest-increasing-subsequence/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Number%20of%20LIS)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20LIS)
 - **Prerequisites**:
   - Requires: Basics of DP on LIS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N)
@@ -1860,14 +1860,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/matrix-chain-multiplication/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Matrix%20Chain%20Multiplication)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Matrix%20Chain%20Multiplication)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^3)
 - **Space Complexity**: O(N^2)
@@ -1897,14 +1897,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-cost-to-cut-a-stick/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimum%20Cost%20to%20Cut%20a%20Stick)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Cost%20to%20Cut%20a%20Stick)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^3)
 - **Space Complexity**: O(N^2)
@@ -1934,14 +1934,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/burst-balloons/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/burst-balloons/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Burst%20Balloons)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Burst%20Balloons)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^3)
 - **Space Complexity**: O(N^2)
@@ -1971,14 +1971,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/boolean-parenthesization/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/boolean-parenthesization/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Evaluate%20Boolean%20Expression%20to%20True)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Evaluate%20Boolean%20Expression%20to%20True)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^3)
 - **Space Complexity**: O(N^2)
@@ -2008,14 +2008,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/palindrome-partitioning-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Palindrome%20Partitioning%20II)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Palindrome%20Partitioning%20II)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N^2)
@@ -2045,14 +2045,14 @@ Detailed progress tracker for Step 16 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/partition-array-for-maximum-sum/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/partition-array-for-maximum-sum/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Partition%20Array%20for%20Maximum%20Sum)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Partition%20Array%20for%20Maximum%20Sum)
 - **Prerequisites**:
   - Requires: Basics of Partition DP
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * K)
 - **Space Complexity**: O(N)

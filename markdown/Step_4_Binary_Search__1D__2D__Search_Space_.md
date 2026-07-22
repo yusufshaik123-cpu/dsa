@@ -14,14 +14,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/binary-search/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-search/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Binary%20Search)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Binary%20Search)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -51,14 +51,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/floor-in-a-sorted-array-1587115620/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Lower%20Bound%20Implementation)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Lower%20Bound%20Implementation)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -88,14 +88,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/ceil-the-floor2802/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Upper%20Bound%20Implementation)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Upper%20Bound%20Implementation)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -125,7 +125,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/search-insert-position/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-insert-position/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20Insert%20Position)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20Insert%20Position)
@@ -162,7 +162,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/ceil-the-floor2802/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Floor%20and%20Ceil%20in%20Sorted%20Array)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Floor%20and%20Ceil%20in%20Sorted%20Array)
@@ -199,13 +199,13 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-first-and-last-position-of-element-in-sorted-array/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+First%20and%20Last%20Occurrence%20of%20Key)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+First%20and%20Last%20Occurrence%20of%20Key)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
@@ -236,14 +236,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/number-of-occurrence2259/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Count%20Occurrences%20in%20Sorted%20Array)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Occurrences%20in%20Sorted%20Array)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -273,14 +273,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-in-rotated-sorted-array/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20in%20Rotated%20Sorted%20Array%20I)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20Rotated%20Sorted%20Array%20I)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -310,14 +310,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-in-rotated-sorted-array-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20in%20Rotated%20Sorted%20Array%20II)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20Rotated%20Sorted%20Array%20II)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -347,13 +347,13 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-minimum-in-rotated-sorted-array/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
@@ -384,14 +384,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/single-element-in-a-sorted-array/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Single%20Element%20in%20Sorted%20Array)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Single%20Element%20in%20Sorted%20Array)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -421,14 +421,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/find-peak-element/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-peak-element/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Peak%20Element)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Peak%20Element)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -468,14 +468,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/square-root/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/square-root/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Square%20Root%20of%20an%20Integer)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Square%20Root%20of%20an%20Integer)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -505,13 +505,13 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/find-nth-root-of-m5843/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Nth%20Root%20of%20an%20Integer)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Nth%20Root%20of%20an%20Integer)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
@@ -542,14 +542,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/koko-eating-bananas/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Koko%20Eating%20Bananas)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Koko%20Eating%20Bananas)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -579,14 +579,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-number-of-days-to-make-m-bouquets/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimum%20Days%20to%20Make%20M%20Bouquets)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Days%20to%20Make%20M%20Bouquets)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -616,14 +616,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-the-smallest-divisor-given-a-threshold/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Smallest%20Divisor%20Given%20a%20Threshold)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Smallest%20Divisor%20Given%20a%20Threshold)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -653,7 +653,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Capacity%20to%20Ship%20Packages%20Within%20D%20Days)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Capacity%20to%20Ship%20Packages%20Within%20D%20Days)
@@ -690,14 +690,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/kth-missing-positive-number/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kth%20Missing%20Positive%20Number)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kth%20Missing%20Positive%20Number)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(log N)
 - **Space Complexity**: O(1)
@@ -727,14 +727,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/aggressive-cows/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Aggressive%20Cows)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Aggressive%20Cows)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -764,14 +764,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/allocate-minimum-number-of-pages0937/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Book%20Allocation%20Problem)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Book%20Allocation%20Problem)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -801,14 +801,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/split-array-largest-sum/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/split-array-largest-sum/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Split%20Array%20Largest%20Sum)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Split%20Array%20Largest%20Sum)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log M)
 - **Space Complexity**: O(1)
@@ -838,7 +838,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/the-painters-partition-problem1535/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Painter's%20Partition)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Painter's%20Partition)
@@ -875,13 +875,13 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimize%20Max%20Distance%20to%20Gas%20Station)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimize%20Max%20Distance%20to%20Gas%20Station)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N log M)
@@ -912,13 +912,13 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/median-of-two-sorted-arrays/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Median%20of%20Two%20Sorted%20Arrays)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Median%20of%20Two%20Sorted%20Arrays)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(log(min(N,M)))
@@ -949,14 +949,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/k-th-element-of-two-sorted-array1317/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kth%20Element%20of%20Two%20Sorted%20Arrays)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kth%20Element%20of%20Two%20Sorted%20Arrays)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log(min(N,M)))
 - **Space Complexity**: O(1)
@@ -996,7 +996,7 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/row-with-max-1s0023/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Row%20with%20Max%201s)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Row%20with%20Max%201s)
@@ -1033,14 +1033,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-a-2d-matrix/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20in%20a%202D%20Matrix%20I)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20a%202D%20Matrix%20I)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(log(N*M))
 - **Space Complexity**: O(1)
@@ -1070,14 +1070,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/search-a-2d-matrix-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Search%20in%20a%202D%20Matrix%20II)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Search%20in%20a%202D%20Matrix%20II)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N + M)
 - **Space Complexity**: O(1)
@@ -1107,14 +1107,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/find-a-peak-element-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-a-peak-element-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Find%20Peak%20Element%20in%202D%20Matrix)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Find%20Peak%20Element%20in%202D%20Matrix)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(M log N)
 - **Space Complexity**: O(1)
@@ -1144,14 +1144,14 @@ Detailed progress tracker for Step 4 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/median-in-a-row-wise-sorted-matrix1527/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Median%20in%20Row-wise%20Sorted%20Matrix)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Median%20in%20Row-wise%20Sorted%20Matrix)
 - **Prerequisites**:
   - Requires: Basics of Binary Search
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(32 * N log M)
 - **Space Complexity**: O(1)

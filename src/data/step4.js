@@ -23,7 +23,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Binary%20Search"
           },
           "alternativeVideos": [
@@ -41,7 +41,7 @@ export const step4Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -91,7 +91,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Lower%20Bound%20Implementation"
           },
           "alternativeVideos": [
@@ -108,7 +108,7 @@ export const step4Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -158,7 +158,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Upper%20Bound%20Implementation"
           },
           "alternativeVideos": [
@@ -172,11 +172,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -226,7 +224,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Search%20Insert%20Position"
           },
           "alternativeVideos": [
@@ -292,7 +290,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Floor%20and%20Ceil%20in%20Sorted%20Array"
           },
           "alternativeVideos": [
@@ -358,7 +356,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+First%20and%20Last%20Occurrence%20of%20Key"
           },
           "alternativeVideos": [
@@ -373,8 +371,7 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "Very High",
           "solveTime": "30-60 mins",
@@ -426,7 +423,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Count%20Occurrences%20in%20Sorted%20Array"
           },
           "alternativeVideos": [
@@ -440,11 +437,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -494,7 +489,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Search%20in%20Rotated%20Sorted%20Array%20I"
           },
           "alternativeVideos": [
@@ -508,9 +503,11 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -560,7 +557,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Search%20in%20Rotated%20Sorted%20Array%20II"
           },
           "alternativeVideos": [
@@ -574,9 +571,11 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -626,7 +625,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Find%20Minimum%20in%20Rotated%20Sorted%20Array"
           },
           "alternativeVideos": [
@@ -641,7 +640,8 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -693,7 +693,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Single%20Element%20in%20Sorted%20Array"
           },
           "alternativeVideos": [
@@ -710,7 +710,7 @@ export const step4Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -760,7 +760,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Find%20Peak%20Element"
           },
           "alternativeVideos": [
@@ -774,10 +774,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -833,7 +832,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Square%20Root%20of%20an%20Integer"
           },
           "alternativeVideos": [
@@ -851,7 +850,7 @@ export const step4Data = {
             "Microsoft",
             "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -901,7 +900,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Nth%20Root%20of%20an%20Integer"
           },
           "alternativeVideos": [
@@ -915,7 +914,8 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
           "frequency": "Low",
           "solveTime": "20-30 mins",
@@ -967,7 +967,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Koko%20Eating%20Bananas"
           },
           "alternativeVideos": [
@@ -984,7 +984,7 @@ export const step4Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "Medium",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1034,7 +1034,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Minimum%20Days%20to%20Make%20M%20Bouquets"
           },
           "alternativeVideos": [
@@ -1049,9 +1049,10 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1101,7 +1102,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Smallest%20Divisor%20Given%20a%20Threshold"
           },
           "alternativeVideos": [
@@ -1116,9 +1117,10 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1168,7 +1170,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Capacity%20to%20Ship%20Packages%20Within%20D%20Days"
           },
           "alternativeVideos": [
@@ -1235,7 +1237,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Kth%20Missing%20Positive%20Number"
           },
           "alternativeVideos": [
@@ -1249,9 +1251,11 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "20-30 mins",
           "tc": "O(log N)",
           "sc": "O(1)",
@@ -1301,7 +1305,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Aggressive%20Cows"
           },
           "alternativeVideos": [
@@ -1315,10 +1319,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1368,7 +1371,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Book%20Allocation%20Problem"
           },
           "alternativeVideos": [
@@ -1385,7 +1388,7 @@ export const step4Data = {
             "Amazon",
             "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1435,7 +1438,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Split%20Array%20Largest%20Sum"
           },
           "alternativeVideos": [
@@ -1451,7 +1454,7 @@ export const step4Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(N log M)",
           "sc": "O(1)",
@@ -1501,7 +1504,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Painter's%20Partition"
           },
           "alternativeVideos": [
@@ -1569,7 +1572,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Minimize%20Max%20Distance%20to%20Gas%20Station"
           },
           "alternativeVideos": [
@@ -1583,7 +1586,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
           "frequency": "Low",
           "solveTime": "60-120 mins",
@@ -1635,7 +1640,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Median%20of%20Two%20Sorted%20Arrays"
           },
           "alternativeVideos": [
@@ -1649,8 +1654,7 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "High",
           "solveTime": "60-120 mins",
@@ -1702,7 +1706,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Kth%20Element%20of%20Two%20Sorted%20Arrays"
           },
           "alternativeVideos": [
@@ -1716,11 +1720,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft",
-            "Meta"
+            "Amazon"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(log(min(N,M)))",
           "sc": "O(1)",
@@ -1776,7 +1778,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Row%20with%20Max%201s"
           },
           "alternativeVideos": [
@@ -1842,7 +1844,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Search%20in%20a%202D%20Matrix%20I"
           },
           "alternativeVideos": [
@@ -1858,7 +1860,7 @@ export const step4Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(log(N*M))",
           "sc": "O(1)",
@@ -1908,7 +1910,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Search%20in%20a%202D%20Matrix%20II"
           },
           "alternativeVideos": [
@@ -1923,10 +1925,9 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N + M)",
           "sc": "O(1)",
@@ -1976,7 +1977,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Find%20Peak%20Element%20in%202D%20Matrix"
           },
           "alternativeVideos": [
@@ -1991,10 +1992,9 @@ export const step4Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
-          "frequency": "Very High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(M log N)",
           "sc": "O(1)",
@@ -2044,7 +2044,7 @@ export const step4Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Median%20in%20Row-wise%20Sorted%20Matrix"
           },
           "alternativeVideos": [
@@ -2058,10 +2058,9 @@ export const step4Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
-          "frequency": "High",
+          "frequency": "Medium",
           "solveTime": "60-120 mins",
           "tc": "O(32 * N log M)",
           "sc": "O(1)",

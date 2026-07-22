@@ -23,7 +23,7 @@ export const step18Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Segment%20Tree%20Range%20Query%20%26%20Node%20Update"
           },
           "alternativeVideos": [
@@ -37,8 +37,7 @@ export const step18Data = {
           ],
           "companies": [
             "Google",
-            "Amazon",
-            "Microsoft"
+            "Amazon"
           ],
           "frequency": "Very High",
           "solveTime": "30-60 mins",
@@ -90,7 +89,7 @@ export const step18Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Lazy%20Propagation%20Segment%20Tree"
           },
           "alternativeVideos": [
@@ -104,9 +103,11 @@ export const step18Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "High",
+          "frequency": "Low",
           "solveTime": "60-120 mins",
           "tc": "O(log N)",
           "sc": "O(N)",
@@ -156,7 +157,7 @@ export const step18Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Fenwick%20Tree%20Range%20Query%20%26%20Point%20Update"
           },
           "alternativeVideos": [

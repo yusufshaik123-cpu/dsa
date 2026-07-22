@@ -911,7 +911,7 @@ function expandProblem(prob, stepNum, topicNum, index) {
     primaryLink: primaryLink,
     alternativeLinks: alternativeLinks,
     striverSolution: {
-      article: `https://takeuforward.org/strivers-a2z-dsa-course/`,
+      article: `https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z`,
       video: `https://www.youtube.com/results?search_query=striver+${encodeURIComponent(prob.name)}`
     },
     alternativeVideos: [

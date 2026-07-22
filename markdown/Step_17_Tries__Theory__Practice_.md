@@ -14,13 +14,13 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implement-trie-prefix-tree/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Implement%20Trie%20I%20(Insert%2C%20Search%2C%20StartsWith))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Implement%20Trie%20I%20(Insert%2C%20Search%2C%20StartsWith))
 - **Prerequisites**:
   - Requires: Basics of Trie
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(L)
@@ -51,14 +51,14 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/trie-insert-and-search0651/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Implement%20Trie%20II%20(Insert%2C%20CountWords%2C%20Erase))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Implement%20Trie%20II%20(Insert%2C%20CountWords%2C%20Erase))
 - **Prerequisites**:
   - Requires: Basics of Trie
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(L)
 - **Space Complexity**: O(WordCount * L)
@@ -98,14 +98,14 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-word-with-all-prefixes/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Word%20With%20All%20Prefixes)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Word%20With%20All%20Prefixes)
 - **Prerequisites**:
   - Requires: Basics of Trie
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(Sum(L))
 - **Space Complexity**: O(Sum(L))
@@ -135,14 +135,14 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-distinct-substrings-in-a-string/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Number%20of%20Distinct%20Substrings)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20Distinct%20Substrings)
 - **Prerequisites**:
   - Requires: Basics of Trie
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(N^2)
@@ -172,14 +172,14 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20XOR%20of%20Two%20Numbers%20in%20Array)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20XOR%20of%20Two%20Numbers%20in%20Array)
 - **Prerequisites**:
   - Requires: Basics of Trie/Bitwise
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * 32)
 - **Space Complexity**: O(N * 32)
@@ -209,14 +209,14 @@ Detailed progress tracker for Step 17 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-xor-with-an-element-from-array/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20XOR%20With%20Element%20From%20Array)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20XOR%20With%20Element%20From%20Array)
 - **Prerequisites**:
   - Requires: Basics of Trie/Bitwise
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O((N+Q) * 32)
 - **Space Complexity**: O(N * 32)

@@ -14,14 +14,14 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/remove-outermost-parentheses/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Remove%20Outermost%20Parentheses)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Remove%20Outermost%20Parentheses)
 - **Prerequisites**:
   - Requires: Basics of String
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -51,14 +51,14 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/reverse-words-in-a-string/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Reverse%20Words%20in%20String)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Reverse%20Words%20in%20String)
 - **Prerequisites**:
   - Requires: Basics of String
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -88,13 +88,13 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/largest-odd-number-in-string/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-odd-number-in-string/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Largest%20Odd%20Number%20in%20String)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Largest%20Odd%20Number%20in%20String)
 - **Prerequisites**:
   - Requires: Basics of String
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -125,14 +125,14 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-common-prefix/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-common-prefix/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Common%20Prefix)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Common%20Prefix)
 - **Prerequisites**:
   - Requires: Basics of String
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(1)
@@ -162,14 +162,14 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/isomorphic-strings/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/isomorphic-strings/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Isomorphic%20Strings)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Isomorphic%20Strings)
 - **Prerequisites**:
   - Requires: Basics of String/HashMap
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -199,14 +199,14 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/rotate-string/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/rotate-string/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Rotate%20String)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Rotate%20String)
 - **Prerequisites**:
   - Requires: Basics of String
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -236,14 +236,14 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/valid-anagram/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/valid-anagram/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Valid%20Anagram)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Valid%20Anagram)
 - **Prerequisites**:
   - Requires: Basics of String/HashMap
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -283,14 +283,14 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/sort-characters-by-frequency/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Sort%20Characters%20By%20Frequency)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Sort%20Characters%20By%20Frequency)
 - **Prerequisites**:
   - Requires: Basics of String/Hashing
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
 - **Space Complexity**: O(N)
@@ -320,13 +320,13 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-nesting-depth-of-the-parentheses/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20Nesting%20Depth%20of%20Parentheses)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20Nesting%20Depth%20of%20Parentheses)
 - **Prerequisites**:
   - Requires: Basics of String
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -357,13 +357,13 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/roman-to-integer/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/roman-to-integer/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Roman%20to%20Integer)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Roman%20to%20Integer)
 - **Prerequisites**:
   - Requires: Basics of String
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N)
@@ -394,13 +394,13 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/integer-to-roman/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/integer-to-roman/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Integer%20to%20Roman)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Integer%20to%20Roman)
 - **Prerequisites**:
   - Requires: Basics of String
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(1)
@@ -431,14 +431,14 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/string-to-integer-atoi/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Implement%20Await%20(String%20to%20Integer))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Implement%20Await%20(String%20to%20Integer))
 - **Prerequisites**:
   - Requires: Basics of String/Math
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -468,13 +468,13 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/subarrays-with-k-different-integers/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Count%20Substrings%20with%20K%20Distinct%20Chars)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Substrings%20with%20K%20Distinct%20Chars)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
@@ -505,14 +505,14 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-palindromic-substring/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Palindromic%20Substring)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Palindromic%20Substring)
 - **Prerequisites**:
   - Requires: Basics of String/DP
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(1)
@@ -542,14 +542,14 @@ Detailed progress tracker for Step 5 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Sum%20of%20Beauty%20of%20All%20Substrings)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Sum%20of%20Beauty%20of%20All%20Substrings)
 - **Prerequisites**:
   - Requires: Basics of String
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N^2)
 - **Space Complexity**: O(1)

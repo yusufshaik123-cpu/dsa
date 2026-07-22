@@ -14,14 +14,14 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-substring-without-repeating-characters/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Substring%20Without%20Repeating%20Characters)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Substring%20Without%20Repeating%20Characters)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(min(M, N))
@@ -51,14 +51,14 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/max-consecutive-ones-iii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Max%20Consecutive%20Ones%20III)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Max%20Consecutive%20Ones%20III)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -88,14 +88,14 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/fruit-into-baskets/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/fruit-into-baskets/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Fruit%20Into%20Baskets)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Fruit%20Into%20Baskets)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -125,14 +125,14 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Repeating%20Character%20Replacement)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Repeating%20Character%20Replacement)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -162,14 +162,14 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/binary-subarrays-with-sum/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-subarrays-with-sum/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Binary%20Subarrays%20With%20Sum)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Binary%20Subarrays%20With%20Sum)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -199,7 +199,7 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/count-number-of-nice-subarrays/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/count-number-of-nice-subarrays/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Count%20Number%20of%20Nice%20Subarrays)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Count%20Number%20of%20Nice%20Subarrays)
@@ -236,14 +236,14 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-substrings-containing-all-three-characters/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Number%20of%20Substrings%20Containing%20All%20Three%20Chars)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20Substrings%20Containing%20All%20Three%20Chars)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(1)
@@ -273,14 +273,14 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/maximum-points-you-can-obtain-from-cards/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(K)
 - **Space Complexity**: O(1)
@@ -320,13 +320,13 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/longest-k-unique-characters-substring0853/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Chars)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Chars)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
@@ -357,7 +357,7 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/subarrays-with-k-different-integers/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Subarrays%20with%20K%20Different%20Integers)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Subarrays%20with%20K%20Different%20Integers)
@@ -394,13 +394,13 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimum-window-substring/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-window-substring/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimum%20Window%20Substring)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Window%20Substring)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N)
@@ -431,14 +431,14 @@ Detailed progress tracker for Step 10 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimum-window-subsequence/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Minimum%20Window%20Subsequence)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Minimum%20Window%20Subsequence)
 - **Prerequisites**:
   - Requires: Basics of Sliding Window
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(1)

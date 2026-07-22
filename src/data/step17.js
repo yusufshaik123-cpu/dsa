@@ -23,7 +23,7 @@ export const step17Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Implement%20Trie%20I%20(Insert%2C%20Search%2C%20StartsWith)"
           },
           "alternativeVideos": [
@@ -38,8 +38,7 @@ export const step17Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft",
-            "Meta"
+            "Microsoft"
           ],
           "frequency": "Medium",
           "solveTime": "30-60 mins",
@@ -91,7 +90,7 @@ export const step17Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Implement%20Trie%20II%20(Insert%2C%20CountWords%2C%20Erase)"
           },
           "alternativeVideos": [
@@ -107,7 +106,7 @@ export const step17Data = {
             "Google",
             "Amazon"
           ],
-          "frequency": "Very High",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(L)",
           "sc": "O(WordCount * L)",
@@ -163,7 +162,7 @@ export const step17Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Longest%20Word%20With%20All%20Prefixes"
           },
           "alternativeVideos": [
@@ -177,9 +176,10 @@ export const step17Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft"
           ],
-          "frequency": "Low",
+          "frequency": "High",
           "solveTime": "30-60 mins",
           "tc": "O(Sum(L))",
           "sc": "O(Sum(L))",
@@ -229,7 +229,7 @@ export const step17Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Number%20of%20Distinct%20Substrings"
           },
           "alternativeVideos": [
@@ -244,9 +244,10 @@ export const step17Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Low",
           "solveTime": "30-60 mins",
           "tc": "O(N^2)",
           "sc": "O(N^2)",
@@ -296,7 +297,7 @@ export const step17Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Maximum%20XOR%20of%20Two%20Numbers%20in%20Array"
           },
           "alternativeVideos": [
@@ -311,9 +312,10 @@ export const step17Data = {
           "companies": [
             "Google",
             "Amazon",
-            "Microsoft"
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "30-60 mins",
           "tc": "O(N * 32)",
           "sc": "O(N * 32)",
@@ -363,7 +365,7 @@ export const step17Data = {
             }
           ],
           "striverSolution": {
-            "article": "https://takeuforward.org/strivers-a2z-dsa-course/",
+            "article": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
             "video": "https://www.youtube.com/results?search_query=striver+Maximum%20XOR%20With%20Element%20From%20Array"
           },
           "alternativeVideos": [
@@ -377,9 +379,11 @@ export const step17Data = {
           ],
           "companies": [
             "Google",
-            "Amazon"
+            "Amazon",
+            "Microsoft",
+            "Meta"
           ],
-          "frequency": "Medium",
+          "frequency": "Very High",
           "solveTime": "60-120 mins",
           "tc": "O((N+Q) * 32)",
           "sc": "O(N * 32)",

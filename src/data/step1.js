@@ -252,9 +252,9 @@ export const step1Data = {
           name: `Pattern ${pNum}`,
           difficulty: "Easy",
           pattern: "Loops",
-          primaryLink: `https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/ + idx}`,
+          primaryLink: "https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/",
           alternativeLinks: [
-            { platform: "GeeksforGeeks", link: `https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/ + idx}` }
+            { platform: "GeeksforGeeks", link: "https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/" }
           ],
           striverSolution: {
             article: "https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/",

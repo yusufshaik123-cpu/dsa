@@ -14,14 +14,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/print-adjacency-list/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/print-adjacency-list/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Graph%20Representation)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Graph%20Representation)
 - **Prerequisites**:
   - Requires: Basics of Graph
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V + E)
@@ -51,14 +51,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/bfs-traversal-of-graph/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Breadth%20First%20Search%20(BFS))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Breadth%20First%20Search%20(BFS))
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -88,14 +88,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/dfs-traversal-of-graph/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/dfs-traversal-of-graph/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Depth%20First%20Search%20(DFS))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Depth%20First%20Search%20(DFS))
 - **Prerequisites**:
   - Requires: Basics of DFS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -135,13 +135,13 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/number-of-provinces/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-provinces/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Number%20of%20Provinces)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20Provinces)
 - **Prerequisites**:
   - Requires: Basics of BFS/DFS
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V^2)
@@ -172,14 +172,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/rotting-oranges/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/rotting-oranges/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Rotting%20Oranges)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Rotting%20Oranges)
 - **Prerequisites**:
   - Requires: Basics of BFS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -209,14 +209,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/flood-fill/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/flood-fill/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Flood%20Fill)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Flood%20Fill)
 - **Prerequisites**:
   - Requires: Basics of DFS
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -246,14 +246,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/detect-cycle-in-an-undirected-graph/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Cycle%20Detection%20Undirected%20(BFS))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Cycle%20Detection%20Undirected%20(BFS))
 - **Prerequisites**:
   - Requires: Basics of BFS
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Very High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -283,14 +283,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/detect-cycle-in-an-undirected-graph-dfs/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph-dfs/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Cycle%20Detection%20Undirected%20(DFS))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Cycle%20Detection%20Undirected%20(DFS))
 - **Prerequisites**:
   - Requires: Basics of DFS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -320,14 +320,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/01-matrix/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/01-matrix/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+0%2F1%20Matrix%20(Distance%20to%20Nearest%200))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+0%2F1%20Matrix%20(Distance%20to%20Nearest%200))
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -357,14 +357,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/surrounded-regions/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/surrounded-regions/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Surrounded%20Regions)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Surrounded%20Regions)
 - **Prerequisites**:
   - Requires: Basics of DFS
 - **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -394,14 +394,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/number-of-enclaves/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-enclaves/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Number%20of%20Enclaves)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20Enclaves)
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -431,7 +431,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/word-ladder/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/word-ladder/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Word%20Ladder%20I)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Word%20Ladder%20I)
@@ -468,14 +468,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/word-ladder-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/word-ladder-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Word%20Ladder%20II)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Word%20Ladder%20II)
 - **Prerequisites**:
   - Requires: Basics of BFS/Backtracking
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(Exponential)
 - **Space Complexity**: O(Exponential)
@@ -505,13 +505,13 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/detect-cycle-in-a-directed-graph/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Cycle%20Detection%20Directed%20(DFS))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Cycle%20Detection%20Directed%20(DFS))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
@@ -542,14 +542,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/topological-sort/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/topological-sort/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Topological%20Sort%20(DFS))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Topological%20Sort%20(DFS))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -579,14 +579,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/topological-sort-kahns/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/topological-sort-kahns/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kahn's%20Algorithm%20(Topological%20Sort%20BFS))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kahn's%20Algorithm%20(Topological%20Sort%20BFS))
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -616,14 +616,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/detect-cycle-in-directed-bfs/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-directed-bfs/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Cycle%20Detection%20Directed%20(BFS))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Cycle%20Detection%20Directed%20(BFS))
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -663,14 +663,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/shortest-path-in-directed-acyclic-graph/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Shortest%20Path%20in%20DAG)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Shortest%20Path%20in%20DAG)
 - **Prerequisites**:
   - Requires: Basics of Topological Sort
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon, Microsoft, Meta
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -700,7 +700,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/shortest-path-in-undirected-graph-having-unit-distance/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Shortest%20Path%20in%20Undirected%20Graph)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Shortest%20Path%20in%20Undirected%20Graph)
@@ -737,14 +737,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/implementing-dijkstra-set-1-adjacency-matrix/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Dijkstra's%20Algorithm)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Dijkstra's%20Algorithm)
 - **Prerequisites**:
   - Requires: Basics of Priority Queue
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(E log V)
 - **Space Complexity**: O(V)
@@ -774,14 +774,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/shortest-path-in-binary-matrix/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Shortest%20Path%20in%20Binary%20Matrix)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Shortest%20Path%20in%20Binary%20Matrix)
 - **Prerequisites**:
   - Requires: Basics of BFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M)
 - **Space Complexity**: O(N * M)
@@ -811,13 +811,13 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/path-with-minimum-effort/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/path-with-minimum-effort/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Path%20with%20Minimum%20Effort)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Path%20with%20Minimum%20Effort)
 - **Prerequisites**:
   - Requires: Basics of Dijkstra
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon, Microsoft
 - **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N * M log(N*M))
@@ -848,14 +848,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Cheapest%20Flights%20Within%20K%20Stops)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Cheapest%20Flights%20Within%20K%20Stops)
 - **Prerequisites**:
   - Requires: Basics of BFS/Dijkstra
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -885,14 +885,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/network-delay-time/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/network-delay-time/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Network%20Delay%20Time)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Network%20Delay%20Time)
 - **Prerequisites**:
   - Requires: Basics of Dijkstra
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(E log V)
 - **Space Complexity**: O(V)
@@ -922,14 +922,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-ways-to-arrive-at-destination/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Number%20of%20Ways%20to%20Arrive%20at%20Destination)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20Ways%20to%20Arrive%20at%20Destination)
 - **Prerequisites**:
   - Requires: Basics of Dijkstra
 - **Companies**: Google, Amazon
-- **Interview Frequency**: Medium
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(E log V)
 - **Space Complexity**: O(V)
@@ -959,14 +959,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/distance-from-the-source-bellman-ford-vector/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-vector/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Bellman%20Ford%20Algorithm)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Bellman%20Ford%20Algorithm)
 - **Prerequisites**:
   - Requires: Basics of Graph
-- **Companies**: Google, Amazon
-- **Interview Frequency**: Low
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V * E)
 - **Space Complexity**: O(V)
@@ -996,13 +996,13 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/floyd-warshall/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/floyd-warshall/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Floyd%20Warshall%20Algorithm)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Floyd%20Warshall%20Algorithm)
 - **Prerequisites**:
   - Requires: Basics of Matrix
-- **Companies**: Google, Amazon
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V^3)
@@ -1043,14 +1043,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimum-spanning-tree-prims/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-spanning-tree-prims/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Prim's%20Algorithm%20(Minimum%20Spanning%20Tree))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Prim's%20Algorithm%20(Minimum%20Spanning%20Tree))
 - **Prerequisites**:
   - Requires: Basics of Dijkstra
 - **Companies**: Google, Amazon
-- **Interview Frequency**: High
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(E log V)
 - **Space Complexity**: O(V)
@@ -1080,14 +1080,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/minimum-spanning-tree-kruskals/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/minimum-spanning-tree-kruskals/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kruskal's%20Algorithm)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kruskal's%20Algorithm)
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(E log V)
 - **Space Complexity**: O(V)
@@ -1117,14 +1117,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/disjoint-set-union-find/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Disjoint%20Set%20(Union-Find))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Disjoint%20Set%20(Union-Find))
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Very High
 - **Estimated Solve Time**: 20-30 mins
 - **Time Complexity**: O(Alpha(N))
 - **Space Complexity**: O(N)
@@ -1154,14 +1154,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-operations-to-make-network-connected/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Operations%20to%20Make%20Network%20Connected)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Operations%20to%20Make%20Network%20Connected)
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon, Microsoft
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -1191,14 +1191,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/most-stones-removed-with-same-row-or-column/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N)
 - **Space Complexity**: O(N)
@@ -1228,13 +1228,13 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/accounts-merge/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/accounts-merge/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Accounts%20Merge)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Accounts%20Merge)
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
-- **Companies**: Google, Amazon, Microsoft
+- **Companies**: Google, Amazon, Microsoft, Meta
 - **Interview Frequency**: High
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(N log N)
@@ -1265,14 +1265,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/number-of-islands-ii/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-of-islands-ii/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Number%20of%20Islands%20II)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Number%20of%20Islands%20II)
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
 - **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: High
+- **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(Q * Alpha(V))
 - **Space Complexity**: O(V)
@@ -1302,13 +1302,13 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/making-a-large-island/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/making-a-large-island/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Making%20a%20Large%20Island)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Making%20a%20Large%20Island)
 - **Prerequisites**:
   - Requires: Basics of Disjoint Set
-- **Companies**: Google, Amazon, Microsoft, Meta
+- **Companies**: Google, Amazon
 - **Interview Frequency**: Low
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(N^2)
@@ -1349,14 +1349,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/critical-connections-in-a-network/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/critical-connections-in-a-network/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Bridges%20in%20Graph%20(Tarjan's))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Bridges%20in%20Graph%20(Tarjan's))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft
-- **Interview Frequency**: Medium
+- **Companies**: Google, Amazon
+- **Interview Frequency**: High
 - **Estimated Solve Time**: 60-120 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
@@ -1386,7 +1386,7 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/articulation-point-1/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/articulation-point-1/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Articulation%20Points%20in%20Graph)
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Articulation%20Points%20in%20Graph)
@@ -1423,14 +1423,14 @@ Detailed progress tracker for Step 15 of the Striver A2Z DSA Sheet.
   - [LeetCode](https://leetcode.com/problems/strongly-connected-components-kosarajus-algo/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
 - **Striver Solution**:
-  - [TakeUForward Article](https://takeuforward.org/strivers-a2z-dsa-course/)
+  - [TakeUForward Article](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
   - [Striver YouTube Video](https://www.youtube.com/results?search_query=striver+Kosaraju's%20Algorithm%20(SCC))
 - **Alternative Video Resources**:
   - [NeetCode](https://www.youtube.com/results?search_query=neetcode+Kosaraju's%20Algorithm%20(SCC))
 - **Prerequisites**:
   - Requires: Basics of DFS
-- **Companies**: Google, Amazon, Microsoft, Meta
-- **Interview Frequency**: Very High
+- **Companies**: Google, Amazon
+- **Interview Frequency**: Medium
 - **Estimated Solve Time**: 30-60 mins
 - **Time Complexity**: O(V + E)
 - **Space Complexity**: O(V)
